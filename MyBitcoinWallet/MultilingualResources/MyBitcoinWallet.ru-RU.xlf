@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="ru-RU" original="MYBITCOINWALLET/STRINGS/EN-US/RESOURCES.RESW" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="MYBITCOINWALLET/STRINGS/EN-US/RESOURCES.RESW" datatype="resx">
+        <trans-unit id="AccountsTab.Label" translate="yes" xml:space="preserve">
+          <source>Wallets</source>
+          <target state="final" state-qualifier="mt-suggestion">Кошельки</target>
+        </trans-unit>
+        <trans-unit id="FingerprintMessage" translate="yes" xml:space="preserve">
+          <source>Unlock your wallets</source>
+          <target state="final" state-qualifier="mt-suggestion">Разблокировать ваши кошельки</target>
+        </trans-unit>
+        <trans-unit id="RepeatPinCode" translate="yes" xml:space="preserve">
+          <source>Repeat PIN code</source>
+          <target state="final" state-qualifier="mt-suggestion">Повторите PIN-код</target>
+        </trans-unit>
+        <trans-unit id="SettingsTab.Label" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="final">Настройки</target>
+        </trans-unit>
+        <trans-unit id="SetYourPinCode" translate="yes" xml:space="preserve">
+          <source>Enter PIN code</source>
+          <target state="final" state-qualifier="mt-suggestion">Введите PIN-код</target>
+        </trans-unit>
+        <trans-unit id="Success" translate="yes" xml:space="preserve">
+          <source>Success!</source>
+          <target state="translated">Успех!</target>
+        </trans-unit>
+        <trans-unit id="UseFingerprint" translate="yes" xml:space="preserve">
+          <source>Use fingerprint</source>
+          <target state="translated">Использовать отпечаток</target>
+        </trans-unit>
+        <trans-unit id="UseFingerprintTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Use fingerprint</source>
+          <target state="translated">Использовать отпечаток</target>
+        </trans-unit>
+        <trans-unit id="WrongPinTryAgain" translate="yes" xml:space="preserve">
+          <source>Wrong PIN. Try again.</source>
+          <target state="final" state-qualifier="mt-suggestion">Неправильный PIN-код. Повторить.</target>
+        </trans-unit>
+        <trans-unit id="LockApp" translate="yes" xml:space="preserve">
+          <source>Lock App</source>
+          <target state="translated">Блокировка приложения</target>
+        </trans-unit>
+        <trans-unit id="LockAppDescription" translate="yes" xml:space="preserve">
+          <source>PIN, fingerprint</source>
+          <target state="translated">PIN-код, отпечаток пальца</target>
+        </trans-unit>
+        <trans-unit id="AddWallet" translate="yes" xml:space="preserve">
+          <source>Add wallet</source>
+          <target state="translated">Добавить кошелёк</target>
+        </trans-unit>
+        <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
+          <source>Personal</source>
+          <target state="translated">Личный</target>
+        </trans-unit>
+        <trans-unit id="NewPersonalWalletTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>New personal wallet</source>
+          <target state="final" state-qualifier="mt-suggestion">Новый личный кошелек</target>
+        </trans-unit>
+        <trans-unit id="PrivateKeyTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Private key</source>
+          <target state="final" state-qualifier="tm-suggestion">Закрытый ключ</target>
+        </trans-unit>
+        <trans-unit id="CreateNewWalletButton.Text" translate="yes" xml:space="preserve">
+          <source>Create new wallet</source>
+          <target state="translated">Создать новый кошелёк</target>
+        </trans-unit>
+        <trans-unit id="WalletNameTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Wallet name</source>
+          <target state="final" state-qualifier="mt-suggestion">Имя кошелька</target>
+        </trans-unit>
+        <trans-unit id="WalletNameTextBox.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>My car fund</source>
+          <target state="translated">Мой автомобильный фонд</target>
+        </trans-unit>
+        <trans-unit id="UseTestNetTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Use Testnet</source>
+          <target state="translated">Использовать Testnet</target>
+        </trans-unit>
+        <trans-unit id="ContributeTranslationText" translate="yes" xml:space="preserve">
+          <source>We're always looking for translation contributions! You can make corrections or help to make this app available in your language by joining our community on GitHub</source>
+          <target state="translated">Мы вседа рады помощи в переводе приложения! Вы можете внести исправления или помочь сделать это приложение доступным на вашем языке, присоединившись к нашему сообществу на GitHub</target>
+        </trans-unit>
+        <trans-unit id="ContributeTranslationCommandCommandText" translate="yes" xml:space="preserve">
+          <source>Contribute translation</source>
+          <target state="final">Помочь в переводе</target>
+        </trans-unit>
+        <trans-unit id="Language" translate="yes" xml:space="preserve">
+          <source>Language</source>
+          <target state="translated">Язык</target>
+        </trans-unit>
+        <trans-unit id="WalletBackupMessage" translate="yes" xml:space="preserve">
+          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</source>
+          <target state="translated">Пароля и мнемоники достаточно, чтобы восстановить кошелёк. Держите их в секрете. Кусок бумаги в безопасном хранилище является хорошей идеей. Менеджер паролей, pt. KeePass например, тоже хорошая идея.</target>
+        </trans-unit>
+        <trans-unit id="PasswordsAreNotTheSame" translate="yes" xml:space="preserve">
+          <source>Passwords are not the same.</source>
+          <target state="translated">Пароли не совпадают.</target>
+        </trans-unit>
+        <trans-unit id="EnterPassword" translate="yes" xml:space="preserve">
+          <source>Enter the restoring password.</source>
+          <target state="translated">Введите пароль восстановления.</target>
+        </trans-unit>
+        <trans-unit id="WalletBackupMessageTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</source>
+          <target state="translated">Пароля и мнемоники достаточно, чтобы восстановить кошелёк. Держите их в секрете. Кусок бумаги в безопасном хранилище является хорошей идеей. Менеджер паролей, pt. KeePass например, тоже хорошая идея.</target>
+        </trans-unit>
+        <trans-unit id="CopyMnemonicToClipboardButton.Text" translate="yes" xml:space="preserve">
+          <source>Copy the mnemonic to clipboard</source>
+          <target state="translated">Скопировать мнемонику в буфер обмена</target>
+        </trans-unit>
+        <trans-unit id="WalletPasswordRepeatTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Repeat</source>
+          <target state="translated">Повторить</target>
+        </trans-unit>
+        <trans-unit id="WalletPasswordTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target state="translated">Пароль</target>
+        </trans-unit>
+        <trans-unit id="ShowHideMnemonicButton.Text" translate="yes" xml:space="preserve">
+          <source>Show/hide the mnemonic</source>
+          <target state="translated">Показать/скрыть мнемонику</target>
+        </trans-unit>
+        <trans-unit id="MnemonicLanguageTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Mnemonic language</source>
+          <target state="translated">Язык мнемоники</target>
+        </trans-unit>
+        <trans-unit id="CopiedTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Copied</source>
+          <target state="translated">Скопировано</target>
+        </trans-unit>
+        <trans-unit id="GenerateNewMnemonicToClipboardButton.Text" translate="yes" xml:space="preserve">
+          <source>Regenerate the mnemonic</source>
+          <target state="translated">Обновить мнемонику</target>
+        </trans-unit>
+        <trans-unit id="ReceiveCoinsPageTab.Label" translate="yes" xml:space="preserve">
+          <source>Receive</source>
+          <target state="translated">Пополнить</target>
+        </trans-unit>
+        <trans-unit id="ErrorGetAccount" translate="yes" xml:space="preserve">
+          <source>Error on getting the account from DB. Try again later. We investigate it. System message in case you need it:</source>
+          <target state="translated">Ошибка при получении кошелька из БД. Попробуйте поозднее. Мы исследуем проблему. Системное сообщение, если вам это нужно:</target>
+        </trans-unit>
+        <trans-unit id="PublicAddressInfo.Text" translate="yes" xml:space="preserve">
+          <source>We constantly update the public address to make it more difficult for third parties to track your assets. Funds transferred to any generated address will be available.</source>
+          <target state="final">Мы постоянно обновляем публичный адрес для усложнения отслеживания ваших активов третьими лицами. Переведенные на любой сгенерированный ранее адрес средства будут доступны.</target>
+        </trans-unit>
+        <trans-unit id="ReceiveCoinsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Receive</source>
+          <target state="translated">Пополнить</target>
+        </trans-unit>
+        <trans-unit id="ErrorGetBalance" translate="yes" xml:space="preserve">
+          <source>Error on getting the balance. Try again later. We investigate it. System message in case you need it:</source>
+          <target state="final">Ошибка при получении баланса. Повторите попытку позже. Мы разбиремся. Системное сообщение в случае необходимости:</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalanceButton.Text" translate="yes" xml:space="preserve">
+          <source>Update balance</source>
+          <target state="final">Обновить баланс</target>
+        </trans-unit>
+        <trans-unit id="UpdatingBalance" translate="yes" xml:space="preserve">
+          <source>Updating balance...</source>
+          <target state="final">Обновление баланса...</target>
+        </trans-unit>
+        <trans-unit id="UpdateButton.Text" translate="yes" xml:space="preserve">
+          <source>Update</source>
+          <target state="translated">Обновить</target>
+        </trans-unit>
+        <trans-unit id="Main" translate="yes" xml:space="preserve">
+          <source>Main</source>
+          <target state="translated">Главная</target>
+        </trans-unit>
+        <trans-unit id="Send" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="translated">Отправить</target>
+        </trans-unit>
+        <trans-unit id="SendCoinsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="translated">Отправить</target>
+        </trans-unit>
+        <trans-unit id="InvalidBitcoinAddress" translate="yes" xml:space="preserve">
+          <source>Invalid bitcoin address. Test network wallets are not able to sent coins to the Main network &amp; vice versa.</source>
+          <target state="translated">Неправильный биткоин-адрес. Тестовые сетевые кошельки не могут отправлять монеты в основную сеть и наоборот.</target>
+        </trans-unit>
+        <trans-unit id="RecipientTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Recipient</source>
+          <target state="translated">Получатель</target>
+        </trans-unit>
+        <trans-unit id="BitcoinAddressTextBox.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Bitcoin address</source>
+          <target state="translated">Биткоин-адрес</target>
+        </trans-unit>
+        <trans-unit id="ReadyTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Ready</source>
+          <target state="translated">Готово</target>
+        </trans-unit>
+        <trans-unit id="Amount" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="translated">Сумма</target>
+        </trans-unit>
+        <trans-unit id="FeeEconomy" translate="yes" xml:space="preserve">
+          <source>Economy</source>
+          <target state="translated">Эконом</target>
+        </trans-unit>
+        <trans-unit id="FeeNormal" translate="yes" xml:space="preserve">
+          <source>Normal</source>
+          <target state="translated">Обычный</target>
+        </trans-unit>
+        <trans-unit id="FeePriority" translate="yes" xml:space="preserve">
+          <source>Priority</source>
+          <target state="translated">Приоритет</target>
+        </trans-unit>
+        <trans-unit id="FeeSuperEconomy" translate="yes" xml:space="preserve">
+          <source>Super economy</source>
+          <target state="translated">Супер эконом</target>
+        </trans-unit>
+        <trans-unit id="FeeUrgent" translate="yes" xml:space="preserve">
+          <source>Urgent</source>
+          <target state="translated">Срочный</target>
+        </trans-unit>
+        <trans-unit id="TransactionIsNotVerified" translate="yes" xml:space="preserve">
+          <source>Can not verify your transaction. Try again or change fee policy.</source>
+          <target state="translated">Невоможно проверить транзакцию. Попробуйте снова или измените политику сетевой комиссии.</target>
+        </trans-unit>
+        <trans-unit id="FromTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="translated">Откуда</target>
+        </trans-unit>
+        <trans-unit id="ToTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>To</source>
+          <target state="translated">Куда</target>
+        </trans-unit>
+        <trans-unit id="DeveloperSupport.Text" translate="yes" xml:space="preserve">
+          <source>Developer support</source>
+          <target state="translated">Поддержка разработчика</target>
+        </trans-unit>
+        <trans-unit id="EstimatedFeeLabelTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Estimated fee</source>
+          <target state="translated">Оценка коммисии сети</target>
+        </trans-unit>
+        <trans-unit id="EstimatedProcessingTimeLabelTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Estimated processing time</source>
+          <target state="translated">Оценка времени обработки</target>
+        </trans-unit>
+        <trans-unit id="NetworkFeePolicy.Text" translate="yes" xml:space="preserve">
+          <source>Network fee policy</source>
+          <target state="translated">Политика сетевой комиссии</target>
+        </trans-unit>
+        <trans-unit id="AmountTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="translated">Сумма</target>
+        </trans-unit>
+        <trans-unit id="NotEnoughCoins" translate="yes" xml:space="preserve">
+          <source>Not enough funds</source>
+          <target state="translated">Политика сетевой комиссии</target>
+        </trans-unit>
+        <trans-unit id="CantParseTheAmountValue" translate="yes" xml:space="preserve">
+          <source>Can't parse the amount value. Try to change the decimal separator</source>
+          <target state="translated">Не удалось получение значение суммы. Попробуйте изменить символ разделитель</target>
+        </trans-unit>
+        <trans-unit id="TotalTextBox.Text" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target state="translated">Итого</target>
+        </trans-unit>
+        <trans-unit id="ErrorNoAccount" translate="yes" xml:space="preserve">
+          <source>There is no account to send coins to the address from network. Network type:</source>
+          <target state="new">There is no account to send coins to the address from network. Network type:</target>
+        </trans-unit>
+        <trans-unit id="Mainnet" translate="yes" xml:space="preserve">
+          <source>Main network</source>
+          <target state="new">Main network</target>
+        </trans-unit>
+        <trans-unit id="Testnet" translate="yes" xml:space="preserve">
+          <source>Test network</source>
+          <target state="new">Test network</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en" original="PT.BTC/RESOURCES/STRINGS/STRINGS.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="PT.BTC/RESOURCES/STRINGS/STRINGS.RESX" datatype="resx">
+        <trans-unit id="FingerprintMessage" translate="yes" xml:space="preserve">
+          <source>Unlock your wallets</source>
+          <target state="final">Unlock your wallets</target>
+        </trans-unit>
+        <trans-unit id="LockApp" translate="yes" xml:space="preserve">
+          <source>Lock App</source>
+          <target state="final">Lock App</target>
+        </trans-unit>
+        <trans-unit id="LockAppDescription" translate="yes" xml:space="preserve">
+          <source>PIN, fingerprint</source>
+          <target state="final">PIN, fingerprint</target>
+        </trans-unit>
+        <trans-unit id="RepeatPinCode" translate="yes" xml:space="preserve">
+          <source>Repeat PIN code</source>
+          <target state="final">Repeat PIN code</target>
+        </trans-unit>
+        <trans-unit id="Settings" translate="yes" xml:space="preserve">
+          <source>Settings</source>
+          <target state="final">Settings</target>
+        </trans-unit>
+        <trans-unit id="SetYourPinCode" translate="yes" xml:space="preserve">
+          <source>Enter PIN code</source>
+          <target state="final">Enter PIN code</target>
+        </trans-unit>
+        <trans-unit id="Success" translate="yes" xml:space="preserve">
+          <source>Success!</source>
+          <target state="final">Success!</target>
+        </trans-unit>
+        <trans-unit id="UseFingerprint" translate="yes" xml:space="preserve">
+          <source>Use fingerprint</source>
+          <target state="final">Use fingerprint</target>
+        </trans-unit>
+        <trans-unit id="Wallets" translate="yes" xml:space="preserve">
+          <source>Wallets</source>
+          <target state="final">Wallets</target>
+        </trans-unit>
+        <trans-unit id="WrongPinTryAgain" translate="yes" xml:space="preserve">
+          <source>Wrong PIN. Try again.</source>
+          <target state="final">Wrong PIN. Try again.</target>
+        </trans-unit>
+        <trans-unit id="AddWallet" translate="yes" xml:space="preserve">
+          <source>Add wallet</source>
+          <target state="final">Add wallet</target>
+        </trans-unit>
+        <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
+          <source>Personal</source>
+          <target state="final">Personal</target>
+        </trans-unit>
+        <trans-unit id="NewPersonalWallet" translate="yes" xml:space="preserve">
+          <source>New personal wallet</source>
+          <target state="final">New personal wallet</target>
+        </trans-unit>
+        <trans-unit id="PrivateKey" translate="yes" xml:space="preserve">
+          <source>Private key</source>
+          <target state="final">Private key</target>
+        </trans-unit>
+        <trans-unit id="WalletName" translate="yes" xml:space="preserve">
+          <source>Wallet name</source>
+          <target state="final">Wallet name</target>
+        </trans-unit>
+        <trans-unit id="WalletNamePlaceholder" translate="yes" xml:space="preserve">
+          <source>My car fund</source>
+          <target state="final">My car fund</target>
+        </trans-unit>
+        <trans-unit id="CreateNewWallet" translate="yes" xml:space="preserve">
+          <source>Create new wallet</source>
+          <target state="final">Create new wallet</target>
+        </trans-unit>
+        <trans-unit id="WalletSettings" translate="yes" xml:space="preserve">
+          <source>Wallet settings</source>
+          <target state="final">Wallet settings</target>
+        </trans-unit>
+        <trans-unit id="UseTestNet" translate="yes" xml:space="preserve">
+          <source>Use Testnet</source>
+          <target state="final">Use Testnet</target>
+        </trans-unit>
+        <trans-unit id="ContributeTranslationText" translate="yes" xml:space="preserve">
+          <source>We're always looking for translation contributions! You can make corrections or help to make this app available in your language by joining our community on GitHub</source>
+          <target state="final">We're always looking for translation contributions! You can make corrections or help to make this app available in your language by joining our community on GitHub</target>
+        </trans-unit>
+        <trans-unit id="ContributeTranslationCommandCommandText" translate="yes" xml:space="preserve">
+          <source>Contribute translation</source>
+          <target state="final">Contribute translation</target>
+        </trans-unit>
+        <trans-unit id="Language" translate="yes" xml:space="preserve">
+          <source>Language</source>
+          <target state="final">Language</target>
+        </trans-unit>
+        <trans-unit id="WalletBackupMessage" translate="yes" xml:space="preserve">
+          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</source>
+          <target state="final">Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</target>
+        </trans-unit>
+        <trans-unit id="PasswordsAreNotTheSame" translate="yes" xml:space="preserve">
+          <source>Passwords are not the same.</source>
+          <target state="final">Passwords are not the same.</target>
+        </trans-unit>
+        <trans-unit id="PasswordRepeat" translate="yes" xml:space="preserve">
+          <source>Repeat</source>
+          <target state="final">Repeat</target>
+        </trans-unit>
+        <trans-unit id="RestoringPassword" translate="yes" xml:space="preserve">
+          <source>Password</source>
+          <target state="final">Password</target>
+        </trans-unit>
+        <trans-unit id="EnterPassword" translate="yes" xml:space="preserve">
+          <source>Enter the restoring password.</source>
+          <target state="final">Enter the restoring password.</target>
+        </trans-unit>
+        <trans-unit id="CopyMnemonicToClipboard" translate="yes" xml:space="preserve">
+          <source>Copy the mnemonic to clipboard</source>
+          <target state="final">Copy the mnemonic to clipboard</target>
+        </trans-unit>
+        <trans-unit id="ShowHideMnemonic" translate="yes" xml:space="preserve">
+          <source>Show/hide the mnemonic</source>
+          <target state="final">Show/hide the mnemonic</target>
+        </trans-unit>
+        <trans-unit id="MnemonicLanguage" translate="yes" xml:space="preserve">
+          <source>Mnemonic language</source>
+          <target state="final">Mnemonic language</target>
+        </trans-unit>
+        <trans-unit id="RegenerateMnemonic" translate="yes" xml:space="preserve">
+          <source>Regenerate the mnemonic</source>
+          <target state="final">Regenerate the mnemonic</target>
+        </trans-unit>
+        <trans-unit id="Copied" translate="yes" xml:space="preserve">
+          <source>Copied</source>
+          <target state="final">Copied</target>
+        </trans-unit>
+        <trans-unit id="Receive" translate="yes" xml:space="preserve">
+          <source>Receive</source>
+          <target state="final">Receive</target>
+        </trans-unit>
+        <trans-unit id="ErrorGetAccount" translate="yes" xml:space="preserve">
+          <source>Error on getting the account from DB. Try again later. We investigate it. System message in case you need it:</source>
+          <target state="final">Error on getting the account from DB. Try again later. We investigate it. System message in case you need it:</target>
+        </trans-unit>
+        <trans-unit id="Login" translate="yes" xml:space="preserve">
+          <source>Login</source>
+          <target state="final">Login</target>
+        </trans-unit>
+        <trans-unit id="Setup" translate="yes" xml:space="preserve">
+          <source>Setup</source>
+          <target state="final">Setup</target>
+        </trans-unit>
+        <trans-unit id="PubAddressInfo" translate="yes" xml:space="preserve">
+          <source>We constantly update the public address to make it more difficult for third parties to track your assets. Funds transferred to any generated address will be available.</source>
+          <target state="final">We constantly update the public address to make it more difficult for third parties to track your assets. Funds transferred to any generated address will be available.</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalance" translate="yes" xml:space="preserve">
+          <source>Update balance</source>
+          <target state="final">Update balance</target>
+        </trans-unit>
+        <trans-unit id="UpdatingBalance" translate="yes" xml:space="preserve">
+          <source>Updating balance...</source>
+          <target state="final">Updating balance...</target>
+        </trans-unit>
+        <trans-unit id="ErrorGetBalance" translate="yes" xml:space="preserve">
+          <source>Error on getting the balance. Try again later. We investigate it. System message in case you need it:</source>
+          <target state="final">Error on getting the balance. Try again later. We investigate it. System message in case you need it:</target>
+        </trans-unit>
+        <trans-unit id="Refresh" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="final">Refresh</target>
+        </trans-unit>
+        <trans-unit id="Main" translate="yes" xml:space="preserve">
+          <source>Main</source>
+          <target state="final">Main</target>
+        </trans-unit>
+        <trans-unit id="Send" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="final">Send</target>
+        </trans-unit>
+        <trans-unit id="BitcoinAddress" translate="yes" xml:space="preserve">
+          <source>Bitcoin address</source>
+          <target state="final">Bitcoin address</target>
+        </trans-unit>
+        <trans-unit id="Recipient" translate="yes" xml:space="preserve">
+          <source>Recipient</source>
+          <target state="final">Recipient</target>
+        </trans-unit>
+        <trans-unit id="Ready" translate="yes" xml:space="preserve">
+          <source>Ready</source>
+          <target state="final">Ready</target>
+        </trans-unit>
+        <trans-unit id="InvalidBitcoinAddress" translate="yes" xml:space="preserve">
+          <source>Invalid bitcoin address. Test network wallets are not able to sent coins to the Main network &amp; vice versa.</source>
+          <target state="final">Invalid bitcoin address. Test network wallets are not able to sent coins to the Main network &amp; vice versa.</target>
+        </trans-unit>
+        <trans-unit id="Amount" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="final">Amount</target>
+        </trans-unit>
+        <trans-unit id="From" translate="yes" xml:space="preserve">
+          <source>From</source>
+          <target state="final">From</target>
+        </trans-unit>
+        <trans-unit id="To" translate="yes" xml:space="preserve">
+          <source>To</source>
+          <target state="final">To</target>
+        </trans-unit>
+        <trans-unit id="FeeEconomy" translate="yes" xml:space="preserve">
+          <source>Economy</source>
+          <target state="final">Economy</target>
+        </trans-unit>
+        <trans-unit id="FeeNormal" translate="yes" xml:space="preserve">
+          <source>Normal</source>
+          <target state="final">Normal</target>
+        </trans-unit>
+        <trans-unit id="FeePriority" translate="yes" xml:space="preserve">
+          <source>Priority</source>
+          <target state="final">Priority</target>
+        </trans-unit>
+        <trans-unit id="FeeSuperEconomy" translate="yes" xml:space="preserve">
+          <source>Super economy</source>
+          <target state="final">Super economy</target>
+        </trans-unit>
+        <trans-unit id="FeeUrgent" translate="yes" xml:space="preserve">
+          <source>Urgent</source>
+          <target state="final">Urgent</target>
+        </trans-unit>
+        <trans-unit id="SupportDeveloper" translate="yes" xml:space="preserve">
+          <source>Support developer</source>
+          <target state="final">Support developer</target>
+        </trans-unit>
+        <trans-unit id="EstimatedFee" translate="yes" xml:space="preserve">
+          <source>Estimated network fee</source>
+          <target state="final">Estimated network fee</target>
+        </trans-unit>
+        <trans-unit id="EstimatedProcessingTime" translate="yes" xml:space="preserve">
+          <source>Estimated processing time</source>
+          <target state="final">Estimated processing time</target>
+        </trans-unit>
+        <trans-unit id="NetworkFeePolicy" translate="yes" xml:space="preserve">
+          <source>Network fee policy</source>
+          <target state="final">Network fee policy</target>
+        </trans-unit>
+        <trans-unit id="NotEnoughCoins" translate="yes" xml:space="preserve">
+          <source>Not enough funds</source>
+          <target state="final">Not enough funds</target>
+        </trans-unit>
+        <trans-unit id="TransactionIsNotVerified" translate="yes" xml:space="preserve">
+          <source>Can not verify your transaction. Try again or change fee policy.</source>
+          <target state="final">Can not verify your transaction. Try again or change fee policy.</target>
+        </trans-unit>
+        <trans-unit id="CantParseTheAmountValue" translate="yes" xml:space="preserve">
+          <source>Can't parse the amount value. Try to change the decimal separator</source>
+          <target state="final">Can't parse the amount value. Try to change the decimal separator</target>
+        </trans-unit>
+        <trans-unit id="Total" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target state="final">Total</target>
+        </trans-unit>
+        <trans-unit id="Scan" translate="yes" xml:space="preserve">
+          <source>Scan</source>
+          <target state="final">Scan</target>
+        </trans-unit>
+        <trans-unit id="ErrorNoAccount" translate="yes" xml:space="preserve">
+          <source>There is no account to send coins to the address from network. Network type:</source>
+          <target state="final">There is no account to send coins to the address from network. Network type:</target>
+        </trans-unit>
+        <trans-unit id="Mainnet" translate="yes" xml:space="preserve">
+          <source>Main network</source>
+          <target state="final">Main network</target>
+        </trans-unit>
+        <trans-unit id="Testnet" translate="yes" xml:space="preserve">
+          <source>Test network</source>
+          <target state="final">Test network</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
