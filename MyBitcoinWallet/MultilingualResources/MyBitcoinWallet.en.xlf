@@ -278,6 +278,14 @@
           <source>Test network</source>
           <target state="final">Test network</target>
         </trans-unit>
+        <trans-unit id="LoginTitleTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Login</source>
+          <target state="final">Login</target>
+        </trans-unit>
+        <trans-unit id="RegisterTitleTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Setup</source>
+          <target state="final">Setup</target>
+        </trans-unit>
       </group>
     </body>
   </file>
