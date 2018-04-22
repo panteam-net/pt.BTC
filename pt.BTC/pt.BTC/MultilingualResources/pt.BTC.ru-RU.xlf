@@ -51,8 +51,8 @@
           <target state="final">Добавить кошелёк</target>
         </trans-unit>
         <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
-          <source>Personal</source>
-          <target state="final">Личный</target>
+          <source>Personal, import</source>
+          <target state="translated">Личный, импорт</target>
         </trans-unit>
         <trans-unit id="NewPersonalWallet" translate="yes" xml:space="preserve">
           <source>New personal wallet</source>
@@ -273,6 +273,18 @@
         <trans-unit id="Testnet" translate="yes" xml:space="preserve">
           <source>Test network</source>
           <target state="final">Тестовая сеть</target>
+        </trans-unit>
+        <trans-unit id="ImportWallet" translate="yes" xml:space="preserve">
+          <source>Import wallet</source>
+          <target state="final">Импортировать кошелёк</target>
+        </trans-unit>
+        <trans-unit id="SavePassword" translate="yes" xml:space="preserve">
+          <source>Save password in device's password storage</source>
+          <target state="final">Сохранить пароль в хранилище паролей устройства</target>
+        </trans-unit>
+        <trans-unit id="Mnemonic" translate="yes" xml:space="preserve">
+          <source>Mnemonic</source>
+          <target state="final">Мнемоника</target>
         </trans-unit>
       </group>
     </body>

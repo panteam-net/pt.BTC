@@ -55,8 +55,8 @@
           <target state="final">Добавить кошелёк</target>
         </trans-unit>
         <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
-          <source>Personal</source>
-          <target state="final">Личный</target>
+          <source>Personal, import</source>
+          <target state="final">Личный, импорт</target>
         </trans-unit>
         <trans-unit id="NewPersonalWalletTextBlock.Text" translate="yes" xml:space="preserve">
           <source>New personal wallet</source>
@@ -285,6 +285,22 @@
         <trans-unit id="RegisterTitleTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Setup</source>
           <target state="final">Настройка</target>
+        </trans-unit>
+        <trans-unit id="ImportWallet" translate="yes" xml:space="preserve">
+          <source>Import wallet</source>
+          <target state="final">Импортировать кошелёк</target>
+        </trans-unit>
+        <trans-unit id="ImportWalletTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Import wallet</source>
+          <target state="final">Импортировать кошелёк</target>
+        </trans-unit>
+        <trans-unit id="MnemonicTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Mnemonic</source>
+          <target state="final">Мнемоника</target>
+        </trans-unit>
+        <trans-unit id="ImportWalletButton.Text" translate="yes" xml:space="preserve">
+          <source>Import wallet</source>
+          <target state="final">Импортировать кошелёк</target>
         </trans-unit>
       </group>
     </body>
