@@ -302,6 +302,10 @@
           <source>Import wallet</source>
           <target state="final">Import wallet</target>
         </trans-unit>
+        <trans-unit id="SavePasswordTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Save password in device's password storage</source>
+          <target state="final">Save password in device's password storage</target>
+        </trans-unit>
       </group>
     </body>
   </file>

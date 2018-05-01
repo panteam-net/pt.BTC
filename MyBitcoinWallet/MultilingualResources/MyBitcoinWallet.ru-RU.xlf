@@ -302,6 +302,10 @@
           <source>Import wallet</source>
           <target state="final">Импортировать кошелёк</target>
         </trans-unit>
+        <trans-unit id="SavePasswordTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Save password in device's password storage</source>
+          <target state="final">Сохранить пароль в хранилище паролей устройства</target>
+        </trans-unit>
       </group>
     </body>
   </file>
