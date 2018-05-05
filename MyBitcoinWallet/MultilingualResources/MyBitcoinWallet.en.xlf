@@ -306,6 +306,10 @@
           <source>Save password in device's password storage</source>
           <target state="final">Save password in device's password storage</target>
         </trans-unit>
+        <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
+          <source>Invalid password</source>
+          <target state="final">Invalid password</target>
+        </trans-unit>
       </group>
     </body>
   </file>

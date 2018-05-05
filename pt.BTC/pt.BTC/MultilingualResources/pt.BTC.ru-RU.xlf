@@ -286,6 +286,10 @@
           <source>Mnemonic</source>
           <target state="final">Мнемоника</target>
         </trans-unit>
+        <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
+          <source>Invalid password</source>
+          <target state="translated">Неправильный пароль</target>
+        </trans-unit>
       </group>
     </body>
   </file>
