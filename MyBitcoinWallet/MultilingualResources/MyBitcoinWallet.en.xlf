@@ -310,6 +310,34 @@
           <source>Invalid password</source>
           <target state="final">Invalid password</target>
         </trans-unit>
+        <trans-unit id="Save" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="final">Save</target>
+        </trans-unit>
+        <trans-unit id="FeeFree" translate="yes" xml:space="preserve">
+          <source>Free</source>
+          <target state="final">Free</target>
+        </trans-unit>
+        <trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="final">Feedback</target>
+        </trans-unit>
+        <trans-unit id="FeedbackDescription" translate="yes" xml:space="preserve">
+          <source>Email, Review, Github</source>
+          <target state="final">Email, Review, Github</target>
+        </trans-unit>
+        <trans-unit id="EmailToSupport" translate="yes" xml:space="preserve">
+          <source>e-mail to: support@panteam.net</source>
+          <target state="final">e-mail to: support@panteam.net</target>
+        </trans-unit>
+        <trans-unit id="OpenIssueOnGitHubTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Open issue on GitHub</source>
+          <target state="final">Open issue on GitHub</target>
+        </trans-unit>
+        <trans-unit id="OpenStoreReviewPageTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Write a review</source>
+          <target state="final">Write a review</target>
+        </trans-unit>
       </group>
     </body>
   </file>

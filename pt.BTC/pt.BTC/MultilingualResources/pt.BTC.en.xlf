@@ -274,6 +274,15 @@
           <source>Test network</source>
           <target state="final">Test network</target>
         </trans-unit>
+		<trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="translated">Feedback</target>
+        </trans-unit>
+        <trans-unit id="FeedbackDescription" translate="yes" xml:space="preserve">
+          <source>Email, Review, Github</source>
+          <target state="translated">Email, Review, Github</target>
+        </trans-unit>
+
       </group>
     </body>
   </file>

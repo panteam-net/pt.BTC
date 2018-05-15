@@ -248,7 +248,7 @@
         </trans-unit>
         <trans-unit id="NetworkFeePolicy.Text" translate="yes" xml:space="preserve">
           <source>Network fee policy</source>
-          <target state="final">Политика сетевой комиссии</target>
+          <target state="translated">Политика комиссии сети</target>
         </trans-unit>
         <trans-unit id="AmountTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Amount</source>
@@ -309,6 +309,34 @@
         <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
           <source>Invalid password</source>
           <target state="final">Неправильный пароль</target>
+        </trans-unit>
+        <trans-unit id="Save" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="final">Сохранить</target>
+        </trans-unit>
+        <trans-unit id="FeeFree" translate="yes" xml:space="preserve">
+          <source>Free</source>
+          <target state="final">Без комиссии</target>
+        </trans-unit>
+        <trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="final">Обратная связь</target>
+        </trans-unit>
+        <trans-unit id="FeedbackDescription" translate="yes" xml:space="preserve">
+          <source>Email, Review, Github</source>
+          <target state="final">Почта, Отзыв, Github</target>
+        </trans-unit>
+        <trans-unit id="EmailToSupport" translate="yes" xml:space="preserve">
+          <source>e-mail to: support@panteam.net</source>
+          <target state="final">Написать письмо на: support@panteam.net</target>
+        </trans-unit>
+        <trans-unit id="OpenIssueOnGitHubTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Open issue on GitHub</source>
+          <target state="final">Задать вопрос на GitHub</target>
+        </trans-unit>
+        <trans-unit id="OpenStoreReviewPageTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Write a review</source>
+          <target state="final">Написать отзыв</target>
         </trans-unit>
       </group>
     </body>

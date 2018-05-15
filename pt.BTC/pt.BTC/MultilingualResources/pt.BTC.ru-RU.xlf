@@ -290,6 +290,34 @@
           <source>Invalid password</source>
           <target state="translated">Неправильный пароль</target>
         </trans-unit>
+        <trans-unit id="Save" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="final">Сохранить</target>
+        </trans-unit>
+        <trans-unit id="FeeFree" translate="yes" xml:space="preserve">
+          <source>Free</source>
+          <target state="translated">Без комиссии</target>
+        </trans-unit>
+        <trans-unit id="Feedback" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="translated">Обратная связь</target>
+        </trans-unit>
+        <trans-unit id="FeedbackDescription" translate="yes" xml:space="preserve">
+          <source>Email, Review, Github</source>
+          <target state="translated">Почта, Отзыв, Github</target>
+        </trans-unit>
+        <trans-unit id="EmailToSupport" translate="yes" xml:space="preserve">
+          <source>e-mail to: support@panteam.net</source>
+          <target state="final">Написать письмо на: support@panteam.net</target>
+        </trans-unit>
+        <trans-unit id="OpenIssueOnGitHub" translate="yes" xml:space="preserve">
+          <source>Open issue on GitHub</source>
+          <target state="final">Задать вопрос на GitHub</target>
+        </trans-unit>
+        <trans-unit id="WriteReview" translate="yes" xml:space="preserve">
+          <source>Write a review</source>
+          <target state="final">Написать отзыв</target>
+        </trans-unit>
       </group>
     </body>
   </file>
