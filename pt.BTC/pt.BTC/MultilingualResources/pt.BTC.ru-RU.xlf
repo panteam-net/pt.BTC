@@ -308,7 +308,7 @@
         </trans-unit>
         <trans-unit id="EmailToSupport" translate="yes" xml:space="preserve">
           <source>e-mail to: support@panteam.net</source>
-          <target state="final">Написать письмо на: support@panteam.net</target>
+          <target state="final">Письмо: support@panteam.net</target>
         </trans-unit>
         <trans-unit id="OpenIssueOnGitHub" translate="yes" xml:space="preserve">
           <source>Open issue on GitHub</source>
