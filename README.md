@@ -6,7 +6,7 @@ The project is under development. It will be available in the stores as soon as 
 
 |Product       |Beta      |
 |--------------|-----------|
-|pt.BTC.Android|[Join us](mailto:support@panteam.net)|
+|pt.BTC.Android|[![Google play](https://play.google.com/intl/da/badges/images/generic/en_badge_web_generic.png)](https://play.google.com/store/apps/details?id=net.panteam.pt.BTC&utm_source=Github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)|
 |pt.BTC.iOS|[Join us](mailto:support@panteam.net)|
 |pt.BTC.UWP|[Join us](mailto:support@panteam.net)|
 |MyBitcoinWallet (UWP)|[Join us](mailto:support@panteam.net)|
