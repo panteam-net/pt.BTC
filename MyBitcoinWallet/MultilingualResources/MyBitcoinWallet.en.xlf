@@ -338,6 +338,26 @@
           <source>Write a review</source>
           <target state="final">Write a review</target>
         </trans-unit>
+        <trans-unit id="ConfirmationsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Confirmations:</source>
+          <target state="final">Confirmations:</target>
+        </trans-unit>
+        <trans-unit id="Transaction" translate="yes" xml:space="preserve">
+          <source>Transaction</source>
+          <target state="final">Transaction</target>
+        </trans-unit>
+        <trans-unit id="FeeTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Fee</source>
+          <target state="final">Fee</target>
+        </trans-unit>
+        <trans-unit id="DateTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="final">Date</target>
+        </trans-unit>
+        <trans-unit id="TransactionIdTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Transaction ID</source>
+          <target state="final">Transaction ID</target>
+        </trans-unit>
       </group>
     </body>
   </file>
