@@ -326,6 +326,30 @@
           <source>Transaction</source>
           <target state="final">Транзакция</target>
         </trans-unit>
+        <trans-unit id="Wallet" translate="yes" xml:space="preserve">
+          <source>Wallet</source>
+          <target state="final">Кошелёк</target>
+        </trans-unit>
+        <trans-unit id="Date" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="final">Дата</target>
+        </trans-unit>
+        <trans-unit id="Fee" translate="yes" xml:space="preserve">
+          <source>Fee</source>
+          <target state="final">Комиссия</target>
+        </trans-unit>
+        <trans-unit id="OpenOnBlockchain" translate="yes" xml:space="preserve">
+          <source>Open on blockchain</source>
+          <target state="final">Открыть блокчейн</target>
+        </trans-unit>
+        <trans-unit id="TransactionNoInternet" translate="yes" xml:space="preserve">
+          <source>No Internet. Can't update amount &amp; confirmations.</source>
+          <target state="final">Отсутсвует Интернет. Не удается обновить сумму и подтверждения.</target>
+        </trans-unit>
+        <trans-unit id="Memo" translate="yes" xml:space="preserve">
+          <source>Memo</source>
+          <target state="final">Заметка</target>
+        </trans-unit>
       </group>
     </body>
   </file>

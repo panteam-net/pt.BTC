@@ -358,6 +358,30 @@
           <source>Transaction ID</source>
           <target state="final">Transaction ID</target>
         </trans-unit>
+        <trans-unit id="WalletTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Wallet</source>
+          <target state="final">Wallet</target>
+        </trans-unit>
+        <trans-unit id="OpenOnBlockchainTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Open on blockchain</source>
+          <target state="final">Open on blockchain</target>
+        </trans-unit>
+        <trans-unit id="TotalTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Total</source>
+          <target state="final">Total</target>
+        </trans-unit>
+        <trans-unit id="RefreshAppBarButton.Label" translate="yes" xml:space="preserve">
+          <source>Refresh</source>
+          <target state="new">Refresh</target>
+        </trans-unit>
+        <trans-unit id="TransactionNoInternetMessageTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>No Internet. Can't update amount &amp; confirmations.</source>
+          <target state="final">No Internet. Can't update amount &amp; confirmations.</target>
+        </trans-unit>
+        <trans-unit id="MemoTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Memo</source>
+          <target state="final">Memo</target>
+        </trans-unit>
       </group>
     </body>
   </file>
