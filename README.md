@@ -21,3 +21,5 @@ You can use any tool for editing *.xlf file. We use this one [Multilingual app t
 
 ## Issues
 If you have any guestions or problems just open an issue.
+
+[![HitCount](http://hits.dwyl.io/AdminPanteam/AdminPanteam/pt.BTC.svg)](http://hits.dwyl.io/AdminPanteam/AdminPanteam/pt.BTC)
