@@ -382,6 +382,46 @@
           <source>Memo</source>
           <target state="final">Заметка</target>
         </trans-unit>
+        <trans-unit id="Confirmed" translate="yes" xml:space="preserve">
+          <source>Confirmed</source>
+          <target state="final">Подтверждено</target>
+        </trans-unit>
+        <trans-unit id="Unconfirmed" translate="yes" xml:space="preserve">
+          <source>Unconfirmed</source>
+          <target state="final">Неподтверждено</target>
+        </trans-unit>
+        <trans-unit id="BackgroundTasks" translate="yes" xml:space="preserve">
+          <source>Background tasks</source>
+          <target state="final">Фоновые задачи</target>
+        </trans-unit>
+        <trans-unit id="NoBackgroundTasks" translate="yes" xml:space="preserve">
+          <source>No background tasks</source>
+          <target state="final">Фоновые задачи отсуствуют</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalance" translate="yes" xml:space="preserve">
+          <source>Update balance</source>
+          <target state="final">Обновить баланс</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalanceTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Update balance</source>
+          <target state="final">Обновлять баланс</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalanceTimeoutTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Updating interval</source>
+          <target state="final">Интервал обновления</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalanceTimeoutTimePicker.Header" translate="yes" xml:space="preserve">
+          <source>HH:mm</source>
+          <target state="final">ЧЧ:мм</target>
+        </trans-unit>
+        <trans-unit id="UpdatingBalanceDescription.Text" translate="yes" xml:space="preserve">
+          <source>We don't track your assets. Your device will be using a background task to track your assets. The balance updating interval is not accurate it depends on your device's OS.</source>
+          <target state="final">Мы не отслеживаем ваши активы. Ваше устройство будет использовать фоновую задачу для отслеживания ваших активов. Интервал обновления баланса не является точным, он зависит от ОС вашего устройства.</target>
+        </trans-unit>
+        <trans-unit id="ShowNotificationsEvenNoChangesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Show notifications when no changes</source>
+          <target state="final">Уведомлять при отсутствии изменений</target>
+        </trans-unit>
       </group>
     </body>
   </file>

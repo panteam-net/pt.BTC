@@ -372,7 +372,7 @@
         </trans-unit>
         <trans-unit id="RefreshAppBarButton.Label" translate="yes" xml:space="preserve">
           <source>Refresh</source>
-          <target state="new">Refresh</target>
+          <target state="final">Refresh</target>
         </trans-unit>
         <trans-unit id="TransactionNoInternetMessageTextBlock.Text" translate="yes" xml:space="preserve">
           <source>No Internet. Can't update amount &amp; confirmations.</source>
@@ -381,6 +381,46 @@
         <trans-unit id="MemoTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Memo</source>
           <target state="final">Memo</target>
+        </trans-unit>
+        <trans-unit id="Confirmed" translate="yes" xml:space="preserve">
+          <source>Confirmed</source>
+          <target state="final">Confirmed</target>
+        </trans-unit>
+        <trans-unit id="Unconfirmed" translate="yes" xml:space="preserve">
+          <source>Unconfirmed</source>
+          <target state="final">Unconfirmed</target>
+        </trans-unit>
+        <trans-unit id="BackgroundTasks" translate="yes" xml:space="preserve">
+          <source>Background tasks</source>
+          <target state="final">Background tasks</target>
+        </trans-unit>
+        <trans-unit id="NoBackgroundTasks" translate="yes" xml:space="preserve">
+          <source>No background tasks</source>
+          <target state="final">No background tasks</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalance" translate="yes" xml:space="preserve">
+          <source>Update balance</source>
+          <target state="final">Update balance</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalanceTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Update balance</source>
+          <target state="final">Update balance</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalanceTimeoutTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Updating interval</source>
+          <target state="final">Updating interval</target>
+        </trans-unit>
+        <trans-unit id="UpdateBalanceTimeoutTimePicker.Header" translate="yes" xml:space="preserve">
+          <source>HH:mm</source>
+          <target state="final">HH:mm</target>
+        </trans-unit>
+        <trans-unit id="UpdatingBalanceDescription.Text" translate="yes" xml:space="preserve">
+          <source>We don't track your assets. Your device will be using a background task to track your assets. The balance updating interval is not accurate it depends on your device's OS.</source>
+          <target state="final">We don't track your assets. Your device will be using a background task to track your assets. The balance updating interval is not accurate it depends on your device's OS.</target>
+        </trans-unit>
+        <trans-unit id="ShowNotificationsEvenNoChangesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Show notifications when no changes</source>
+          <target state="final">Show notifications when no changes</target>
         </trans-unit>
       </group>
     </body>
