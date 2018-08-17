@@ -422,6 +422,14 @@
           <source>Show notifications when no changes</source>
           <target state="final">Уведомлять при отсутствии изменений</target>
         </trans-unit>
+        <trans-unit id="TransactionsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Transactions</source>
+          <target state="final">Транзакций</target>
+        </trans-unit>
+        <trans-unit id="LoadMoreTransactionsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Load more transactions</source>
+          <target state="final">Загрузить больше транзакций</target>
+        </trans-unit>
       </group>
     </body>
   </file>

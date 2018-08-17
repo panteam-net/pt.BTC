@@ -398,6 +398,10 @@
           <source>Show notifications when no changes</source>
           <target state="final">Show notifications when no changes</target>
         </trans-unit>
+        <trans-unit id="Transactions" translate="yes" xml:space="preserve">
+          <source>Transactions</source>
+          <target state="final">Transactions</target>
+        </trans-unit>
       </group>
     </body>
   </file>

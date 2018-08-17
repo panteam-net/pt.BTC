@@ -1,2 +1,7 @@
 ﻿"NSCameraUsageDescription"="Used to scan QR codes";
 "CFBundleURLName"="Bitcoin payment protocol";
+"NSContactsUsageDescription"="$(PRODUCT_NAME) contacts use.";
+"NSCalendarsUsageDescription"="$(PRODUCT_NAME) calendar use.";
+"NSMicrophoneUsageDescription"="$(PRODUCT_NAME) microphone use.";
+"NSAppleMusicUsageDescription"="$(PRODUCT_NAME) Apple Music use.";
+"NSSiriUsageDescription"="$(PRODUCT_NAME) Siri use.";

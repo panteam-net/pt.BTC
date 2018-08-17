@@ -1,2 +1,7 @@
 ﻿"NSCameraUsageDescription"="Используется для сканирования QR кодов";
 "CFBundleURLName"="Платёжный протокол биткоин";
+"NSContactsUsageDescription"="$(PRODUCT_NAME) использует контакты.";
+"NSCalendarsUsageDescription"="$(PRODUCT_NAME) использует календарь.";
+"NSMicrophoneUsageDescription"="$(PRODUCT_NAME) использует микрофон.";
+"NSAppleMusicUsageDescription"="$(PRODUCT_NAME) использует Apple Music.";
+"NSSiriUsageDescription"="$(PRODUCT_NAME) использует Сири.";
