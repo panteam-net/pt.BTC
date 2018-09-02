@@ -7,8 +7,8 @@
     <body>
       <group id="PT.BTC/RESOURCES/STRINGS/STRINGS.RESX" datatype="resx">
         <trans-unit id="FingerprintMessage" translate="yes" xml:space="preserve">
-          <source>Unlock your wallets</source>
-          <target state="final" state-qualifier="mt-suggestion">Разблокировать ваши кошельки</target>
+          <source>Enable your Bitcoin ability</source>
+          <target state="final">Активировать Биткоин способность</target>
         </trans-unit>
         <trans-unit id="LockApp" translate="yes" xml:space="preserve">
           <source>Lock App</source>
@@ -52,7 +52,7 @@
         </trans-unit>
         <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
           <source>Personal, import</source>
-          <target state="translated">Личный, импорт</target>
+          <target state="final">Личный, импорт</target>
         </trans-unit>
         <trans-unit id="NewPersonalWallet" translate="yes" xml:space="preserve">
           <source>New personal wallet</source>
@@ -288,7 +288,7 @@
         </trans-unit>
         <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
           <source>Invalid password</source>
-          <target state="translated">Неправильный пароль</target>
+          <target state="final">Неправильный пароль</target>
         </trans-unit>
         <trans-unit id="Save" translate="yes" xml:space="preserve">
           <source>Save</source>
@@ -354,10 +354,6 @@
           <source>Background tasks</source>
           <target state="final">Фоновые задачи</target>
         </trans-unit>
-        <trans-unit id="NoBackgroundTasksNoBackgroundTasks" translate="yes" xml:space="preserve">
-          <source>No backgrond tasks</source>
-          <target state="final">Фоновые задачи отсуствуют</target>
-        </trans-unit>
         <trans-unit id="NoBackgroundTasks" translate="yes" xml:space="preserve">
           <source>No background tasks</source>
           <target state="final">Фоновые задачи отсуствуют</target>
@@ -401,6 +397,26 @@
         <trans-unit id="Transactions" translate="yes" xml:space="preserve">
           <source>Transactions</source>
           <target state="final">Транзакций</target>
+        </trans-unit>
+        <trans-unit id="AlternativeCurrency" translate="yes" xml:space="preserve">
+          <source>Alternative currency</source>
+          <target state="final">Альтернативная валюта</target>
+        </trans-unit>
+        <trans-unit id="AltCurrencyFilterPlaceholder" translate="yes" xml:space="preserve">
+          <source>Search by short or full name</source>
+          <target state="final">Поиск по короткому или полному имени</target>
+        </trans-unit>
+        <trans-unit id="TestNetCoinsValue" translate="yes" xml:space="preserve">
+          <source>Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</source>
+          <target state="final">Монеты Testnet отделены и отличаются от реальных биткойнов и никогда не должны иметь никакой ценности.</target>
+        </trans-unit>
+        <trans-unit id="DontUseAltCurrency" translate="yes" xml:space="preserve">
+          <source>Don't use alt currency</source>
+          <target state="final">Не использовать валюту</target>
+        </trans-unit>
+        <trans-unit id="DownloadingAltCurrenices" translate="yes" xml:space="preserve">
+          <source>Downloading currencies...</source>
+          <target state="final">Загрузка списка валют...</target>
         </trans-unit>
       </group>
     </body>

@@ -5,3 +5,5 @@
 "NSMicrophoneUsageDescription"="$(PRODUCT_NAME) microphone use.";
 "NSAppleMusicUsageDescription"="$(PRODUCT_NAME) Apple Music use.";
 "NSSiriUsageDescription"="$(PRODUCT_NAME) Siri use.";
+"NSLocationAlwaysUsageDescription"="$(PRODUCT_NAME) location use.";
+"NSLocationWhenInUseUsageDescription"="$(PRODUCT_NAME) location use.";

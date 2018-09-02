@@ -5,3 +5,5 @@
 "NSMicrophoneUsageDescription"="$(PRODUCT_NAME) использует микрофон.";
 "NSAppleMusicUsageDescription"="$(PRODUCT_NAME) использует Apple Music.";
 "NSSiriUsageDescription"="$(PRODUCT_NAME) использует Сири.";
+"NSLocationAlwaysUsageDescription"="$(PRODUCT_NAME) использует геолокацию.";
+"NSLocationWhenInUseUsageDescription"="$(PRODUCT_NAME) использует геолокацию.";

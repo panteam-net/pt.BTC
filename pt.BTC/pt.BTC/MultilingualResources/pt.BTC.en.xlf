@@ -7,7 +7,7 @@
     <body>
       <group id="PT.BTC/RESOURCES/STRINGS/STRINGS.RESX" datatype="resx">
         <trans-unit id="FingerprintMessage" translate="yes" xml:space="preserve">
-          <source>Unlock your wallets</source>
+          <source>Enable your Bitcoin ability</source>
           <target state="final">Unlock your wallets</target>
         </trans-unit>
         <trans-unit id="LockApp" translate="yes" xml:space="preserve">
@@ -354,10 +354,6 @@
           <source>Background tasks</source>
           <target state="final">Background tasks</target>
         </trans-unit>
-        <trans-unit id="NoBackgroundTasksNoBackgroundTasks" translate="yes" xml:space="preserve">
-          <source>No backgrond tasks</source>
-          <target state="final">No backgrond tasks</target>
-        </trans-unit>
         <trans-unit id="NoBackgroundTasks" translate="yes" xml:space="preserve">
           <source>No background tasks</source>
           <target state="final">No background tasks</target>
@@ -401,6 +397,26 @@
         <trans-unit id="Transactions" translate="yes" xml:space="preserve">
           <source>Transactions</source>
           <target state="final">Transactions</target>
+        </trans-unit>
+        <trans-unit id="AlternativeCurrency" translate="yes" xml:space="preserve">
+          <source>Alternative currency</source>
+          <target state="final">Alternative currency</target>
+        </trans-unit>
+        <trans-unit id="AltCurrencyFilterPlaceholder" translate="yes" xml:space="preserve">
+          <source>Search by short or full name</source>
+          <target state="final">Search by short or full name</target>
+        </trans-unit>
+        <trans-unit id="TestNetCoinsValue" translate="yes" xml:space="preserve">
+          <source>Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</source>
+          <target state="final">Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</target>
+        </trans-unit>
+        <trans-unit id="DontUseAltCurrency" translate="yes" xml:space="preserve">
+          <source>Don't use alt currency</source>
+          <target state="final">Don't use alt currency</target>
+        </trans-unit>
+        <trans-unit id="DownloadingAltCurrenices" translate="yes" xml:space="preserve">
+          <source>Downloading currencies...</source>
+          <target state="final">Downloading currencies...</target>
         </trans-unit>
       </group>
     </body>

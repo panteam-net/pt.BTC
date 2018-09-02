@@ -11,8 +11,8 @@
           <target state="final" state-qualifier="mt-suggestion">Кошельки</target>
         </trans-unit>
         <trans-unit id="FingerprintMessage" translate="yes" xml:space="preserve">
-          <source>Unlock your wallets</source>
-          <target state="final" state-qualifier="mt-suggestion">Разблокировать ваши кошельки</target>
+          <source>Enable your Bitcoin ability</source>
+          <target state="final">Активировать Биткоин способность</target>
         </trans-unit>
         <trans-unit id="RepeatPinCode" translate="yes" xml:space="preserve">
           <source>Repeat PIN code</source>
@@ -429,6 +429,26 @@
         <trans-unit id="LoadMoreTransactionsTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Load more transactions</source>
           <target state="final">Загрузить больше транзакций</target>
+        </trans-unit>
+        <trans-unit id="AlternativeCurrency" translate="yes" xml:space="preserve">
+          <source>Alternative currency</source>
+          <target state="final">Альтернативная валюта</target>
+        </trans-unit>
+        <trans-unit id="AltCurrencyFilterText.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Search by short or full name</source>
+          <target state="final">Поиск по краткому или полному названию</target>
+        </trans-unit>
+        <trans-unit id="TestNetCoinsValue" translate="yes" xml:space="preserve">
+          <source>Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</source>
+          <target state="final">Монеты Testnet отделены и отличаются от реальных биткойнов и никогда не должны иметь никакой ценности</target>
+        </trans-unit>
+        <trans-unit id="DontUseAltCurrency" translate="yes" xml:space="preserve">
+          <source>Don't use alt currency</source>
+          <target state="final">Не использовать валюту</target>
+        </trans-unit>
+        <trans-unit id="DownloadingAltCurrenciesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Downloading currencies...</source>
+          <target state="final">Загрузка списка валют...</target>
         </trans-unit>
       </group>
     </body>

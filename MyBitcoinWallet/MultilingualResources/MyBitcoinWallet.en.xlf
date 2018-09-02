@@ -11,8 +11,8 @@
           <target state="final">Wallets</target>
         </trans-unit>
         <trans-unit id="FingerprintMessage" translate="yes" xml:space="preserve">
-          <source>Unlock your wallets</source>
-          <target state="final">Unlock your wallets</target>
+          <source>Enable your Bitcoin ability</source>
+          <target state="final">Enable your Bitcoin ability</target>
         </trans-unit>
         <trans-unit id="RepeatPinCode" translate="yes" xml:space="preserve">
           <source>Repeat PIN code</source>
@@ -429,6 +429,26 @@
         <trans-unit id="LoadMoreTransactionsTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Load more transactions</source>
           <target state="final">Load more transactions</target>
+        </trans-unit>
+        <trans-unit id="AlternativeCurrency" translate="yes" xml:space="preserve">
+          <source>Alternative currency</source>
+          <target state="final">Alternative currency</target>
+        </trans-unit>
+        <trans-unit id="AltCurrencyFilterText.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Search by short or full name</source>
+          <target state="final">Search by short or full name</target>
+        </trans-unit>
+        <trans-unit id="TestNetCoinsValue" translate="yes" xml:space="preserve">
+          <source>Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</source>
+          <target state="final">Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</target>
+        </trans-unit>
+        <trans-unit id="DontUseAltCurrency" translate="yes" xml:space="preserve">
+          <source>Don't use alt currency</source>
+          <target state="final">Don't use alt currency</target>
+        </trans-unit>
+        <trans-unit id="DownloadingAltCurrenciesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Downloading currencies...</source>
+          <target state="final">Downloading currencies...</target>
         </trans-unit>
       </group>
     </body>
