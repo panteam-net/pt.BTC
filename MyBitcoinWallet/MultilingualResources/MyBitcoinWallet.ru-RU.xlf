@@ -532,7 +532,7 @@
         </trans-unit>
         <trans-unit id="AddForTrackingTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Add for tracking</source>
-          <target state="final">Добавить для тслеживания</target>
+          <target state="final">Добавить для отслеживания</target>
         </trans-unit>
         <trans-unit id="UnspendableAttentionTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Attention! It seems you don't have private key for this address. You can't spend coins without the private key.</source>
