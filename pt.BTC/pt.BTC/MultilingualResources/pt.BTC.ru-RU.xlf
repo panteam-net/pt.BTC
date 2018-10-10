@@ -51,8 +51,8 @@
           <target state="final">Добавить кошелёк</target>
         </trans-unit>
         <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
-          <source>Personal, import</source>
-          <target state="final">Личный, импорт</target>
+          <source>Personal, import, tracking</source>
+          <target state="final">Личный, импорт, отслеживание</target>
         </trans-unit>
         <trans-unit id="NewPersonalWallet" translate="yes" xml:space="preserve">
           <source>New personal wallet</source>
@@ -64,7 +64,7 @@
         </trans-unit>
         <trans-unit id="WalletName" translate="yes" xml:space="preserve">
           <source>Wallet name</source>
-          <target state="final" state-qualifier="mt-suggestion">Имя кошелька</target>
+          <target state="final">Название кошелька</target>
         </trans-unit>
         <trans-unit id="WalletNamePlaceholder" translate="yes" xml:space="preserve">
           <source>My car fund</source>
@@ -96,7 +96,7 @@
         </trans-unit>
         <trans-unit id="WalletBackupMessage" translate="yes" xml:space="preserve">
           <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</source>
-          <target state="final">Пароля и мнемоники достаточно, чтобы восстановить кошелёк. Держите их в секрете. Кусок бумаги в безопасном хранилище является хорошей идеей. Менеджер паролей, pt. KeePass например, тоже хорошая идея.</target>
+          <target state="final">Пароля и мнемоники достаточно, чтобы восстановить кошелёк. Держите их в секрете. Листок бумаги в безопасном хранилище является хорошей идеей. Менеджер паролей, pt. KeePass например, тоже хорошая идея.</target>
         </trans-unit>
         <trans-unit id="PasswordsAreNotTheSame" translate="yes" xml:space="preserve">
           <source>Passwords are not the same.</source>
@@ -404,7 +404,7 @@
         </trans-unit>
         <trans-unit id="AltCurrencyFilterPlaceholder" translate="yes" xml:space="preserve">
           <source>Search by short or full name</source>
-          <target state="final">Поиск по короткому или полному имени</target>
+          <target state="final">Поиск по короткому или полному названию</target>
         </trans-unit>
         <trans-unit id="TestNetCoinsValue" translate="yes" xml:space="preserve">
           <source>Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</source>
@@ -417,6 +417,91 @@
         <trans-unit id="DownloadingAltCurrenices" translate="yes" xml:space="preserve">
           <source>Downloading currencies...</source>
           <target state="final">Загрузка списка валют...</target>
+        </trans-unit>
+        <trans-unit id="AddressIsNotRecognized" translate="yes" xml:space="preserve">
+          <source>Address is not recognized</source>
+          <target state="final">Адрес не распознан</target>
+        </trans-unit>
+        <trans-unit id="Bech32" translate="yes" xml:space="preserve">
+          <source>Bech32 pubkey hash or script hash</source>
+          <target state="final">Bech32 хеш публичного ключа или хеш скрипта</target>
+        </trans-unit>
+        <trans-unit id="BIP32" translate="yes" xml:space="preserve">
+          <source>BIP32 pubkey (derived addresses are not supported yet)</source>
+          <target state="final">BIP32 публичный ключ (пока не поддерживается отслеживание активов с производных адресов)
+</target>
+        </trans-unit>
+        <trans-unit id="BIP32_PrivateKey" translate="yes" xml:space="preserve">
+          <source>BIP32 private key (derived addresses are not supported yet)</source>
+          <target state="final">BIP32 закрытый ключ (пока не поддерживается отслеживание активов с производных адресов)</target>
+        </trans-unit>
+        <trans-unit id="CompressedPublicKey" translate="yes" xml:space="preserve">
+          <source>Private key (WIF, compressed pubkey)</source>
+          <target state="final">Закрытый ключ (WIF, сжатый публичный ключ)</target>
+        </trans-unit>
+        <trans-unit id="P2PKH" translate="yes" xml:space="preserve">
+          <source>Pubkey hash (P2PKH address)</source>
+          <target state="final">Хэш публичного ключа (адрес P2PKH)</target>
+        </trans-unit>
+        <trans-unit id="P2SH" translate="yes" xml:space="preserve">
+          <source>Script hash (P2SH address)</source>
+          <target state="final">Хэш скприта (адрес P2SH)</target>
+        </trans-unit>
+        <trans-unit id="UncompressedPubKey" translate="yes" xml:space="preserve">
+          <source>Private key (WIF, uncompressed pubkey)</source>
+          <target state="final">Закрытый ключ (WIF, несжатый публичный ключ)</target>
+        </trans-unit>
+        <trans-unit id="AddAddressToTrackWallet" translate="yes" xml:space="preserve">
+          <source>Public address</source>
+          <target state="final">Публичный адрес</target>
+        </trans-unit>
+        <trans-unit id="TrackingAddressDescription" translate="yes" xml:space="preserve">
+          <source>Watch transactions</source>
+          <target state="final">Отслеживать транзакции</target>
+        </trans-unit>
+        <trans-unit id="Details" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <target state="final">Детали</target>
+        </trans-unit>
+        <trans-unit id="Address" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="final">Адрес</target>
+        </trans-unit>
+        <trans-unit id="SendAll" translate="yes" xml:space="preserve">
+          <source>Send all</source>
+          <target state="final">Отправить всё</target>
+        </trans-unit>
+        <trans-unit id="WalletNameIsEmpty" translate="yes" xml:space="preserve">
+          <source>Wallet name is empty</source>
+          <target state="final">Не задано название кошелька</target>
+        </trans-unit>
+        <trans-unit id="AddressTypeIsNotSupported" translate="yes" xml:space="preserve">
+          <source>This address type is not supported yet. Only Pubkey hash (P2PKH address) &amp; Script hash (P2SH address) are supported.</source>
+          <target state="final">Этот тип адреса не поддерживается. Поддерживаются только хэш публичног ключа (P2PKH адрес) и хэш скрипта (P2SH адрес).</target>
+        </trans-unit>
+        <trans-unit id="AddressTypes" translate="yes" xml:space="preserve">
+          <source>Address types</source>
+          <target state="final">Типы адресов</target>
+        </trans-unit>
+        <trans-unit id="Delete" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="final">Удалить</target>
+        </trans-unit>
+        <trans-unit id="Next" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="final">Далее</target>
+        </trans-unit>
+        <trans-unit id="AddForTracking" translate="yes" xml:space="preserve">
+          <source>Add for tracking</source>
+          <target state="final">Добавить для отслеживания</target>
+        </trans-unit>
+        <trans-unit id="AddedForTracking" translate="yes" xml:space="preserve">
+          <source>Added for tracking</source>
+          <target state="final">Добавлен для отслеживания</target>
+        </trans-unit>
+        <trans-unit id="UnspendableAttention" translate="yes" xml:space="preserve">
+          <source>Attention! It seems you don't have private key for this address. You can't spend coins without the private key.</source>
+          <target state="final">Внимание! Похоже, у вас нет закрытого ключа для этого адреса. Вы не можете тратить монеты без закрытого ключа.</target>
         </trans-unit>
       </group>
     </body>

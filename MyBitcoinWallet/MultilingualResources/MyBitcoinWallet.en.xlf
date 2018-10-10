@@ -55,8 +55,8 @@
           <target state="final">Add wallet</target>
         </trans-unit>
         <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
-          <source>Personal, import</source>
-          <target state="final">Personal, import</target>
+          <source>Personal, import, tracking</source>
+          <target state="final">Personal, import, tracking</target>
         </trans-unit>
         <trans-unit id="NewPersonalWalletTextBlock.Text" translate="yes" xml:space="preserve">
           <source>New personal wallet</source>
@@ -195,8 +195,8 @@
           <target state="final">Bitcoin address</target>
         </trans-unit>
         <trans-unit id="ReadyTextBlock.Text" translate="yes" xml:space="preserve">
-          <source>Ready</source>
-          <target state="final">Ready</target>
+          <source>Next</source>
+          <target state="final">Next</target>
         </trans-unit>
         <trans-unit id="Amount" translate="yes" xml:space="preserve">
           <source>Amount</source>
@@ -449,6 +449,94 @@
         <trans-unit id="DownloadingAltCurrenciesTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Downloading currencies...</source>
           <target state="final">Downloading currencies...</target>
+        </trans-unit>
+        <trans-unit id="DetailsHyperlinkButton.Content" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <target state="final">Details</target>
+        </trans-unit>
+        <trans-unit id="AddAddressToTrackDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Watch transactions</source>
+          <target state="final">Watch transactions</target>
+        </trans-unit>
+        <trans-unit id="AddAddressToTrackTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Public address</source>
+          <target state="final">Public address</target>
+        </trans-unit>
+        <trans-unit id="AddWalletTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Add wallet</source>
+          <target state="final">Add wallet</target>
+        </trans-unit>
+        <trans-unit id="AddressTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="final">Address</target>
+        </trans-unit>
+        <trans-unit id="Bech32" translate="yes" xml:space="preserve">
+          <source>Bech32 pubkey hash or script hash</source>
+          <target state="final">Bech32 pubkey hash or script hash</target>
+        </trans-unit>
+        <trans-unit id="BIP32" translate="yes" xml:space="preserve">
+          <source>BIP32 pubkey (derived addresses are not supported yet)</source>
+          <target state="final">BIP32 pubkey (derived addresses are not supported yet)</target>
+        </trans-unit>
+        <trans-unit id="BIP32_PrivateKey" translate="yes" xml:space="preserve">
+          <source>BIP32 private key (derived addresses are not supported yet)</source>
+          <target state="final">BIP32 private key (derived addresses are not supported yet)</target>
+        </trans-unit>
+        <trans-unit id="CompressedPublicKey" translate="yes" xml:space="preserve">
+          <source>Private key (WIF, compressed pubkey)</source>
+          <target state="final">Private key (WIF, compressed pubkey)</target>
+        </trans-unit>
+        <trans-unit id="P2PKH" translate="yes" xml:space="preserve">
+          <source>Pubkey hash (P2PKH address)</source>
+          <target state="final">Pubkey hash (P2PKH address)</target>
+        </trans-unit>
+        <trans-unit id="P2SH" translate="yes" xml:space="preserve">
+          <source>Script hash (P2SH address)</source>
+          <target state="final">Script hash (P2SH address)</target>
+        </trans-unit>
+        <trans-unit id="UncompressedPubKey" translate="yes" xml:space="preserve">
+          <source>Private key (WIF, uncompressed pubkey)</source>
+          <target state="final">Private key (WIF, uncompressed pubkey)</target>
+        </trans-unit>
+        <trans-unit id="SendAllTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Send all</source>
+          <target state="final">Send all</target>
+        </trans-unit>
+        <trans-unit id="AddressTypeIsNotSupported" translate="yes" xml:space="preserve">
+          <source>This address type is not supported yet. Only Pubkey hash (P2PKH address) &amp; Script hash (P2SH address) are supported.</source>
+          <target state="final">This address type is not supported yet. Only Pubkey hash (P2PKH address) &amp; Script hash (P2SH address) are supported.</target>
+        </trans-unit>
+        <trans-unit id="WalletNameIsEmpty" translate="yes" xml:space="preserve">
+          <source>Wallet name is empty</source>
+          <target state="final">Wallet name is empty</target>
+        </trans-unit>
+        <trans-unit id="AddressTypes" translate="yes" xml:space="preserve">
+          <source>Address types</source>
+          <target state="final">Address types</target>
+        </trans-unit>
+        <trans-unit id="AddressTypesHyperlinkButton.Content" translate="yes" xml:space="preserve">
+          <source>Address types</source>
+          <target state="final">Address types</target>
+        </trans-unit>
+        <trans-unit id="AddressIsNotRecognized" translate="yes" xml:space="preserve">
+          <source>Address is not recognized</source>
+          <target state="final">Address is not recognized</target>
+        </trans-unit>
+        <trans-unit id="DeleteText.Text" translate="yes" xml:space="preserve">
+          <source>Delete</source>
+          <target state="final">Delete</target>
+        </trans-unit>
+        <trans-unit id="AddedForTracking" translate="yes" xml:space="preserve">
+          <source>Added for tracking</source>
+          <target state="final">Added for tracking</target>
+        </trans-unit>
+        <trans-unit id="AddForTrackingTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Add for tracking</source>
+          <target state="final">Add for tracking</target>
+        </trans-unit>
+        <trans-unit id="UnspendableAttentionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Attention! It seems you don't have private key for this address. You can't spend coins without the private key.</source>
+          <target state="final">Attention! It seems you don't have private key for this address. You can't spend coins without the private key.</target>
         </trans-unit>
       </group>
     </body>
