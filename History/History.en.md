@@ -1,4 +1,4 @@
-1.41.0.0:
+1.42.0.0:
 - Send all from a wallet is supported.
 - Tracking any public address support has been added.
 
