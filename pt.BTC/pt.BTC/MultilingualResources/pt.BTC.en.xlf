@@ -8,499 +8,507 @@
       <group id="PT.BTC/RESOURCES/STRINGS/STRINGS.RESX" datatype="resx">
         <trans-unit id="FingerprintMessage" translate="yes" xml:space="preserve">
           <source>Enable your Bitcoin ability</source>
-          <target state="translated">Unlock your wallets</target>
+          <target state="final">Unlock your wallets</target>
         </trans-unit>
         <trans-unit id="LockApp" translate="yes" xml:space="preserve">
           <source>Lock App</source>
-          <target state="translated">Lock App</target>
+          <target state="final">Lock App</target>
         </trans-unit>
         <trans-unit id="LockAppDescription" translate="yes" xml:space="preserve">
           <source>PIN, fingerprint</source>
-          <target state="translated">PIN, fingerprint</target>
+          <target state="final">PIN, fingerprint</target>
         </trans-unit>
         <trans-unit id="RepeatPinCode" translate="yes" xml:space="preserve">
           <source>Repeat PIN code</source>
-          <target state="translated">Repeat PIN code</target>
+          <target state="final">Repeat PIN code</target>
         </trans-unit>
         <trans-unit id="Settings" translate="yes" xml:space="preserve">
           <source>Settings</source>
-          <target state="translated">Settings</target>
+          <target state="final">Settings</target>
         </trans-unit>
         <trans-unit id="SetYourPinCode" translate="yes" xml:space="preserve">
           <source>Enter PIN code</source>
-          <target state="translated">Enter PIN code</target>
+          <target state="final">Enter PIN code</target>
         </trans-unit>
         <trans-unit id="Success" translate="yes" xml:space="preserve">
           <source>Success!</source>
-          <target state="translated">Success!</target>
+          <target state="final">Success!</target>
         </trans-unit>
         <trans-unit id="UseFingerprint" translate="yes" xml:space="preserve">
           <source>Use fingerprint</source>
-          <target state="translated">Use fingerprint</target>
+          <target state="final">Use fingerprint</target>
         </trans-unit>
         <trans-unit id="Wallet" translate="yes" xml:space="preserve">
           <source>Wallet</source>
-          <target state="translated">Wallet</target>
+          <target state="final">Wallet</target>
         </trans-unit>
         <trans-unit id="Wallets" translate="yes" xml:space="preserve">
           <source>Wallets</source>
-          <target state="translated">Wallets</target>
+          <target state="final">Wallets</target>
         </trans-unit>
         <trans-unit id="WrongPinTryAgain" translate="yes" xml:space="preserve">
           <source>Wrong PIN. Try again.</source>
-          <target state="translated">Wrong PIN. Try again.</target>
+          <target state="final">Wrong PIN. Try again.</target>
         </trans-unit>
         <trans-unit id="AddWallet" translate="yes" xml:space="preserve">
           <source>Add wallet</source>
-          <target state="translated">Add wallet</target>
+          <target state="final">Add wallet</target>
         </trans-unit>
         <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
           <source>Personal, import, tracking</source>
-          <target state="translated">Personal, import</target>
+          <target state="final">Personal, import</target>
         </trans-unit>
         <trans-unit id="NewPersonalWallet" translate="yes" xml:space="preserve">
           <source>New personal wallet</source>
-          <target state="translated">New personal wallet</target>
+          <target state="final">New personal wallet</target>
         </trans-unit>
         <trans-unit id="Date" translate="yes" xml:space="preserve">
           <source>Date</source>
-          <target state="translated">Date</target>
+          <target state="final">Date</target>
         </trans-unit>
         <trans-unit id="PrivateKey" translate="yes" xml:space="preserve">
           <source>Private key</source>
-          <target state="translated">Private key</target>
+          <target state="final">Private key</target>
         </trans-unit>
         <trans-unit id="WalletName" translate="yes" xml:space="preserve">
           <source>Wallet name</source>
-          <target state="translated">Wallet name</target>
+          <target state="final">Wallet name</target>
         </trans-unit>
         <trans-unit id="WalletNamePlaceholder" translate="yes" xml:space="preserve">
           <source>My car fund</source>
-          <target state="translated">My car fund</target>
+          <target state="final">My car fund</target>
         </trans-unit>
         <trans-unit id="CreateNewWallet" translate="yes" xml:space="preserve">
           <source>Create new wallet</source>
-          <target state="translated">Create new wallet</target>
+          <target state="final">Create new wallet</target>
         </trans-unit>
         <trans-unit id="WalletSettings" translate="yes" xml:space="preserve">
           <source>Wallet settings</source>
-          <target state="translated">Wallet settings</target>
+          <target state="final">Wallet settings</target>
         </trans-unit>
         <trans-unit id="UseTestNet" translate="yes" xml:space="preserve">
           <source>Use Testnet</source>
-          <target state="translated">Use Testnet</target>
+          <target state="final">Use Testnet</target>
         </trans-unit>
         <trans-unit id="ContributeTranslationText" translate="yes" xml:space="preserve">
           <source>We're always looking for translation contributions! You can make corrections or help to make this app available in your language by joining our community on GitHub</source>
-          <target state="translated">We're always looking for translation contributions! You can make corrections or help to make this app available in your language by joining our community on GitHub</target>
+          <target state="final">We're always looking for translation contributions! You can make corrections or help to make this app available in your language by joining our community on GitHub</target>
         </trans-unit>
         <trans-unit id="ContributeTranslationCommandCommandText" translate="yes" xml:space="preserve">
           <source>Contribute translation</source>
-          <target state="translated">Contribute translation</target>
+          <target state="final">Contribute translation</target>
         </trans-unit>
         <trans-unit id="Language" translate="yes" xml:space="preserve">
           <source>Language</source>
-          <target state="translated">Language</target>
+          <target state="final">Language</target>
         </trans-unit>
         <trans-unit id="WalletBackupMessage" translate="yes" xml:space="preserve">
           <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</source>
-          <target state="translated">Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</target>
+          <target state="final">Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</target>
         </trans-unit>
         <trans-unit id="PasswordsAreNotTheSame" translate="yes" xml:space="preserve">
           <source>Passwords are not the same.</source>
-          <target state="translated">Passwords are not the same.</target>
+          <target state="final">Passwords are not the same.</target>
         </trans-unit>
         <trans-unit id="PasswordRepeat" translate="yes" xml:space="preserve">
           <source>Repeat</source>
-          <target state="translated">Repeat</target>
+          <target state="final">Repeat</target>
         </trans-unit>
         <trans-unit id="RestoringPassword" translate="yes" xml:space="preserve">
           <source>Password</source>
-          <target state="translated">Password</target>
+          <target state="final">Password</target>
         </trans-unit>
         <trans-unit id="EnterPassword" translate="yes" xml:space="preserve">
           <source>Enter the restoring password.</source>
-          <target state="translated">Enter the restoring password.</target>
+          <target state="final">Enter the restoring password.</target>
         </trans-unit>
         <trans-unit id="CopyMnemonicToClipboard" translate="yes" xml:space="preserve">
           <source>Copy the mnemonic to clipboard</source>
-          <target state="translated">Copy the mnemonic to clipboard</target>
+          <target state="final">Copy the mnemonic to clipboard</target>
         </trans-unit>
         <trans-unit id="ShowHideMnemonic" translate="yes" xml:space="preserve">
           <source>Show/hide the mnemonic</source>
-          <target state="translated">Show/hide the mnemonic</target>
+          <target state="final">Show/hide the mnemonic</target>
         </trans-unit>
         <trans-unit id="MnemonicLanguage" translate="yes" xml:space="preserve">
           <source>Mnemonic language</source>
-          <target state="translated">Mnemonic language</target>
+          <target state="final">Mnemonic language</target>
         </trans-unit>
         <trans-unit id="RegenerateMnemonic" translate="yes" xml:space="preserve">
           <source>Regenerate the mnemonic</source>
-          <target state="translated">Regenerate the mnemonic</target>
+          <target state="final">Regenerate the mnemonic</target>
         </trans-unit>
         <trans-unit id="Copied" translate="yes" xml:space="preserve">
           <source>Copied</source>
-          <target state="translated">Copied</target>
+          <target state="final">Copied</target>
         </trans-unit>
         <trans-unit id="Receive" translate="yes" xml:space="preserve">
           <source>Receive</source>
-          <target state="translated">Receive</target>
+          <target state="final">Receive</target>
         </trans-unit>
         <trans-unit id="ErrorGetAccount" translate="yes" xml:space="preserve">
           <source>Error on getting the account from DB. Try again later. We investigate it. System message in case you need it:</source>
-          <target state="translated">Error on getting the account from DB. Try again later. We investigate it. System message in case you need it:</target>
+          <target state="final">Error on getting the account from DB. Try again later. We investigate it. System message in case you need it:</target>
         </trans-unit>
         <trans-unit id="Login" translate="yes" xml:space="preserve">
           <source>Login</source>
-          <target state="translated">Login</target>
+          <target state="final">Login</target>
         </trans-unit>
         <trans-unit id="Setup" translate="yes" xml:space="preserve">
           <source>Setup</source>
-          <target state="translated">Setup</target>
+          <target state="final">Setup</target>
         </trans-unit>
         <trans-unit id="PubAddressInfo" translate="yes" xml:space="preserve">
           <source>We constantly update the public address to make it more difficult for third parties to track your assets. Funds transferred to any generated address will be available.</source>
-          <target state="translated">We constantly update the public address to make it more difficult for third parties to track your assets. Funds transferred to any generated address will be available.</target>
+          <target state="final">We constantly update the public address to make it more difficult for third parties to track your assets. Funds transferred to any generated address will be available.</target>
         </trans-unit>
         <trans-unit id="UpdateBalance" translate="yes" xml:space="preserve">
           <source>Update balance</source>
-          <target state="translated">Update balance</target>
+          <target state="final">Update balance</target>
         </trans-unit>
         <trans-unit id="UpdatingBalance" translate="yes" xml:space="preserve">
           <source>Updating balance...</source>
-          <target state="translated">Updating balance...</target>
+          <target state="final">Updating balance...</target>
         </trans-unit>
         <trans-unit id="ErrorGetBalance" translate="yes" xml:space="preserve">
           <source>Error on getting the balance. Try again later. We investigate it. System message in case you need it:</source>
-          <target state="translated">Error on getting the balance. Try again later. We investigate it. System message in case you need it:</target>
+          <target state="final">Error on getting the balance. Try again later. We investigate it. System message in case you need it:</target>
         </trans-unit>
         <trans-unit id="Refresh" translate="yes" xml:space="preserve">
           <source>Refresh</source>
-          <target state="translated">Refresh</target>
+          <target state="final">Refresh</target>
         </trans-unit>
         <trans-unit id="Main" translate="yes" xml:space="preserve">
           <source>Main</source>
-          <target state="translated">Main</target>
+          <target state="final">Main</target>
         </trans-unit>
         <trans-unit id="Send" translate="yes" xml:space="preserve">
           <source>Send</source>
-          <target state="translated">Send</target>
+          <target state="final">Send</target>
         </trans-unit>
         <trans-unit id="BitcoinAddress" translate="yes" xml:space="preserve">
           <source>Bitcoin address</source>
-          <target state="translated">Bitcoin address</target>
+          <target state="final">Bitcoin address</target>
         </trans-unit>
         <trans-unit id="Recipient" translate="yes" xml:space="preserve">
           <source>Recipient</source>
-          <target state="translated">Recipient</target>
+          <target state="final">Recipient</target>
         </trans-unit>
         <trans-unit id="Ready" translate="yes" xml:space="preserve">
           <source>Ready</source>
-          <target state="translated">Ready</target>
+          <target state="final">Ready</target>
         </trans-unit>
         <trans-unit id="InvalidBitcoinAddress" translate="yes" xml:space="preserve">
           <source>Invalid bitcoin address. Test network wallets are not able to sent coins to the Main network &amp; vice versa.</source>
-          <target state="translated">Invalid bitcoin address. Test network wallets are not able to sent coins to the Main network &amp; vice versa.</target>
+          <target state="final">Invalid bitcoin address. Test network wallets are not able to sent coins to the Main network &amp; vice versa.</target>
         </trans-unit>
         <trans-unit id="Amount" translate="yes" xml:space="preserve">
           <source>Amount</source>
-          <target state="translated">Amount</target>
+          <target state="final">Amount</target>
         </trans-unit>
         <trans-unit id="From" translate="yes" xml:space="preserve">
           <source>From</source>
-          <target state="translated">From</target>
+          <target state="final">From</target>
         </trans-unit>
         <trans-unit id="To" translate="yes" xml:space="preserve">
           <source>To</source>
-          <target state="translated">To</target>
+          <target state="final">To</target>
         </trans-unit>
         <trans-unit id="Fee" translate="yes" xml:space="preserve">
           <source>Fee</source>
-          <target state="translated">Fee</target>
+          <target state="final">Fee</target>
         </trans-unit>
         <trans-unit id="FeeEconomy" translate="yes" xml:space="preserve">
           <source>Economy</source>
-          <target state="translated">Economy</target>
+          <target state="final">Economy</target>
         </trans-unit>
         <trans-unit id="FeeNormal" translate="yes" xml:space="preserve">
           <source>Normal</source>
-          <target state="translated">Normal</target>
+          <target state="final">Normal</target>
         </trans-unit>
         <trans-unit id="FeePriority" translate="yes" xml:space="preserve">
           <source>Priority</source>
-          <target state="translated">Priority</target>
+          <target state="final">Priority</target>
         </trans-unit>
         <trans-unit id="FeeSuperEconomy" translate="yes" xml:space="preserve">
           <source>Super economy</source>
-          <target state="translated">Super economy</target>
+          <target state="final">Super economy</target>
         </trans-unit>
         <trans-unit id="FeeUrgent" translate="yes" xml:space="preserve">
           <source>Urgent</source>
-          <target state="translated">Urgent</target>
+          <target state="final">Urgent</target>
         </trans-unit>
         <trans-unit id="SupportDeveloper" translate="yes" xml:space="preserve">
           <source>Support developer</source>
-          <target state="translated">Support developer</target>
+          <target state="final">Support developer</target>
         </trans-unit>
         <trans-unit id="EstimatedFee" translate="yes" xml:space="preserve">
           <source>Estimated network fee</source>
-          <target state="translated">Estimated network fee</target>
+          <target state="final">Estimated network fee</target>
         </trans-unit>
         <trans-unit id="EstimatedProcessingTime" translate="yes" xml:space="preserve">
           <source>Estimated processing time</source>
-          <target state="translated">Estimated processing time</target>
+          <target state="final">Estimated processing time</target>
         </trans-unit>
         <trans-unit id="NetworkFeePolicy" translate="yes" xml:space="preserve">
           <source>Network fee policy</source>
-          <target state="translated">Network fee policy</target>
+          <target state="final">Network fee policy</target>
         </trans-unit>
         <trans-unit id="NotEnoughCoins" translate="yes" xml:space="preserve">
           <source>Not enough funds</source>
-          <target state="translated">Not enough funds</target>
+          <target state="final">Not enough funds</target>
         </trans-unit>
         <trans-unit id="TransactionIsNotVerified" translate="yes" xml:space="preserve">
           <source>Can not verify your transaction. Try again or change fee policy.</source>
-          <target state="translated">Can not verify your transaction. Try again or change fee policy.</target>
+          <target state="final">Can not verify your transaction. Try again or change fee policy.</target>
         </trans-unit>
         <trans-unit id="CantParseTheAmountValue" translate="yes" xml:space="preserve">
           <source>Can't parse the amount value. Try to change the decimal separator</source>
-          <target state="translated">Can't parse the amount value. Try to change the decimal separator</target>
+          <target state="final">Can't parse the amount value. Try to change the decimal separator</target>
         </trans-unit>
         <trans-unit id="Total" translate="yes" xml:space="preserve">
           <source>Total</source>
-          <target state="translated">Total</target>
+          <target state="final">Total</target>
         </trans-unit>
         <trans-unit id="Scan" translate="yes" xml:space="preserve">
           <source>Scan</source>
-          <target state="translated">Scan</target>
+          <target state="final">Scan</target>
         </trans-unit>
         <trans-unit id="ErrorNoAccount" translate="yes" xml:space="preserve">
           <source>There is no account to send coins to the address from network. Network type:</source>
-          <target state="translated">There is no account to send coins to the address from network. Network type:</target>
+          <target state="final">There is no account to send coins to the address from network. Network type:</target>
         </trans-unit>
         <trans-unit id="Mainnet" translate="yes" xml:space="preserve">
           <source>Main network</source>
-          <target state="translated">Main network</target>
+          <target state="final">Main network</target>
         </trans-unit>
         <trans-unit id="Testnet" translate="yes" xml:space="preserve">
           <source>Test network</source>
-          <target state="translated">Test network</target>
+          <target state="final">Test network</target>
         </trans-unit>
         <trans-unit id="ImportWallet" translate="yes" xml:space="preserve">
           <source>Import wallet</source>
-          <target state="translated">Import wallet</target>
+          <target state="final">Import wallet</target>
         </trans-unit>
         <trans-unit id="SavePassword" translate="yes" xml:space="preserve">
           <source>Save password in device's password storage</source>
-          <target state="translated">Save password in device's password storage</target>
+          <target state="final">Save password in device's password storage</target>
         </trans-unit>
         <trans-unit id="Mnemonic" translate="yes" xml:space="preserve">
           <source>Mnemonic</source>
-          <target state="translated">Mnemonic</target>
+          <target state="final">Mnemonic</target>
         </trans-unit>
         <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
           <source>Invalid password</source>
-          <target state="translated">Invalid password</target>
+          <target state="final">Invalid password</target>
         </trans-unit>
         <trans-unit id="Save" translate="yes" xml:space="preserve">
           <source>Save</source>
-          <target state="translated">Save</target>
+          <target state="final">Save</target>
         </trans-unit>
         <trans-unit id="FeeFree" translate="yes" xml:space="preserve">
           <source>Free</source>
-          <target state="translated">Free</target>
+          <target state="final">Free</target>
         </trans-unit>
         <trans-unit id="Feedback" translate="yes" xml:space="preserve">
           <source>Feedback</source>
-          <target state="translated">Feedback</target>
+          <target state="final">Feedback</target>
         </trans-unit>
         <trans-unit id="FeedbackDescription" translate="yes" xml:space="preserve">
           <source>Email, Review, Github</source>
-          <target state="translated">Email, Review, Github</target>
+          <target state="final">Email, Review, Github</target>
         </trans-unit>
         <trans-unit id="EmailToSupport" translate="yes" xml:space="preserve">
           <source>e-mail to: support@panteam.net</source>
-          <target state="translated">e-mail to: support@panteam.net</target>
+          <target state="final">e-mail to: support@panteam.net</target>
         </trans-unit>
         <trans-unit id="OpenIssueOnGitHub" translate="yes" xml:space="preserve">
           <source>Open issue on GitHub</source>
-          <target state="translated">Open issue on GitHub</target>
+          <target state="final">Open issue on GitHub</target>
         </trans-unit>
         <trans-unit id="OpenOnBlockchain" translate="yes" xml:space="preserve">
           <source>Open on blockchain</source>
-          <target state="translated">Open on blockchain</target>
+          <target state="final">Open on blockchain</target>
         </trans-unit>
         <trans-unit id="WriteReview" translate="yes" xml:space="preserve">
           <source>Write a review</source>
-          <target state="translated">Write a review</target>
+          <target state="final">Write a review</target>
         </trans-unit>
         <trans-unit id="Confirmations" translate="yes" xml:space="preserve">
           <source>Confirmations:</source>
-          <target state="translated">Confirmations:</target>
+          <target state="final">Confirmations:</target>
         </trans-unit>
         <trans-unit id="Transaction" translate="yes" xml:space="preserve">
           <source>Transaction</source>
-          <target state="translated">Transaction</target>
+          <target state="final">Transaction</target>
         </trans-unit>
         <trans-unit id="TransactionNoInternet" translate="yes" xml:space="preserve">
           <source>No Internet. Can't update amount &amp; confirmations.</source>
-          <target state="translated">No Internet. Can't update amount &amp; confirmations.</target>
+          <target state="final">No Internet. Can't update amount &amp; confirmations.</target>
         </trans-unit>
         <trans-unit id="Memo" translate="yes" xml:space="preserve">
           <source>Memo</source>
-          <target state="translated">Memo</target>
+          <target state="final">Memo</target>
         </trans-unit>
         <trans-unit id="BackgroundTasks" translate="yes" xml:space="preserve">
           <source>Background tasks</source>
-          <target state="translated">Background tasks</target>
+          <target state="final">Background tasks</target>
         </trans-unit>
         <trans-unit id="NoBackgroundTasks" translate="yes" xml:space="preserve">
           <source>No background tasks</source>
-          <target state="translated">No background tasks</target>
+          <target state="final">No background tasks</target>
         </trans-unit>
         <trans-unit id="UpdateBalanceTimeout" translate="yes" xml:space="preserve">
           <source>Updating interval</source>
-          <target state="translated">Updating interval</target>
+          <target state="final">Updating interval</target>
         </trans-unit>
         <trans-unit id="UpdateBalanceTimeoutHeader" translate="yes" xml:space="preserve">
           <source>HH:mm</source>
-          <target state="translated">HH:mm</target>
+          <target state="final">HH:mm</target>
         </trans-unit>
         <trans-unit id="HH" translate="yes" xml:space="preserve">
           <source>HH</source>
-          <target state="translated">HH</target>
+          <target state="final">HH</target>
         </trans-unit>
         <trans-unit id="mm" translate="yes" xml:space="preserve">
           <source>mm</source>
-          <target state="translated">mm</target>
+          <target state="final">mm</target>
         </trans-unit>
         <trans-unit id="Confirmed" translate="yes" xml:space="preserve">
           <source>Confirmed</source>
-          <target state="translated">Confirmed</target>
+          <target state="final">Confirmed</target>
         </trans-unit>
         <trans-unit id="Unconfirmed" translate="yes" xml:space="preserve">
           <source>Unconfirmed</source>
-          <target state="translated">Unconfirmed</target>
+          <target state="final">Unconfirmed</target>
         </trans-unit>
         <trans-unit id="TransactionId" translate="yes" xml:space="preserve">
           <source>Transaction ID</source>
-          <target state="translated">Transaction ID</target>
+          <target state="final">Transaction ID</target>
         </trans-unit>
         <trans-unit id="UpdatingBalanceDescription" translate="yes" xml:space="preserve">
           <source>We don't track your assets. Your device will be using a background task to track your assets. The balance updating interval is not accurate it depends on your device's OS.</source>
-          <target state="translated">We don't track your assets. Your device will be using a background task to track your assets. The balance updating interval is not accurate it depends on your device's OS.</target>
+          <target state="final">We don't track your assets. Your device will be using a background task to track your assets. The balance updating interval is not accurate it depends on your device's OS.</target>
         </trans-unit>
         <trans-unit id="ShowNotificationsEvenNoChanges" translate="yes" xml:space="preserve">
           <source>Show notifications when no changes</source>
-          <target state="translated">Show notifications when no changes</target>
+          <target state="final">Show notifications when no changes</target>
         </trans-unit>
         <trans-unit id="Transactions" translate="yes" xml:space="preserve">
           <source>Transactions</source>
-          <target state="translated">Transactions</target>
+          <target state="final">Transactions</target>
         </trans-unit>
         <trans-unit id="AlternativeCurrency" translate="yes" xml:space="preserve">
           <source>Alternative currency</source>
-          <target state="new">Alternative currency</target>
+          <target state="final">Alternative currency</target>
         </trans-unit>
         <trans-unit id="AltCurrencyFilterPlaceholder" translate="yes" xml:space="preserve">
           <source>Search by short or full name</source>
-          <target state="new">Search by short or full name</target>
+          <target state="final">Search by short or full name</target>
         </trans-unit>
         <trans-unit id="TestNetCoinsValue" translate="yes" xml:space="preserve">
           <source>Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</source>
-          <target state="new">Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</target>
+          <target state="final">Testnet coins are separate and distinct from actual bitcoins and are never supposed to have any value</target>
         </trans-unit>
         <trans-unit id="DontUseAltCurrency" translate="yes" xml:space="preserve">
           <source>Don't use alt currency</source>
-          <target state="new">Don't use alt currency</target>
+          <target state="final">Don't use alt currency</target>
         </trans-unit>
         <trans-unit id="DownloadingAltCurrenices" translate="yes" xml:space="preserve">
           <source>Downloading currencies...</source>
-          <target state="new">Downloading currencies...</target>
+          <target state="final">Downloading currencies...</target>
         </trans-unit>
         <trans-unit id="AddressIsNotRecognized" translate="yes" xml:space="preserve">
           <source>Address is not recognized</source>
-          <target state="new">Address is not recognized</target>
+          <target state="final">Address is not recognized</target>
         </trans-unit>
         <trans-unit id="Bech32" translate="yes" xml:space="preserve">
           <source>Bech32 pubkey hash or script hash</source>
-          <target state="new">Bech32 pubkey hash or script hash</target>
+          <target state="final">Bech32 pubkey hash or script hash</target>
         </trans-unit>
         <trans-unit id="BIP32" translate="yes" xml:space="preserve">
           <source>BIP32 pubkey (derived addresses are not supported yet)</source>
-          <target state="new">BIP32 pubkey (derived addresses are not supported yet)</target>
+          <target state="final">BIP32 pubkey (derived addresses are not supported yet)</target>
         </trans-unit>
         <trans-unit id="BIP32_PrivateKey" translate="yes" xml:space="preserve">
           <source>BIP32 private key (derived addresses are not supported yet)</source>
-          <target state="new">BIP32 private key (derived addresses are not supported yet)</target>
+          <target state="final">BIP32 private key (derived addresses are not supported yet)</target>
         </trans-unit>
         <trans-unit id="CompressedPublicKey" translate="yes" xml:space="preserve">
           <source>Private key (WIF, compressed pubkey)</source>
-          <target state="new">Private key (WIF, compressed pubkey)</target>
+          <target state="final">Private key (WIF, compressed pubkey)</target>
         </trans-unit>
         <trans-unit id="P2PKH" translate="yes" xml:space="preserve">
           <source>Pubkey hash (P2PKH address)</source>
-          <target state="new">Pubkey hash (P2PKH address)</target>
+          <target state="final">Pubkey hash (P2PKH address)</target>
         </trans-unit>
         <trans-unit id="P2SH" translate="yes" xml:space="preserve">
           <source>Script hash (P2SH address)</source>
-          <target state="new">Script hash (P2SH address)</target>
+          <target state="final">Script hash (P2SH address)</target>
         </trans-unit>
         <trans-unit id="UncompressedPubKey" translate="yes" xml:space="preserve">
           <source>Private key (WIF, uncompressed pubkey)</source>
-          <target state="new">Private key (WIF, uncompressed pubkey)</target>
+          <target state="final">Private key (WIF, uncompressed pubkey)</target>
         </trans-unit>
         <trans-unit id="AddAddressToTrackWallet" translate="yes" xml:space="preserve">
           <source>Public address</source>
-          <target state="new">Public address</target>
+          <target state="final">Public address</target>
         </trans-unit>
         <trans-unit id="TrackingAddressDescription" translate="yes" xml:space="preserve">
           <source>Watch transactions</source>
-          <target state="new">Watch transactions</target>
+          <target state="final">Watch transactions</target>
         </trans-unit>
         <trans-unit id="Details" translate="yes" xml:space="preserve">
           <source>Details</source>
-          <target state="new">Details</target>
+          <target state="final">Details</target>
         </trans-unit>
         <trans-unit id="Address" translate="yes" xml:space="preserve">
           <source>Address</source>
-          <target state="new">Address</target>
+          <target state="final">Address</target>
         </trans-unit>
         <trans-unit id="SendAll" translate="yes" xml:space="preserve">
           <source>Send all</source>
-          <target state="new">Send all</target>
+          <target state="final">Send all</target>
         </trans-unit>
         <trans-unit id="AddressTypeIsNotSupported" translate="yes" xml:space="preserve">
           <source>This address type is not supported yet. Only Pubkey hash (P2PKH address) &amp; Script hash (P2SH address) are supported.</source>
-          <target state="new">This address type is not supported yet. Only Pubkey hash (P2PKH address) &amp; Script hash (P2SH address) are supported.</target>
+          <target state="final">This address type is not supported yet. Only Pubkey hash (P2PKH address) &amp; Script hash (P2SH address) are supported.</target>
         </trans-unit>
         <trans-unit id="WalletNameIsEmpty" translate="yes" xml:space="preserve">
           <source>Wallet name is empty</source>
-          <target state="new">Wallet name is empty</target>
+          <target state="final">Wallet name is empty</target>
         </trans-unit>
         <trans-unit id="AddressTypes" translate="yes" xml:space="preserve">
           <source>Address types</source>
-          <target state="new">Address types</target>
+          <target state="final">Address types</target>
         </trans-unit>
         <trans-unit id="Delete" translate="yes" xml:space="preserve">
           <source>Delete</source>
-          <target state="new">Delete</target>
+          <target state="final">Delete</target>
         </trans-unit>
         <trans-unit id="Next" translate="yes" xml:space="preserve">
           <source>Next</source>
-          <target state="new">Next</target>
+          <target state="final">Next</target>
         </trans-unit>
         <trans-unit id="AddForTracking" translate="yes" xml:space="preserve">
           <source>Add for tracking</source>
-          <target state="new">Add for tracking</target>
+          <target state="final">Add for tracking</target>
         </trans-unit>
         <trans-unit id="AddedForTracking" translate="yes" xml:space="preserve">
           <source>Added for tracking</source>
-          <target state="new">Added for tracking</target>
+          <target state="final">Added for tracking</target>
         </trans-unit>
         <trans-unit id="UnspendableAttention" translate="yes" xml:space="preserve">
           <source>Attention! It seems you don't have private key for this address. You can't spend coins without the private key.</source>
-          <target state="new">Attention! It seems you don't have private key for this address. You can't spend coins without the private key.</target>
+          <target state="final">Attention! It seems you don't have private key for this address. You can't spend coins without the private key.</target>
+        </trans-unit>
+        <trans-unit id="Leftover" translate="yes" xml:space="preserve">
+          <source>Leftover</source>
+          <target state="final">Leftover</target>
+        </trans-unit>
+        <trans-unit id="AddToSupport" translate="yes" xml:space="preserve">
+          <source>Donate leftover to dev</source>
+          <target state="final">Donate leftover to dev</target>
         </trans-unit>
       </group>
     </body>

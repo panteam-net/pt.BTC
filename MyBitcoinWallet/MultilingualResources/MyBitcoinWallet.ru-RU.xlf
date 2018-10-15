@@ -538,6 +538,14 @@
           <source>Attention! It seems you don't have private key for this address. You can't spend coins without the private key.</source>
           <target state="final">Внимание! Похоже, у вас нет закрытого ключа для этого адреса. Вы не можете тратить монеты без закрытого ключа.</target>
         </trans-unit>
+        <trans-unit id="LeftoverTextBox.Text" translate="yes" xml:space="preserve">
+          <source>Leftover</source>
+          <target state="final">Остаток</target>
+        </trans-unit>
+        <trans-unit id="AddToSupport.Text" translate="yes" xml:space="preserve">
+          <source>Donate leftover to dev</source>
+          <target state="final">Подарить остаток разработчику</target>
+        </trans-unit>
       </group>
     </body>
   </file>

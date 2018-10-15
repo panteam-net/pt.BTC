@@ -1,3 +1,7 @@
+1.46.0.0:
+- Leftover field has been added on the sending amount page.
+- Minimal fee issue has been fixed.
+
 1.42.0.0:
 - Send all from a wallet is supported.
 - Tracking any public address support has been added.
