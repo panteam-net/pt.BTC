@@ -95,8 +95,8 @@
           <target state="final">Язык</target>
         </trans-unit>
         <trans-unit id="WalletBackupMessage" translate="yes" xml:space="preserve">
-          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</source>
-          <target state="final">Пароля и мнемоники достаточно, чтобы восстановить кошелёк. Держите их в секрете. Листок бумаги в безопасном хранилище является хорошей идеей. Менеджер паролей, pt. KeePass например, тоже хорошая идея.</target>
+          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager is a good idea either, for example this one:</source>
+          <target state="final">Пароля и мнемоники достаточно для восстановления кошелька. Держите их в секрете. Листок бумаги в сейфе - хорошая идея. Менеджер паролей также является хорошей идеей, например, этот:</target>
         </trans-unit>
         <trans-unit id="PasswordsAreNotTheSame" translate="yes" xml:space="preserve">
           <source>Passwords are not the same.</source>
@@ -107,8 +107,8 @@
           <target state="final">Введите пароль восстановления.</target>
         </trans-unit>
         <trans-unit id="WalletBackupMessageTextBlock.Text" translate="yes" xml:space="preserve">
-          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</source>
-          <target state="final">Пароля и мнемоники достаточно, чтобы восстановить кошелёк. Держите их в секрете. Кусок бумаги в безопасном хранилище является хорошей идеей. Менеджер паролей, pt. KeePass например, тоже хорошая идея.</target>
+          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager is a good idea either, for example this one:</source>
+          <target state="final">Пароля и мнемоники достаточно для восстановления кошелька. Держите их в секрете. Листок бумаги в сейфе - хорошая идея. Менеджер паролей также является хорошей идеей, например, этот:</target>
         </trans-unit>
         <trans-unit id="CopyMnemonicToClipboardButton.Text" translate="yes" xml:space="preserve">
           <source>Copy the mnemonic to clipboard</source>
@@ -545,6 +545,14 @@
         <trans-unit id="AddToSupport.Text" translate="yes" xml:space="preserve">
           <source>Donate leftover to dev</source>
           <target state="final">Подарить остаток разработчику</target>
+        </trans-unit>
+        <trans-unit id="EstimatingFeeTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Estimating network fee...</source>
+          <target state="final">Оценка комиссии сети...</target>
+        </trans-unit>
+        <trans-unit id="FeeDescriptionHyperlinkButton.Content" translate="yes" xml:space="preserve">
+          <source>Network fee description</source>
+          <target state="final">Описание комиссии сети</target>
         </trans-unit>
       </group>
     </body>

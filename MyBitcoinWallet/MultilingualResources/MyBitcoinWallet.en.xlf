@@ -83,8 +83,8 @@
           <target state="final">Use Testnet</target>
         </trans-unit>
         <trans-unit id="WalletBackupMessage" translate="yes" xml:space="preserve">
-          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</source>
-          <target state="final">Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</target>
+          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager is a good idea either, for example this one:</source>
+          <target state="final">Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager is a good idea either, for example this one:</target>
         </trans-unit>
         <trans-unit id="PasswordsAreNotTheSame" translate="yes" xml:space="preserve">
           <source>Passwords are not the same.</source>
@@ -95,8 +95,8 @@
           <target state="final">Enter the restoring password.</target>
         </trans-unit>
         <trans-unit id="WalletBackupMessageTextBlock.Text" translate="yes" xml:space="preserve">
-          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</source>
-          <target state="final">Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager, pt.KeePass for example, is a good idea either.</target>
+          <source>Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager is a good idea either, for example this one:</source>
+          <target state="final">Password &amp; Mnemonic is enough to restore wallet. Keep them in secret. A piece of paper in a safe vault is a good idea. Password manager is a good idea either, for example this one:</target>
         </trans-unit>
         <trans-unit id="CopyMnemonicToClipboardButton.Text" translate="yes" xml:space="preserve">
           <source>Copy the mnemonic to clipboard</source>
@@ -545,6 +545,14 @@
         <trans-unit id="AddToSupport.Text" translate="yes" xml:space="preserve">
           <source>Donate leftover to dev</source>
           <target state="final">Donate leftover to dev</target>
+        </trans-unit>
+        <trans-unit id="EstimatingFeeTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Estimating network fee...</source>
+          <target state="final">Estimating network fee...</target>
+        </trans-unit>
+        <trans-unit id="FeeDescriptionHyperlinkButton.Content" translate="yes" xml:space="preserve">
+          <source>Network fee description</source>
+          <target state="final">Network fee description</target>
         </trans-unit>
       </group>
     </body>

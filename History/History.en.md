@@ -1,3 +1,6 @@
+1.47.0.0:
+- Improvements of stability, performance & design.
+
 1.46.0.0:
 - Leftover field has been added on the sending amount page.
 - Minimal fee issue has been fixed.
