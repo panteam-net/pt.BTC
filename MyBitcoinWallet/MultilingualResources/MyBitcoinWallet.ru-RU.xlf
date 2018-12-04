@@ -151,7 +151,7 @@
           <target state="final">Мы постоянно обновляем публичный адрес для усложнения отслеживания ваших активов третьими лицами. Переведенные на любой сгенерированный ранее адрес средства будут доступны.</target>
         </trans-unit>
         <trans-unit id="ReceiveCoinsTextBlock.Text" translate="yes" xml:space="preserve">
-          <source>Receive</source>
+          <source>Refill</source>
           <target state="final">Пополнить</target>
         </trans-unit>
         <trans-unit id="ErrorGetBalance" translate="yes" xml:space="preserve">
@@ -553,6 +553,118 @@
         <trans-unit id="FeeDescriptionHyperlinkButton.Content" translate="yes" xml:space="preserve">
           <source>Network fee description</source>
           <target state="final">Описание комиссии сети</target>
+        </trans-unit>
+        <trans-unit id="RefillOptions" translate="yes" xml:space="preserve">
+          <source>Refill options</source>
+          <target state="final">Варианты пополнения</target>
+        </trans-unit>
+        <trans-unit id="BuyBitcoinWithBankCard" translate="yes" xml:space="preserve">
+          <source>Buy bitcoin</source>
+          <target state="final">Купить биткоин</target>
+        </trans-unit>
+        <trans-unit id="BuyBitcoinWithBankCardForMainNetOnly" translate="yes" xml:space="preserve">
+          <source>For Main net wallets only</source>
+          <target state="final">Только для кошельков основной сети</target>
+        </trans-unit>
+        <trans-unit id="BuyBitcoinWithBankCardViaProvider" translate="yes" xml:space="preserve">
+          <source>With bank card via our partner</source>
+          <target state="final">С банковской карты через нашего партнера</target>
+        </trans-unit>
+        <trans-unit id="ReceiveViaPublicAddress" translate="yes" xml:space="preserve">
+          <source>Public address</source>
+          <target state="final">Публичный адрес</target>
+        </trans-unit>
+        <trans-unit id="CardPartnerWantedDetailsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>We're looking for a partner for buying BTC with bank cards. We want to provide our users ability of fast &amp; reliable BTC buying with the best price. If you want to be our partner or have any ideas about it please contact us.</source>
+          <target state="final">Мы ищем партнера для покупки BTC с помощью банковских карт. Мы хотим предоставить нашим пользователям возможность быстрой и надежной покупки BTC по лучшей цене. Если вы хотите стать нашим партнером или у вас есть идеи об этом, пожалуйста, свяжитесь с нами.</target>
+        </trans-unit>
+        <trans-unit id="CountriesNameTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Countries</source>
+          <target state="final">Страны</target>
+        </trans-unit>
+        <trans-unit id="CurrenciesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Currencies</source>
+          <target state="final">Валюты</target>
+        </trans-unit>
+        <trans-unit id="FeedbackTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="final">Обратная связь</target>
+        </trans-unit>
+        <trans-unit id="IndacoinCountriesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Worldwide 3D secure cards except China, Japan &amp; USA</source>
+          <target state="final">Карты с поддержкой 3D secure по всему миру, кроме Китая, США и Японии</target>
+        </trans-unit>
+        <trans-unit id="PartnerWantedTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Parnter wanted</source>
+          <target state="final">Разыскиваются партнёры</target>
+        </trans-unit>
+        <trans-unit id="ProvidersTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Providers</source>
+          <target state="final">Провайдеры</target>
+        </trans-unit>
+        <trans-unit id="ProviderTextBlockName.Text" translate="yes" xml:space="preserve">
+          <source>Provider</source>
+          <target state="final">Провайдер</target>
+        </trans-unit>
+        <trans-unit id="SellTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Sell</source>
+          <target state="final">Продажа</target>
+        </trans-unit>
+        <trans-unit id="LimitsTextBlockName.Text" translate="yes" xml:space="preserve">
+          <source>Limits</source>
+          <target state="final">Лимиты</target>
+        </trans-unit>
+        <trans-unit id="LimitsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Limits</source>
+          <target state="final">Лимиты</target>
+        </trans-unit>
+        <trans-unit id="BtcAmountToBuyTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>BTC amount</source>
+          <target state="final">Количество BTC</target>
+        </trans-unit>
+        <trans-unit id="BtcPriceTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>BTC price</source>
+          <target state="final">Цена BTC</target>
+        </trans-unit>
+        <trans-unit id="AmountIsLessThanMinimum" translate="yes" xml:space="preserve">
+          <source>The amount is less than minimum allowed</source>
+          <target state="final">Сумма меньше минимальной</target>
+        </trans-unit>
+        <trans-unit id="AmountIsMoreThanMaximum" translate="yes" xml:space="preserve">
+          <source>The amount is more than maximum allowed</source>
+          <target state="final">Сумма больше максимальной</target>
+        </trans-unit>
+        <trans-unit id="BuyWithCardProvidersDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>With bank card via our partner</source>
+          <target state="final">С банковской карты через нашего партнера</target>
+        </trans-unit>
+        <trans-unit id="BuyWithCardProvidersTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Buy bitcoin</source>
+          <target state="final">Купить биткоин</target>
+        </trans-unit>
+        <trans-unit id="CreateNewWallet" translate="yes" xml:space="preserve">
+          <source>Create new wallet</source>
+          <target state="final">Создать новый кошелёк</target>
+        </trans-unit>
+        <trans-unit id="NewPrivateKeyWalletWillBeAdded" translate="yes" xml:space="preserve">
+          <source>New private key wallet will be added</source>
+          <target state="final">Будет добавлен новый кошелёк с закрытым ключём</target>
+        </trans-unit>
+        <trans-unit id="AutoCreatedWallet" translate="yes" xml:space="preserve">
+          <source>Auto created wallet</source>
+          <target state="final">Автоматически созданный кошелёк</target>
+        </trans-unit>
+        <trans-unit id="BuyBtcFromIndacoinTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Buy BTC from Indacoin</source>
+          <target state="final">Купить BTC у Indacoin</target>
+        </trans-unit>
+        <trans-unit id="IdentityVerificationTextBlockName.Text" translate="yes" xml:space="preserve">
+          <source>Identity verification</source>
+          <target state="final">Проверка личности</target>
+        </trans-unit>
+        <trans-unit id="IndacoinIdentityVerificationTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Required. With Passport or Driver Licence &amp; Selfie.</source>
+          <target state="final">Требуется. С помощью паспорта или водительского удостоверения и селфи.</target>
         </trans-unit>
       </group>
     </body>

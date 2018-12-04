@@ -1,3 +1,6 @@
+1.49.0.0:
+- Third party provider for buying bitcoins has been added. Now you can buy bitcoins right in the app.
+
 1.47.0.0:
 - Improvements of stability, performance & design.
 

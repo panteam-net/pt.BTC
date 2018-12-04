@@ -139,7 +139,7 @@
           <target state="final">We constantly update the public address to make it more difficult for third parties to track your assets. Funds transferred to any generated address will be available.</target>
         </trans-unit>
         <trans-unit id="ReceiveCoinsTextBlock.Text" translate="yes" xml:space="preserve">
-          <source>Receive</source>
+          <source>Refill</source>
           <target state="final">Receive</target>
         </trans-unit>
         <trans-unit id="ErrorGetBalance" translate="yes" xml:space="preserve">
@@ -553,6 +553,118 @@
         <trans-unit id="FeeDescriptionHyperlinkButton.Content" translate="yes" xml:space="preserve">
           <source>Network fee description</source>
           <target state="final">Network fee description</target>
+        </trans-unit>
+        <trans-unit id="RefillOptions" translate="yes" xml:space="preserve">
+          <source>Refill options</source>
+          <target state="final">Refill options</target>
+        </trans-unit>
+        <trans-unit id="BuyBitcoinWithBankCard" translate="yes" xml:space="preserve">
+          <source>Buy bitcoin</source>
+          <target state="final">Buy bitcoin</target>
+        </trans-unit>
+        <trans-unit id="BuyBitcoinWithBankCardForMainNetOnly" translate="yes" xml:space="preserve">
+          <source>For Main net wallets only</source>
+          <target state="final">For Main net wallets only</target>
+        </trans-unit>
+        <trans-unit id="BuyBitcoinWithBankCardViaProvider" translate="yes" xml:space="preserve">
+          <source>With bank card via our partner</source>
+          <target state="final">With bank card via our partner</target>
+        </trans-unit>
+        <trans-unit id="ReceiveViaPublicAddress" translate="yes" xml:space="preserve">
+          <source>Public address</source>
+          <target state="final">Public address</target>
+        </trans-unit>
+        <trans-unit id="CardPartnerWantedDetailsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>We're looking for a partner for buying BTC with bank cards. We want to provide our users ability of fast &amp; reliable BTC buying with the best price. If you want to be our partner or have any ideas about it please contact us.</source>
+          <target state="final">We're looking for a partner for buying BTC with bank cards. We want to provide our users ability of fast &amp; reliable BTC buying with the best price. If you want to be our partner or have any ideas about it please contact us.</target>
+        </trans-unit>
+        <trans-unit id="CountriesNameTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Countries</source>
+          <target state="final">Countries</target>
+        </trans-unit>
+        <trans-unit id="CurrenciesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Currencies</source>
+          <target state="final">Currencies</target>
+        </trans-unit>
+        <trans-unit id="FeedbackTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Feedback</source>
+          <target state="final">Feedback</target>
+        </trans-unit>
+        <trans-unit id="IndacoinCountriesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Worldwide 3D secure cards except China, Japan &amp; USA</source>
+          <target state="final">Worldwide 3D secure cards except China, Japan &amp; USA</target>
+        </trans-unit>
+        <trans-unit id="PartnerWantedTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Parnter wanted</source>
+          <target state="final">Parnter wanted</target>
+        </trans-unit>
+        <trans-unit id="ProvidersTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Providers</source>
+          <target state="final">Providers</target>
+        </trans-unit>
+        <trans-unit id="ProviderTextBlockName.Text" translate="yes" xml:space="preserve">
+          <source>Provider</source>
+          <target state="final">Provider</target>
+        </trans-unit>
+        <trans-unit id="SellTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Sell</source>
+          <target state="final">Sell</target>
+        </trans-unit>
+        <trans-unit id="LimitsTextBlockName.Text" translate="yes" xml:space="preserve">
+          <source>Limits</source>
+          <target state="final">Limits</target>
+        </trans-unit>
+        <trans-unit id="LimitsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Limits</source>
+          <target state="final">Limits</target>
+        </trans-unit>
+        <trans-unit id="BtcAmountToBuyTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>BTC amount</source>
+          <target state="final">BTC amount</target>
+        </trans-unit>
+        <trans-unit id="BtcPriceTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>BTC price</source>
+          <target state="final">BTC price</target>
+        </trans-unit>
+        <trans-unit id="AmountIsLessThanMinimum" translate="yes" xml:space="preserve">
+          <source>The amount is less than minimum allowed</source>
+          <target state="final">The amount is less than minimum allowed</target>
+        </trans-unit>
+        <trans-unit id="AmountIsMoreThanMaximum" translate="yes" xml:space="preserve">
+          <source>The amount is more than maximum allowed</source>
+          <target state="final">The amount is more than maximum allowed</target>
+        </trans-unit>
+        <trans-unit id="BuyWithCardProvidersDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>With bank card via our partner</source>
+          <target state="final">With bank card via our partner</target>
+        </trans-unit>
+        <trans-unit id="BuyWithCardProvidersTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Buy bitcoin</source>
+          <target state="final">Buy bitcoin</target>
+        </trans-unit>
+        <trans-unit id="CreateNewWallet" translate="yes" xml:space="preserve">
+          <source>Create new wallet</source>
+          <target state="final">Create new wallet</target>
+        </trans-unit>
+        <trans-unit id="NewPrivateKeyWalletWillBeAdded" translate="yes" xml:space="preserve">
+          <source>New private key wallet will be added</source>
+          <target state="final">New private key wallet will be added</target>
+        </trans-unit>
+        <trans-unit id="AutoCreatedWallet" translate="yes" xml:space="preserve">
+          <source>Auto created wallet</source>
+          <target state="final">Auto created wallet</target>
+        </trans-unit>
+        <trans-unit id="BuyBtcFromIndacoinTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Buy BTC from Indacoin</source>
+          <target state="final">Buy BTC from Indacoin</target>
+        </trans-unit>
+        <trans-unit id="IdentityVerificationTextBlockName.Text" translate="yes" xml:space="preserve">
+          <source>Identity verification</source>
+          <target state="final">Identity verification</target>
+        </trans-unit>
+        <trans-unit id="IndacoinIdentityVerificationTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Required. With Passport or Driver Licence &amp; Selfie.</source>
+          <target state="final">Required. With Passport or Driver Licence &amp; Selfie.</target>
         </trans-unit>
       </group>
     </body>
