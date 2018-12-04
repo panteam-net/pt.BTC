@@ -1,3 +1,6 @@
+1.50.0.0:
+- Open blockchain button bug has been fixed.
+
 1.49.0.0:
 - Third party provider for buying bitcoins has been added. Now you can buy bitcoins right in the app.
 
