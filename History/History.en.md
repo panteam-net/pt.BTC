@@ -1,3 +1,6 @@
+1.52.0.0:
+- Bitcoin services connection reliability has been improved.
+
 1.50.0.0:
 - Open blockchain button bug has been fixed.
 

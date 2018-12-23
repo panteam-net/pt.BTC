@@ -55,8 +55,9 @@
           <target state="final">Добавить кошелёк</target>
         </trans-unit>
         <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
-          <source>Personal, import, tracking</source>
-          <target state="final">Личный, импорт, отслеживание</target>
+          <source>Personal, import, tracking, buying</source>
+          <target state="needs-review-translation">Личный, импорт, отслеживание</target>
+          <note from="MultilingualUpdate" annotates="source" priority="2">Please verify the translation’s accuracy as the source string was updated after it was translated.</note>
         </trans-unit>
         <trans-unit id="NewPersonalWalletTextBlock.Text" translate="yes" xml:space="preserve">
           <source>New personal wallet</source>
@@ -665,6 +666,26 @@
         <trans-unit id="IndacoinIdentityVerificationTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Required. With Passport or Driver Licence &amp; Selfie.</source>
           <target state="final">Требуется. С помощью паспорта или водительского удостоверения и селфи.</target>
+        </trans-unit>
+        <trans-unit id="AdvancedSettings" translate="yes" xml:space="preserve">
+          <source>Advanced settings</source>
+          <target state="final">Расширенные настройки</target>
+        </trans-unit>
+        <trans-unit id="AdvancedSettingsDescription" translate="yes" xml:space="preserve">
+          <source>Backend service</source>
+          <target state="final">Внешний сервис</target>
+        </trans-unit>
+        <trans-unit id="Auto" translate="yes" xml:space="preserve">
+          <source>Auto</source>
+          <target state="final">Автоматически</target>
+        </trans-unit>
+        <trans-unit id="BtcClientTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Bitcoin backend service</source>
+          <target state="final">Биткоин сервис</target>
+        </trans-unit>
+        <trans-unit id="BtcClientDescription.Text" translate="yes" xml:space="preserve">
+          <source>Remote service which the app uses for querying balance &amp; broadcasting transactions.</source>
+          <target state="final">Удаленный сервис, который приложение использует для запроса баланса и отправки транзакций.</target>
         </trans-unit>
       </group>
     </body>

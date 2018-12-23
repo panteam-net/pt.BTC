@@ -1,6 +1,7 @@
 ﻿Field,ID,Type (Type),default,en-us,en,ru-ru
 Description,2,Text,,"Secure cross-platform bitcoin wallet
 Features:
+- Buy bitcoins right from the app.
 - Off-line keys generation.
 - App's data are encypted on disk and in memory.
 - Bitcoin payment protocol support.
@@ -11,6 +12,7 @@ Features:
 
 More is coming.","Secure cross-platform bitcoin wallet
 Features:
+- Buy bitcoins right from the app.
 - Off-line keys generation.
 - App's data are encypted on disk and in memory.
 - Bitcoin payment protocol support.
@@ -21,6 +23,7 @@ Features:
 
 More is coming.","Безопасный кросс-платформенный кошелек.
 Возможности:
+- Покупка биткоинов из приложения. 
 - Генерация ключей без подключения к Интернету.
 - Данные приложения зашифрованы на диске и в памяти.
 - Поддержка протокола оплаты биткоин.
@@ -30,7 +33,10 @@ More is coming.","Безопасный кросс-платформенный к�
 - Поддержка основной и тестовой сети.
 
 More is coming."
-ReleaseNotes,3,Text,,"1.50.0.0:
+ReleaseNotes,3,Text,,"1.52.0.0:
+- Bitcoin services connection reliability has been improved.
+
+1.50.0.0:
 - Open blockchain button bug has been fixed.
 
 1.49.0.0:
@@ -61,13 +67,10 @@ ReleaseNotes,3,Text,,"1.50.0.0:
 1.21.0.0:
 - Transaction page & confirmations tracking have been added.
 - Pull to refresh is supported now on Account page & Transaction page.
-- Bug with parsing amount from bitcoin payment protocol has been fixed.
+- Bug with parsing amount from bitcoin payment protocol has been fixed.","1.52.0.0:
+- Bitcoin services connection reliability has been improved.
 
-1.17.0.0:
-- Bug with changing wallet network type after creation has been fixed. If you had some issues with changing wallet network type (Main or Test) please go to the account settings and change the network type again.
-
-1.12.0.0:
-- The first publishing version","1.50.0.0:
+1.50.0.0:
 - Open blockchain button bug has been fixed.
 
 1.49.0.0:
@@ -98,13 +101,10 @@ ReleaseNotes,3,Text,,"1.50.0.0:
 1.21.0.0:
 - Transaction page & confirmations tracking have been added.
 - Pull to refresh is supported now on Account page & Transaction page.
-- Bug with parsing amount from bitcoin payment protocol has been fixed.
+- Bug with parsing amount from bitcoin payment protocol has been fixed.","1.52.0.0:
+- Улучшена надежность подключения биткоин сервисов.
 
-1.17.0.0:
-- Bug with changing wallet network type after creation has been fixed. If you had some issues with changing wallet network type (Main or Test) please go to the account settings and change the network type again.
-
-1.12.0.0:
-- The first publishing version","1.50.0.0:
+1.50.0.0:
 - Исправлена ошибка кнопки Открыть блокчейн.
 
 1.49.0.0:

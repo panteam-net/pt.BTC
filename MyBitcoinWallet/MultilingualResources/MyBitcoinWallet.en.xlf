@@ -55,8 +55,8 @@
           <target state="final">Add wallet</target>
         </trans-unit>
         <trans-unit id="AddWalletDescription" translate="yes" xml:space="preserve">
-          <source>Personal, import, tracking</source>
-          <target state="final">Personal, import, tracking</target>
+          <source>Personal, import, tracking, buying</source>
+          <target state="final">Personal, import, tracking, buying</target>
         </trans-unit>
         <trans-unit id="NewPersonalWalletTextBlock.Text" translate="yes" xml:space="preserve">
           <source>New personal wallet</source>
@@ -665,6 +665,26 @@
         <trans-unit id="IndacoinIdentityVerificationTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Required. With Passport or Driver Licence &amp; Selfie.</source>
           <target state="final">Required. With Passport or Driver Licence &amp; Selfie.</target>
+        </trans-unit>
+        <trans-unit id="AdvancedSettings" translate="yes" xml:space="preserve">
+          <source>Advanced settings</source>
+          <target state="final">Advanced settings</target>
+        </trans-unit>
+        <trans-unit id="AdvancedSettingsDescription" translate="yes" xml:space="preserve">
+          <source>Backend service</source>
+          <target state="final">Backend service</target>
+        </trans-unit>
+        <trans-unit id="Auto" translate="yes" xml:space="preserve">
+          <source>Auto</source>
+          <target state="final">Auto</target>
+        </trans-unit>
+        <trans-unit id="BtcClientTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Bitcoin backend service</source>
+          <target state="final">Bitcoin backend service</target>
+        </trans-unit>
+        <trans-unit id="BtcClientDescription.Text" translate="yes" xml:space="preserve">
+          <source>Remote service which the app uses for querying balance &amp; broadcasting transactions.</source>
+          <target state="new">Remote service which the app uses for querying balance &amp; broadcasting transactions.</target>
         </trans-unit>
       </group>
     </body>
