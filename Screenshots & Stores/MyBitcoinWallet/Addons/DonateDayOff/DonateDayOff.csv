@@ -1,0 +1,4 @@
+﻿Field,ID,Type (Type),default,en,ru
+Description,2,Text,,After this day we get back and make the product even better,После такого дня мы вернемся и сделаем продукт ещё лучше
+Title,4,Text,,Donate day off,Подарить выходной
+StoreLogo300x300,602,Relative path (or URL to file in Partner Center),,DonateDayOff/DonateDayOff.png,DonateDayOff/DonateDayOff.png

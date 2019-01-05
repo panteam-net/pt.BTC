@@ -1,0 +1,4 @@
+﻿Field,ID,Type (Type),default,en,ru
+Description,2,Text,,Buy us a cup of coffee,Купить нам чашечку кофе
+Title,4,Text,,Donate coffee,Подарить кофе
+StoreLogo300x300,602,Relative path (or URL to file in Partner Center),,DonateCoffee/DonateCoffee.png,DonateCoffee/DonateCoffee.png

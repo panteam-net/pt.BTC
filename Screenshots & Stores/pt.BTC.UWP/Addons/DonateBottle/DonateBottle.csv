@@ -1,0 +1,4 @@
+﻿Field,ID,Type (Type),default,en,ru
+Description,2,Text,,Buy us a bottle of inspiration,Купить нам бутылочку вдохновения
+Title,4,Text,,Donate a bottle,Подарить бутылочку
+StoreLogo300x300,602,Relative path (or URL to file in Partner Center),,DonateBottle/DonateBottle.png,DonateBottle/DonateBottle.png

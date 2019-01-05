@@ -639,6 +639,74 @@
           <source>Remote service which the app uses for querying balance &amp; broadcasting transactions.</source>
           <target state="final">Удаленный сервис, который приложение использует для запроса баланса и отправки транзакций.</target>
         </trans-unit>
+        <trans-unit id="CurrentVersion" translate="yes" xml:space="preserve">
+          <source>Current version</source>
+          <target state="final">Текущая версия</target>
+        </trans-unit>
+        <trans-unit id="AboutAppDescription" translate="yes" xml:space="preserve">
+          <source>Version, history, donation</source>
+          <target state="final">Версия, история, донаты</target>
+        </trans-unit>
+        <trans-unit id="AboutApp" translate="yes" xml:space="preserve">
+          <source>About</source>
+          <target state="final">О программе</target>
+        </trans-unit>
+        <trans-unit id="OpenProjectGitHubPage" translate="yes" xml:space="preserve">
+          <source>Open project page on GitHub</source>
+          <target state="final">Открыть страницу проекта</target>
+        </trans-unit>
+        <trans-unit id="DownloadingHistory" translate="yes" xml:space="preserve">
+          <source>Downloading history...</source>
+          <target state="final">Загрузка истории изменений...</target>
+        </trans-unit>
+        <trans-unit id="CantConnectToTheStore" translate="yes" xml:space="preserve">
+          <source>Can't connect to the store. Check your internet connection &amp; try again later.</source>
+          <target state="final">Отсутствует подключение к магазину. Проверьте наличие сети и попробуйте снова.</target>
+        </trans-unit>
+        <trans-unit id="DonateViaStore" translate="yes" xml:space="preserve">
+          <source>Donate via store</source>
+          <target state="final">Передать через магазин</target>
+        </trans-unit>
+        <trans-unit id="DonateWithBitcoin" translate="yes" xml:space="preserve">
+          <source>Donate with bitcoin</source>
+          <target state="final">Передать через биткоин</target>
+        </trans-unit>
+        <trans-unit id="DonateCoffeeDescription" translate="yes" xml:space="preserve">
+          <source>Buy us a cup of coffee</source>
+          <target state="final">Купить нам чашечку кофе</target>
+        </trans-unit>
+        <trans-unit id="DonateCoffeeLocalizedPrice" translate="yes" xml:space="preserve">
+          <source>5$</source>
+          <target state="final">5$</target>
+        </trans-unit>
+        <trans-unit id="DonateCoffeeName" translate="yes" xml:space="preserve">
+          <source>Donate coffee</source>
+          <target state="final">Подарить кофе</target>
+        </trans-unit>
+        <trans-unit id="DonateBottleDescription" translate="yes" xml:space="preserve">
+          <source>Buy us a bottle of inspiration</source>
+          <target state="final">Купить нам бутылочку вдохновения</target>
+        </trans-unit>
+        <trans-unit id="DonateBottleLocalizedPrice" translate="yes" xml:space="preserve">
+          <source>25$</source>
+          <target state="final">25$</target>
+        </trans-unit>
+        <trans-unit id="DonateBottleName" translate="yes" xml:space="preserve">
+          <source>Donate a bottle</source>
+          <target state="final">Подарить бутылочку</target>
+        </trans-unit>
+        <trans-unit id="DonateDayOffDescription" translate="yes" xml:space="preserve">
+          <source>After this day we get back and make the product even better</source>
+          <target state="final">После такого дня мы вернёмся и сделаем продукт ещё лучше</target>
+        </trans-unit>
+        <trans-unit id="DonateDayOffLocalizedPrice" translate="yes" xml:space="preserve">
+          <source>100$</source>
+          <target state="final">100$</target>
+        </trans-unit>
+        <trans-unit id="DonateDayOffName" translate="yes" xml:space="preserve">
+          <source>Donate day off</source>
+          <target state="final">Подарить выходной</target>
+        </trans-unit>
       </group>
     </body>
   </file>
