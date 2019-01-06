@@ -1,3 +1,6 @@
+1.56.0.0:
+- About page has been added.
+
 1.52.0.0:
 - Bitcoin services connection reliability has been improved.
 
