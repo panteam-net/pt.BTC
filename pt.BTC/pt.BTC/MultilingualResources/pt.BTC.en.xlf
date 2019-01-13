@@ -299,7 +299,7 @@
           <target state="translated">Mnemonic</target>
         </trans-unit>
         <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
-          <source>Invalid password</source>
+          <source>Invalid password. Please enter wallet's restoring password.</source>
           <target state="translated">Invalid password</target>
         </trans-unit>
         <trans-unit id="Save" translate="yes" xml:space="preserve">
@@ -705,6 +705,14 @@
         <trans-unit id="DonateDayOffName" translate="yes" xml:space="preserve">
           <source>Donate day off</source>
           <target state="new">Donate day off</target>
+        </trans-unit>
+        <trans-unit id="TotalToSend" translate="yes" xml:space="preserve">
+          <source>Total to send</source>
+          <target state="new">Total to send</target>
+        </trans-unit>
+        <trans-unit id="AmountToSendCantNotBeEmpty" translate="yes" xml:space="preserve">
+          <source>Amount to send can't be empty.</source>
+          <target state="new">Amount to send can't be empty.</target>
         </trans-unit>
       </group>
     </body>

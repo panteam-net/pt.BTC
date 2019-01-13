@@ -287,8 +287,8 @@
           <target state="final">Мнемоника</target>
         </trans-unit>
         <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
-          <source>Invalid password</source>
-          <target state="final">Неправильный пароль</target>
+          <source>Invalid password. Please enter wallet's restoring password.</source>
+          <target state="final">Неверный пароль. Пожалуйста, введите пароль для восстановления кошелька.</target>
         </trans-unit>
         <trans-unit id="Save" translate="yes" xml:space="preserve">
           <source>Save</source>
@@ -706,6 +706,14 @@
         <trans-unit id="DonateDayOffName" translate="yes" xml:space="preserve">
           <source>Donate day off</source>
           <target state="final">Подарить выходной</target>
+        </trans-unit>
+        <trans-unit id="TotalToSend" translate="yes" xml:space="preserve">
+          <source>Total to send</source>
+          <target state="final">Итого для отправки</target>
+        </trans-unit>
+        <trans-unit id="AmountToSendCantNotBeEmpty" translate="yes" xml:space="preserve">
+          <source>Amount to send can't be empty.</source>
+          <target state="final">Не задана сумма для отправки.</target>
         </trans-unit>
       </group>
     </body>

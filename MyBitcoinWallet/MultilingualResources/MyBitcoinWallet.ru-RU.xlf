@@ -224,7 +224,7 @@
         </trans-unit>
         <trans-unit id="TransactionIsNotVerified" translate="yes" xml:space="preserve">
           <source>Can not verify your transaction. Try again or change fee policy.</source>
-          <target state="final">Невоможно проверить транзакцию. Попробуйте снова или измените политику сетевой комиссии.</target>
+          <target state="translated">Невоможно проверить транзакцию. Попробуйте снова или измените политику сетевой комиссии.</target>
         </trans-unit>
         <trans-unit id="FromTextBlock.Text" translate="yes" xml:space="preserve">
           <source>From</source>
@@ -256,7 +256,7 @@
         </trans-unit>
         <trans-unit id="NotEnoughCoins" translate="yes" xml:space="preserve">
           <source>Not enough funds</source>
-          <target state="final">Политика сетевой комиссии</target>
+          <target state="final">Недостаточно средств</target>
         </trans-unit>
         <trans-unit id="CantParseTheAmountValue" translate="yes" xml:space="preserve">
           <source>Can't parse the amount value. Try to change the decimal separator</source>
@@ -307,12 +307,12 @@
           <target state="final">Сохранить пароль в хранилище паролей устройства</target>
         </trans-unit>
         <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
-          <source>Invalid password</source>
-          <target state="final">Неправильный пароль</target>
+          <source>Invalid password. Please enter wallet's restoring password.</source>
+          <target state="final">Неверный пароль. Пожалуйста, введите пароль для восстановления кошелька.</target>
         </trans-unit>
         <trans-unit id="Save" translate="yes" xml:space="preserve">
           <source>Save</source>
-          <target state="final">Сохранить</target>
+          <target state="final">Неправильный пароль. Пожалуйста, введите пароль для восстановления кошелька.</target>
         </trans-unit>
         <trans-unit id="FeeFree" translate="yes" xml:space="preserve">
           <source>Free</source>
@@ -753,6 +753,14 @@
         <trans-unit id="DonateViaBitcoinTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Donate via bitcoin</source>
           <target state="final">Передать через биткоин</target>
+        </trans-unit>
+        <trans-unit id="TotalToSendTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Total to send</source>
+          <target state="final">Итого для отправки</target>
+        </trans-unit>
+        <trans-unit id="AmountToSendCantNotBeEmpty" translate="yes" xml:space="preserve">
+          <source>Amount to send can't be empty.</source>
+          <target state="final">Не задана сумма для отправки</target>
         </trans-unit>
       </group>
     </body>

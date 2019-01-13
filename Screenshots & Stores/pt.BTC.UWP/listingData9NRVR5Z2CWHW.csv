@@ -1,9 +1,9 @@
 ﻿Field,ID,Type (Type),default,en-us,en,ru-ru
 Description,2,Text,,"Secure cross-platform bitcoin wallet
-Features:
+- No registration for using.
 - Buy bitcoins right from the app.
 - Off-line keys generation.
-- App's data are encypted on disk and in memory.
+- App's data are encrypted on disk and in memory.
 - Bitcoin payment protocol support.
 - QR code generation & scanning.
 - Network fee selection.
@@ -11,10 +11,10 @@ Features:
 - Main & Test networks are supported.
 
 More is coming.","Secure cross-platform bitcoin wallet
-Features:
+- No registration for using.
 - Buy bitcoins right from the app.
 - Off-line keys generation.
-- App's data are encypted on disk and in memory.
+- App's data are encrypted on disk and in memory.
 - Bitcoin payment protocol support.
 - QR code generation & scanning.
 - Network fee selection.
@@ -22,7 +22,7 @@ Features:
 - Main & Test networks are supported.
 
 More is coming.","Безопасный кросс-платформенный кошелек.
-Возможности:
+- Для использования не требуется регистрация.
 - Покупка биткоинов из приложения. 
 - Генерация ключей без подключения к Интернету.
 - Данные приложения зашифрованы на диске и в памяти.
@@ -32,8 +32,14 @@ More is coming.","Безопасный кросс-платформенный к�
 - Импорт & экспорт.
 - Поддержка основной и тестовой сети.
 
-More is coming."
-ReleaseNotes,3,Text,,"1.52.0.0:
+Дальше - больше."
+ReleaseNotes,3,Text,,"1.59.0.0:
+- Sending confirmation page has been added.
+
+1.56.0.0:
+- About page has been added.
+
+1.52.0.0:
 - Bitcoin services connection reliability has been improved.
 
 1.50.0.0:
@@ -62,12 +68,13 @@ ReleaseNotes,3,Text,,"1.52.0.0:
 
 1.25.0.0:
 - Background task has been added. It can update your balance & show notifications. Check the settings tab.
-- Changing wallets on sending page has been added.
+- Changing wallets on sending page has been added.","1.59.0.0:
+- Sending confirmation page has been added.
 
-1.21.0.0:
-- Transaction page & confirmations tracking have been added.
-- Pull to refresh is supported now on Account page & Transaction page.
-- Bug with parsing amount from bitcoin payment protocol has been fixed.","1.52.0.0:
+1.56.0.0:
+- About page has been added.
+
+1.52.0.0:
 - Bitcoin services connection reliability has been improved.
 
 1.50.0.0:
@@ -96,13 +103,14 @@ ReleaseNotes,3,Text,,"1.52.0.0:
 
 1.25.0.0:
 - Background task has been added. It can update your balance & show notifications. Check the settings tab.
-- Changing wallets on sending page has been added.
+- Changing wallets on sending page has been added.","1.59.0.0:
+- Добавлена страница подтверждения отправки.
 
-1.21.0.0:
-- Transaction page & confirmations tracking have been added.
-- Pull to refresh is supported now on Account page & Transaction page.
-- Bug with parsing amount from bitcoin payment protocol has been fixed.","1.52.0.0:
-- Улучшена надежность подключения биткоин сервисов.
+1.56.0.0:
+- Добавлена страница о программе.
+
+1.52.0.0:
+- Повышена отказоустойчивость подключения биткоин сервисов.
 
 1.50.0.0:
 - Исправлена ошибка кнопки Открыть блокчейн.
@@ -135,13 +143,7 @@ ReleaseNotes,3,Text,,"1.52.0.0:
 1.21.0.0:
 - Добавлена страница транзакций и отслеживание подтверждений.
 - На страницы кошелька и транзакции добавлана поддержка ""pull to refresh"".
-- Исправлена ошибка с парсингом суммы из платежного протокола bitcoin.
-
-1.17.0.0:
-- Исправлена ошибка с изменением типа сети Кошелька после создания. Если у вас возникли проблемы с изменением типа сети Кошелька (основной или тестовый), перейдите в настройки учетной записи и снова измените Тип сети.
-
-1.12.0.0:
-- Первая публичная версия"
+- Исправлена ошибка с парсингом суммы из платежного протокола bitcoin."
 Title,4,Text,,pt.BTC,pt.BTC,pt.BTC
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,

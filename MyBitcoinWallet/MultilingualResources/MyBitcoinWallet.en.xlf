@@ -307,8 +307,8 @@
           <target state="final">Save password in device's password storage</target>
         </trans-unit>
         <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
-          <source>Invalid password</source>
-          <target state="final">Invalid password</target>
+          <source>Invalid password. Please enter wallet's restoring password.</source>
+          <target state="final">Invalid password. Please enter wallet's restoring password.</target>
         </trans-unit>
         <trans-unit id="Save" translate="yes" xml:space="preserve">
           <source>Save</source>
@@ -753,6 +753,14 @@
         <trans-unit id="DonateViaBitcoinTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Donate via bitcoin</source>
           <target state="final">Donate via bitcoin</target>
+        </trans-unit>
+        <trans-unit id="TotalToSendTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Total to send</source>
+          <target state="final">Total to send</target>
+        </trans-unit>
+        <trans-unit id="AmountToSendCantNotBeEmpty" translate="yes" xml:space="preserve">
+          <source>Amount to send can't be empty.</source>
+          <target state="final">Amount to send can't be empty.</target>
         </trans-unit>
       </group>
     </body>
