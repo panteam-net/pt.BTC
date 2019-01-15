@@ -1,5 +1,6 @@
 1.59.0.0:
 - Sending confirmation page has been added.
+- About page has been added.
 
 1.56.0.0:
 - About page has been added.
