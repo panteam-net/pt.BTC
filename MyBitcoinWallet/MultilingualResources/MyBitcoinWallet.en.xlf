@@ -758,9 +758,9 @@
           <source>Total to send</source>
           <target state="final">Total to send</target>
         </trans-unit>
-        <trans-unit id="AmountToSendCantNotBeEmpty" translate="yes" xml:space="preserve">
-          <source>Amount to send can't be empty.</source>
-          <target state="final">Amount to send can't be empty.</target>
+        <trans-unit id="EnterTheAmountPlease" translate="yes" xml:space="preserve">
+          <source>Enter the amount please</source>
+          <target state="final">Enter the amount please</target>
         </trans-unit>
       </group>
     </body>

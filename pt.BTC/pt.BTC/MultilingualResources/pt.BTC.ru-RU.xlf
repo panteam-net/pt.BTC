@@ -711,9 +711,9 @@
           <source>Total to send</source>
           <target state="final">Итого для отправки</target>
         </trans-unit>
-        <trans-unit id="AmountToSendCantNotBeEmpty" translate="yes" xml:space="preserve">
-          <source>Amount to send can't be empty.</source>
-          <target state="final">Не задана сумма для отправки.</target>
+        <trans-unit id="EnterTheAmountPlease" translate="yes" xml:space="preserve">
+          <source>Enter the amount please</source>
+          <target state="final">Введите сумму, пожалуйста</target>
         </trans-unit>
       </group>
     </body>
