@@ -33,9 +33,11 @@ More is coming.","Безопасный кросс-платформенный к�
 - Поддержка основной и тестовой сети.
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.59.0.0:
+ReleaseNotes,3,Text,,"1.64.0.0:
+- Managing backups has been added. You can restore any backup now.
+
+1.63.0.0:
 - Sending confirmation page has been added.
-- About page has been added.
 
 1.56.0.0:
 - About page has been added.
@@ -69,9 +71,11 @@ ReleaseNotes,3,Text,,"1.59.0.0:
 
 1.25.0.0:
 - Background task has been added. It can update your balance & show notifications. Check the settings tab.
-- Changing wallets on sending page has been added.","1.59.0.0:
+- Changing wallets on sending page has been added.","1.64.0.0:
+- Managing backups has been added. You can restore any backup now.
+
+1.63.0.0:
 - Sending confirmation page has been added.
-- About page has been added.
 
 1.56.0.0:
 - About page has been added.
@@ -105,9 +109,11 @@ ReleaseNotes,3,Text,,"1.59.0.0:
 
 1.25.0.0:
 - Background task has been added. It can update your balance & show notifications. Check the settings tab.
-- Changing wallets on sending page has been added.","1.59.0.0:
+- Changing wallets on sending page has been added.","1.64.0.0:
+- Добавлено управление резервными копиями. Теперь вы можете восстановиться из любой резервной копии.
+
+1.63.0.0:
 - Добавлена страница подтверждения отправки.
-- Добавлена страница о программе.
 
 1.56.0.0:
 - Добавлена страница о программе.

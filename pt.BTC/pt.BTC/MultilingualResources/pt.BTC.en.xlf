@@ -2,7 +2,7 @@
 <xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
   <file datatype="xml" source-language="en-US" target-language="en" original="PT.BTC/RESOURCES/STRINGS/STRINGS.RESX" tool-id="MultilingualAppToolkit" product-name="n/a" product-version="n/a" build-num="n/a">
     <header>
-      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6900.0" tool-company="Microsoft" />
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="4.0.6901.0" tool-company="Microsoft" />
     </header>
     <body>
       <group id="PT.BTC/RESOURCES/STRINGS/STRINGS.RESX" datatype="resx">
@@ -623,8 +623,8 @@
           <target state="final">Advanced settings</target>
         </trans-unit>
         <trans-unit id="AdvancedSettingsDescription" translate="yes" xml:space="preserve">
-          <source>Backend service</source>
-          <target state="final">Backend service</target>
+          <source>Backend service, backups</source>
+          <target state="final">Backend service, backups</target>
         </trans-unit>
         <trans-unit id="Auto" translate="yes" xml:space="preserve">
           <source>Auto</source>
@@ -713,6 +713,42 @@
         <trans-unit id="EnterTheAmountPlease" translate="yes" xml:space="preserve">
           <source>Enter the amount please</source>
           <target state="final">Enter the amount please</target>
+        </trans-unit>
+        <trans-unit id="MB" translate="yes" xml:space="preserve">
+          <source>MB</source>
+          <target state="final">MB</target>
+        </trans-unit>
+        <trans-unit id="TotalSize" translate="yes" xml:space="preserve">
+          <source>Total size</source>
+          <target state="final">Total size</target>
+        </trans-unit>
+        <trans-unit id="BackupsCount" translate="yes" xml:space="preserve">
+          <source>Backups count</source>
+          <target state="final">Backups count</target>
+        </trans-unit>
+        <trans-unit id="Backups" translate="yes" xml:space="preserve">
+          <source>Backups</source>
+          <target state="final">Backups</target>
+        </trans-unit>
+        <trans-unit id="Filesize" translate="yes" xml:space="preserve">
+          <source>File size</source>
+          <target state="final">File size</target>
+        </trans-unit>
+        <trans-unit id="RemoveOldBackups" translate="yes" xml:space="preserve">
+          <source>Remove old backups</source>
+          <target state="final">Remove old backups</target>
+        </trans-unit>
+        <trans-unit id="Done" translate="yes" xml:space="preserve">
+          <source>Done</source>
+          <target state="final">Done</target>
+        </trans-unit>
+        <trans-unit id="WalletsCount" translate="yes" xml:space="preserve">
+          <source>Wallets count</source>
+          <target state="final">Wallets count</target>
+        </trans-unit>
+        <trans-unit id="Restore" translate="yes" xml:space="preserve">
+          <source>Restore</source>
+          <target state="final">Restore</target>
         </trans-unit>
       </group>
     </body>

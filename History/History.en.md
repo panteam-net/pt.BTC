@@ -1,6 +1,8 @@
-1.59.0.0:
+1.64.0.0:
+- Managing backups has been added. You can restore any backup now.
+
+1.63.0.0:
 - Sending confirmation page has been added.
-- About page has been added.
 
 1.56.0.0:
 - About page has been added.

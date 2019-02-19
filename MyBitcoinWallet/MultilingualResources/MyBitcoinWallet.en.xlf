@@ -671,8 +671,8 @@
           <target state="final">Advanced settings</target>
         </trans-unit>
         <trans-unit id="AdvancedSettingsDescription" translate="yes" xml:space="preserve">
-          <source>Backend service</source>
-          <target state="final">Backend service</target>
+          <source>Backend service, backups</source>
+          <target state="final">Backend service, backups</target>
         </trans-unit>
         <trans-unit id="Auto" translate="yes" xml:space="preserve">
           <source>Auto</source>
@@ -761,6 +761,42 @@
         <trans-unit id="EnterTheAmountPlease" translate="yes" xml:space="preserve">
           <source>Enter the amount please</source>
           <target state="final">Enter the amount please</target>
+        </trans-unit>
+        <trans-unit id="BackupsCountTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Backups count:</source>
+          <target state="final">Backups count:</target>
+        </trans-unit>
+        <trans-unit id="BackupsTotalSizeTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Backups total size:</source>
+          <target state="final">Backups total size:</target>
+        </trans-unit>
+        <trans-unit id="MBTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>MB</source>
+          <target state="final">MB</target>
+        </trans-unit>
+        <trans-unit id="Backups" translate="yes" xml:space="preserve">
+          <source>Backups</source>
+          <target state="final">Backups</target>
+        </trans-unit>
+        <trans-unit id="RemoveOldBackupsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Remove old backups</source>
+          <target state="new">Remove old backups</target>
+        </trans-unit>
+        <trans-unit id="FilesizeTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>File size:</source>
+          <target state="final">File size:</target>
+        </trans-unit>
+        <trans-unit id="WalletsCountTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Wallets count:</source>
+          <target state="final">Wallets count:</target>
+        </trans-unit>
+        <trans-unit id="Done" translate="yes" xml:space="preserve">
+          <source>Done</source>
+          <target state="final">Done</target>
+        </trans-unit>
+        <trans-unit id="RestoreText.Text" translate="yes" xml:space="preserve">
+          <source>Restore</source>
+          <target state="final">Restore</target>
         </trans-unit>
       </group>
     </body>

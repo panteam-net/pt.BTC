@@ -624,8 +624,8 @@
           <target state="final">Расширенные настройки</target>
         </trans-unit>
         <trans-unit id="AdvancedSettingsDescription" translate="yes" xml:space="preserve">
-          <source>Backend service</source>
-          <target state="final">Внешний сервис</target>
+          <source>Backend service, backups</source>
+          <target state="final">Внешний сервис, резервные копии</target>
         </trans-unit>
         <trans-unit id="Auto" translate="yes" xml:space="preserve">
           <source>Auto</source>
@@ -714,6 +714,42 @@
         <trans-unit id="EnterTheAmountPlease" translate="yes" xml:space="preserve">
           <source>Enter the amount please</source>
           <target state="final">Введите сумму, пожалуйста</target>
+        </trans-unit>
+        <trans-unit id="MB" translate="yes" xml:space="preserve">
+          <source>MB</source>
+          <target state="final">МБ</target>
+        </trans-unit>
+        <trans-unit id="TotalSize" translate="yes" xml:space="preserve">
+          <source>Total size</source>
+          <target state="final">Суммарный размер</target>
+        </trans-unit>
+        <trans-unit id="BackupsCount" translate="yes" xml:space="preserve">
+          <source>Backups count</source>
+          <target state="final">Резервных копий</target>
+        </trans-unit>
+        <trans-unit id="Backups" translate="yes" xml:space="preserve">
+          <source>Backups</source>
+          <target state="final">Резервные копии</target>
+        </trans-unit>
+        <trans-unit id="Filesize" translate="yes" xml:space="preserve">
+          <source>File size</source>
+          <target state="final">Размер файла</target>
+        </trans-unit>
+        <trans-unit id="RemoveOldBackups" translate="yes" xml:space="preserve">
+          <source>Remove old backups</source>
+          <target state="final">Удалить старые резервные копии</target>
+        </trans-unit>
+        <trans-unit id="Done" translate="yes" xml:space="preserve">
+          <source>Done</source>
+          <target state="final">Готово</target>
+        </trans-unit>
+        <trans-unit id="WalletsCount" translate="yes" xml:space="preserve">
+          <source>Wallets count</source>
+          <target state="final">Количество кошельков</target>
+        </trans-unit>
+        <trans-unit id="Restore" translate="yes" xml:space="preserve">
+          <source>Restore</source>
+          <target state="final">Восстановить</target>
         </trans-unit>
       </group>
     </body>
