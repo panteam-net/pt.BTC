@@ -780,7 +780,7 @@
         </trans-unit>
         <trans-unit id="RemoveOldBackupsTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Remove old backups</source>
-          <target state="new">Remove old backups</target>
+          <target state="final">Remove old backups</target>
         </trans-unit>
         <trans-unit id="FilesizeTextBlock.Text" translate="yes" xml:space="preserve">
           <source>File size:</source>
@@ -797,6 +797,30 @@
         <trans-unit id="RestoreText.Text" translate="yes" xml:space="preserve">
           <source>Restore</source>
           <target state="final">Restore</target>
+        </trans-unit>
+        <trans-unit id="WalletDisclaimer1" translate="yes" xml:space="preserve">
+          <source>This app stores all private data encrypted on this device. If you get lost password or mnemonic you will not be able to restore your wallet and spend your money.</source>
+          <target state="final">This app stores all private data encrypted on this device. If you get lost password or mnemonic you will not be able to restore your wallet and spend your money.</target>
+        </trans-unit>
+        <trans-unit id="WalletDisclaimer2" translate="yes" xml:space="preserve">
+          <source>The only one way to restore a wallet is using password and mnemonic. There are no other options available. We don't store your data anywhere else but this device. It's good for security but you can get lost your money if you forget your wallet's password &amp; mnemonic.</source>
+          <target state="final">The only one way to restore a wallet is using password and mnemonic. There are no other options available. We don't store your data anywhere else but this device. It's good for security but you can get lost your money if you forget your wallet's password &amp; mnemonic.</target>
+        </trans-unit>
+        <trans-unit id="DoYouAcceptTheRisks" translate="yes" xml:space="preserve">
+          <source>Do you accept the risks?</source>
+          <target state="final">Do you accept the risks?</target>
+        </trans-unit>
+        <trans-unit id="AcceptTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Accept</source>
+          <target state="final">Accept</target>
+        </trans-unit>
+        <trans-unit id="DeclineTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Decline</source>
+          <target state="final">Decline</target>
+        </trans-unit>
+        <trans-unit id="WalletDisclaimer3" translate="yes" xml:space="preserve">
+          <source>Although this program is secure enough it's worth also to keep password &amp; mnemonic in a secret place to be able to restore your wallet in case you get lost your device. A piece of paper in a safe vault is a good idea. Password manager is a good idea either.</source>
+          <target state="final">Although this program is secure enough it's worth also to keep password &amp; mnemonic in a secret place to be able to restore your wallet in case you get lost your device. A piece of paper in a safe vault is a good idea. Password manager is a good idea either.</target>
         </trans-unit>
       </group>
     </body>
