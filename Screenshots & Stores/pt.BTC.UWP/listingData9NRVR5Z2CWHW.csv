@@ -33,7 +33,12 @@ More is coming.","Безопасный кросс-платформенный к�
 - Поддержка основной и тестовой сети.
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.64.0.0:
+ReleaseNotes,3,Text,,"1.64.1.0:
+- Wallet disclaimer page has been added.
+- Landing page has been updated.
+- Indacoin transactions traceability has been improved for resolving possible issues.
+
+1.64.0.0:
 - Managing backups has been added. You can restore any backup now.
 
 1.63.0.0:
@@ -67,11 +72,12 @@ ReleaseNotes,3,Text,,"1.64.0.0:
 - Design improvements.
 
 1.31.0.0:
-- Grouping support has been added to the transaction log on the account page.
+- Grouping support has been added to the transaction log on the account page.","1.64.1.0:
+- Wallet disclaimer page has been added.
+- Landing page has been updated.
+- Indacoin transactions traceability has been improved for resolving possible issues.
 
-1.25.0.0:
-- Background task has been added. It can update your balance & show notifications. Check the settings tab.
-- Changing wallets on sending page has been added.","1.64.0.0:
+1.64.0.0:
 - Managing backups has been added. You can restore any backup now.
 
 1.63.0.0:
@@ -105,11 +111,12 @@ ReleaseNotes,3,Text,,"1.64.0.0:
 - Design improvements.
 
 1.31.0.0:
-- Grouping support has been added to the transaction log on the account page.
+- Grouping support has been added to the transaction log on the account page.","1.64.1.0:
+- Добавлено описание рисков использования кошельков в приложении.
+- Обновлена начальная страница.
+- Для разрешения спорных ситуаций улучшено отслеживание транзакций Indacoin.
 
-1.25.0.0:
-- Background task has been added. It can update your balance & show notifications. Check the settings tab.
-- Changing wallets on sending page has been added.","1.64.0.0:
+1.64.0.0:
 - Добавлено управление резервными копиями. Теперь вы можете восстановиться из любой резервной копии.
 
 1.63.0.0:
@@ -143,16 +150,7 @@ ReleaseNotes,3,Text,,"1.64.0.0:
 - Улучшен дизайн.
 
 1.31.0.0:
-- Группировка транзакций добавлена на странице кошелька.
-
-1.25.0.0:
-- Добавлена фоновая задача. Она может обновлять ваш баланс и показывать уведомления. Проверьте вкладку настройки.
-- Добавлена смена кошельков на странице отправки.
-
-1.21.0.0:
-- Добавлена страница транзакций и отслеживание подтверждений.
-- На страницы кошелька и транзакции добавлана поддержка ""pull to refresh"".
-- Исправлена ошибка с парсингом суммы из платежного протокола bitcoin."
+- Группировка транзакций добавлена на странице кошелька."
 Title,4,Text,,pt.BTC,pt.BTC,pt.BTC
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,

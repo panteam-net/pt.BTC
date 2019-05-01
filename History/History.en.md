@@ -1,3 +1,8 @@
+1.64.1.0:
+- Wallet disclaimer page has been added.
+- Landing page has been updated.
+- Indacoin transactions traceability has been improved for resolving possible issues.
+
 1.64.0.0:
 - Managing backups has been added. You can restore any backup now.
 
