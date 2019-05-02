@@ -1,0 +1,13 @@
+<en-US>
+1.64.1.0:
+- Wallet disclaimer page has been added.
+- Landing page has been updated.
+- Indacoin transactions traceability has been improved for resolving possible issues.
+</en-US>
+
+<ru-RU>
+1.64.1.0:
+- Добавлено описание рисков использования кошельков в приложении.
+- Обновлена начальная страница.
+- Для разрешения спорных ситуаций улучшено отслеживание транзакций Indacoin.
+</ru-RU>
