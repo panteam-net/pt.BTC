@@ -1,7 +1,6 @@
 ﻿Field,ID,Type (Type),default,en-us,en,ru-ru
 Description,2,Text,,"Secure cross-platform bitcoin wallet
 - No registration for using.
-- Buy bitcoins right from the app.
 - Off-line keys generation.
 - App's data are encrypted on disk and in memory.
 - Bitcoin payment protocol support.
@@ -12,7 +11,6 @@ Description,2,Text,,"Secure cross-platform bitcoin wallet
 
 More is coming.","Secure cross-platform bitcoin wallet
 - No registration for using.
-- Buy bitcoins right from the app.
 - Off-line keys generation.
 - App's data are encrypted on disk and in memory.
 - Bitcoin payment protocol support.
@@ -23,7 +21,6 @@ More is coming.","Secure cross-platform bitcoin wallet
 
 More is coming.","Безопасный кросс-платформенный кошелек.
 - Для использования не требуется регистрация.
-- Покупка биткоинов из приложения. 
 - Генерация ключей без подключения к Интернету.
 - Данные приложения зашифрованы на диске и в памяти.
 - Поддержка протокола оплаты биткоин.
@@ -33,7 +30,11 @@ More is coming.","Безопасный кросс-платформенный к�
 - Поддержка основной и тестовой сети.
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.64.1.0:
+ReleaseNotes,3,Text,,"1.65.1.0:
+- Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
+- Buying from Indacoin disabled.
+
+1.64.1.0:
 - Wallet disclaimer page has been added.
 - Landing page has been updated.
 - Indacoin transactions traceability has been improved for resolving possible issues.
@@ -72,7 +73,11 @@ ReleaseNotes,3,Text,,"1.64.1.0:
 - Design improvements.
 
 1.31.0.0:
-- Grouping support has been added to the transaction log on the account page.","1.64.1.0:
+- Grouping support has been added to the transaction log on the account page.","1.65.1.0:
+- Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
+- Buying from Indacoin disabled.
+
+1.64.1.0:
 - Wallet disclaimer page has been added.
 - Landing page has been updated.
 - Indacoin transactions traceability has been improved for resolving possible issues.
@@ -111,7 +116,11 @@ ReleaseNotes,3,Text,,"1.64.1.0:
 - Design improvements.
 
 1.31.0.0:
-- Grouping support has been added to the transaction log on the account page.","1.64.1.0:
+- Grouping support has been added to the transaction log on the account page.","1.65.1.0:
+- Исправлена ошибка вычисления комиссии сети. Эта ошибка всегда делала комиссию сети минимальной, что могло приводить к задержке в обработке транзакций.
+- Отключена возможность покупки биткоин у Indacoin
+
+1.64.1.0:
 - Добавлено описание рисков использования кошельков в приложении.
 - Обновлена начальная страница.
 - Для разрешения спорных ситуаций улучшено отслеживание транзакций Indacoin.

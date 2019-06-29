@@ -1,3 +1,7 @@
+1.65.1.0:
+- Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
+- Buying from Indacoin disabled.
+
 1.64.1.0:
 - Wallet disclaimer page has been added.
 - Landing page has been updated.
