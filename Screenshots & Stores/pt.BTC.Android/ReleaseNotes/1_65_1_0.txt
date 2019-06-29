@@ -1,0 +1,11 @@
+<en-US>
+1.65.1.0:
+- Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
+- Buying from Indacoin disabled.
+</en-US>
+
+<ru-RU>
+1.65.1.0:
+- Исправлена ошибка вычисления комиссии сети. Эта ошибка всегда делала комиссию сети минимальной, что могло приводить к задержке в обработке транзакций.
+- Отключена возможность покупки биткоин у Indacoin
+</ru-RU>
