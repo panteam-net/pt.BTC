@@ -752,11 +752,11 @@
           <target state="final">Восстановить</target>
         </trans-unit>
         <trans-unit id="WalletDisclaimer1" translate="yes" xml:space="preserve">
-          <source>This app stores all private data encrypted on this device. If you get lost password or mnemonic you will not be able to restore your wallet and spend your money.</source>
+          <source>This app stores all private data encrypted on this device. If you get lost password or mnemonic, you will not be able to restore your wallet and spend your money.</source>
           <target state="final">Это приложение хранит Ваши личные данные на этом устройстве зашифрованными. Если вы потеряете пароль или мнемонику, вы не сможете восстановить свой кошелек и использовать свои деньги.</target>
         </trans-unit>
         <trans-unit id="WalletDisclaimer2" translate="yes" xml:space="preserve">
-          <source>The only one way to restore a wallet is using password and mnemonic. There are no other options available. We don't store your data anywhere else but this device. It's good for security but you can get lost your money if you forget your wallet's password &amp; mnemonic.</source>
+          <source>The only way to restore a wallet is by using the password and mnemonic. There are no other options available. We don't store your data anywhere else but this device. It's good for security, but you can get lost your money if you forget your wallet's password &amp; mnemonic.</source>
           <target state="final">Единственный способ восстановить кошелек - использовать пароль и мнемонику. Других вариантов нет. Мы не храним ваши данные нигде, кроме этого устройства. Это хорошо для безопасности, но вы можете потерять свои деньги, если забудете пароль и мнемонику от своего кошелька.</target>
         </trans-unit>
         <trans-unit id="DoYouAcceptTheRisks" translate="yes" xml:space="preserve">
@@ -764,8 +764,52 @@
           <target state="final">Вы принимаете риски?</target>
         </trans-unit>
         <trans-unit id="WalletDisclaimer3" translate="yes" xml:space="preserve">
-          <source>Although this program is secure enough it's worth also to keep password &amp; mnemonic in a secret place to be able to restore your wallet in case you get lost your device. A piece of paper in a safe vault is a good idea. Password manager is a good idea either.</source>
+          <source>Although this program is secure enough, it's worth also to keep password &amp; mnemonic in a secret place to be able to restore your wallet in case you get lost your device. A piece of paper in a safe vault is a good idea. A password manager is a good idea either.</source>
           <target state="final">Хотя эта программа достаточно безопасна, стоит также сохранить пароль &amp; мнемонику в секретном месте, чтобы иметь возможность восстановить свой кошелек в случае, если вы потеряете это устройство. Листок бумаги в сейфе-хорошая идея. Менеджер паролей-хорошая идея.</target>
+        </trans-unit>
+        <trans-unit id="Autopayment" translate="yes" xml:space="preserve">
+          <source>Autopay</source>
+          <target state="final">Автоплатёж</target>
+        </trans-unit>
+        <trans-unit id="AutoPayments" translate="yes" xml:space="preserve">
+          <source>Autopays</source>
+          <target state="final">Автоплатежи</target>
+        </trans-unit>
+        <trans-unit id="RegularPayments" translate="yes" xml:space="preserve">
+          <source>Regular pays</source>
+          <target state="final">Регулярные платежи</target>
+        </trans-unit>
+        <trans-unit id="SendingResult" translate="yes" xml:space="preserve">
+          <source>Sending result</source>
+          <target state="final">Отправлено</target>
+        </trans-unit>
+        <trans-unit id="RegularPayment" translate="yes" xml:space="preserve">
+          <source>Regular pay</source>
+          <target state="final">Regular pay</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentLimitNameDayly" translate="yes" xml:space="preserve">
+          <source>Dayly. Hour of the day:</source>
+          <target state="final">Ежедневно. Время дня:</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentLimitNameWeekly" translate="yes" xml:space="preserve">
+          <source>Weekly. Day of the week:</source>
+          <target state="final">Еженедельно. День недели:</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentLimitNameMonthly" translate="yes" xml:space="preserve">
+          <source>Monthly. Day of the month:</source>
+          <target state="final">Ежемесячно. День месяца:</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentDescription" translate="yes" xml:space="preserve">
+          <source>Make payment regular, select wallet, amount, interval &amp; period. The app would set a reminder in your calendar &amp; prepare the payment page for you. All you'll need to do is to verify &amp; confirm it.</source>
+          <target state="final">Сделайте оплату регулярной, выберите кошелек, сумму, интервал и период. Приложение установит напоминание в вашем календаре и подготовит страницу оплаты для вас. Все, что вам останется сделать, это проверить и подтвердить.</target>
+        </trans-unit>
+        <trans-unit id="LoadingTransactions" translate="yes" xml:space="preserve">
+          <source>Loading transactions...</source>
+          <target state="final">Загрузка транзакций...</target>
+        </trans-unit>
+        <trans-unit id="UpdatingTransactionList" translate="yes" xml:space="preserve">
+          <source>Updating the transaction list</source>
+          <target state="final">Обновление списка транзакций...</target>
         </trans-unit>
       </group>
     </body>

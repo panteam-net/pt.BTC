@@ -1,3 +1,7 @@
+1.66.1.0:
+- Sending result page added.
+- Selecting backend service bug fixed.
+
 1.65.1.0:
 - Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
 - Buying from Indacoin disabled.

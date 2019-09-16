@@ -799,11 +799,11 @@
           <target state="final">Restore</target>
         </trans-unit>
         <trans-unit id="WalletDisclaimer1" translate="yes" xml:space="preserve">
-          <source>This app stores all private data encrypted on this device. If you get lost password or mnemonic you will not be able to restore your wallet and spend your money.</source>
+          <source>This app stores all private data encrypted on this device. If you get lost password or mnemonic, you will not be able to restore your wallet and spend your money.</source>
           <target state="final">This app stores all private data encrypted on this device. If you get lost password or mnemonic you will not be able to restore your wallet and spend your money.</target>
         </trans-unit>
         <trans-unit id="WalletDisclaimer2" translate="yes" xml:space="preserve">
-          <source>The only one way to restore a wallet is using password and mnemonic. There are no other options available. We don't store your data anywhere else but this device. It's good for security but you can get lost your money if you forget your wallet's password &amp; mnemonic.</source>
+          <source>The only way to restore a wallet is by using the password and mnemonic. There are no other options available. We don't store your data anywhere else but this device. It's good for security, but you can get lost your money if you forget your wallet's password &amp; mnemonic.</source>
           <target state="final">The only one way to restore a wallet is using password and mnemonic. There are no other options available. We don't store your data anywhere else but this device. It's good for security but you can get lost your money if you forget your wallet's password &amp; mnemonic.</target>
         </trans-unit>
         <trans-unit id="DoYouAcceptTheRisks" translate="yes" xml:space="preserve">
@@ -819,8 +819,84 @@
           <target state="final">Decline</target>
         </trans-unit>
         <trans-unit id="WalletDisclaimer3" translate="yes" xml:space="preserve">
-          <source>Although this program is secure enough it's worth also to keep password &amp; mnemonic in a secret place to be able to restore your wallet in case you get lost your device. A piece of paper in a safe vault is a good idea. Password manager is a good idea either.</source>
+          <source>Although this program is secure enough, it's worth also to keep password &amp; mnemonic in a secret place to be able to restore your wallet in case you get lost your device. A piece of paper in a safe vault is a good idea. A password manager is a good idea either.</source>
           <target state="final">Although this program is secure enough it's worth also to keep password &amp; mnemonic in a secret place to be able to restore your wallet in case you get lost your device. A piece of paper in a safe vault is a good idea. Password manager is a good idea either.</target>
+        </trans-unit>
+        <trans-unit id="Autopayment" translate="yes" xml:space="preserve">
+          <source>Autopayment</source>
+          <target state="final">Autopay</target>
+        </trans-unit>
+        <trans-unit id="AutoPayments" translate="yes" xml:space="preserve">
+          <source>Auto payments</source>
+          <target state="final">Autopays</target>
+        </trans-unit>
+        <trans-unit id="RegularPayments" translate="yes" xml:space="preserve">
+          <source>Regular payments</source>
+          <target state="final">Regular pay</target>
+        </trans-unit>
+        <trans-unit id="SendingResult" translate="yes" xml:space="preserve">
+          <source>Sending result</source>
+          <target state="final">Sending result</target>
+        </trans-unit>
+        <trans-unit id="RepeatPaymentTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Autopay</source>
+          <target state="final">Autopay</target>
+        </trans-unit>
+        <trans-unit id="OkTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Ok</source>
+          <target state="final">Ok</target>
+        </trans-unit>
+        <trans-unit id="SaveRegularPaymentAppBar.Label" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="final">Save</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Make payment regular, select wallet, amount, interval &amp; period. The app would set a reminder in your calendar &amp; prepare the payment page for you. All you'll need to do is to verify &amp; confirm it.</source>
+          <target state="final">Make payment regular, select wallet, amount, interval &amp; period. The app would set a reminder in your calendar &amp; prepare the payment page for you. All you'll need to do is to verify &amp; confirm it.</target>
+        </trans-unit>
+        <trans-unit id="RegularPayment" translate="yes" xml:space="preserve">
+          <source>Regular pay</source>
+          <target state="final">Regular pay</target>
+        </trans-unit>
+        <trans-unit id="NameTextBox.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target state="final">Name</target>
+        </trans-unit>
+        <trans-unit id="AmountTextBox.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target state="final">Amount</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentIntervalTypeComboBox.Header" translate="yes" xml:space="preserve">
+          <source>Interval type</source>
+          <target state="final">Interval type</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentIntervalTypeComboBox.PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Pick an interval type</source>
+          <target state="final">Pick an interval type</target>
+        </trans-unit>
+        <trans-unit id="ValidUntilDatePicker.Header" translate="yes" xml:space="preserve">
+          <source>Valid unitl</source>
+          <target state="final">Valid unitl</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentLimitNameDayly" translate="yes" xml:space="preserve">
+          <source>Dayly. Hour of the day:</source>
+          <target state="final">Dayly. Hour of the day:</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentLimitNameMonthly" translate="yes" xml:space="preserve">
+          <source>Monthly. Day of the month:</source>
+          <target state="final">Monthly. Day of the month:</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentLimitNameWeekly" translate="yes" xml:space="preserve">
+          <source>Weekly. Day of the week:</source>
+          <target state="final">Weekly. Day of the week:</target>
+        </trans-unit>
+        <trans-unit id="LoadingTransactions" translate="yes" xml:space="preserve">
+          <source>Loading transactions...</source>
+          <target state="final">Loading transactions...</target>
+        </trans-unit>
+        <trans-unit id="UpdatingTransactionList" translate="yes" xml:space="preserve">
+          <source>Updating the transaction list</source>
+          <target state="final">Updating the transaction list...</target>
         </trans-unit>
       </group>
     </body>

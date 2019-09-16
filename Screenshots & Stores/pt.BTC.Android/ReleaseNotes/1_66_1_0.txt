@@ -1,0 +1,11 @@
+<en-US>
+1.66.1.0:
+- Sending result page added.
+- Selecting backend service bug fixed.
+</en-US>
+
+<ru-RU>
+1.66.1.0:
+- Добавлена страница результата отправки.
+- Исправлена ошибка выбора биткоин сервиса.
+</ru-RU>
