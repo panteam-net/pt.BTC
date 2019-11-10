@@ -898,6 +898,10 @@
           <source>Updating the transaction list</source>
           <target state="final">Updating the transaction list...</target>
         </trans-unit>
+        <trans-unit id="Calendar" translate="yes" xml:space="preserve">
+          <source>Calendar</source>
+          <target state="final">Calendar</target>
+        </trans-unit>
       </group>
     </body>
   </file>

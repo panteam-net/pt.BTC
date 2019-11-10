@@ -8,7 +8,7 @@
       <group id="PT.BTC/RESOURCES/STRINGS/STRINGS.RESX" datatype="resx">
         <trans-unit id="FingerprintMessage" translate="yes" xml:space="preserve">
           <source>Enable your Bitcoin ability</source>
-          <target state="final">Unlock your wallets</target>
+          <target state="final">Enable your Bitcoin ability</target>
         </trans-unit>
         <trans-unit id="LockApp" translate="yes" xml:space="preserve">
           <source>Lock App</source>
@@ -809,6 +809,14 @@
         <trans-unit id="UpdatingTransactionList" translate="yes" xml:space="preserve">
           <source>Updating the transaction list</source>
           <target state="final">Updating the transaction list...</target>
+        </trans-unit>
+        <trans-unit id="Calendar" translate="yes" xml:space="preserve">
+          <source>Calendar</source>
+          <target state="final">Calendar</target>
+        </trans-unit>
+        <trans-unit id="ValidUntil" translate="yes" xml:space="preserve">
+          <source>Valid until</source>
+          <target state="final">Valid until</target>
         </trans-unit>
       </group>
     </body>

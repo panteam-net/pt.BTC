@@ -1,3 +1,6 @@
+1.67.1.0:
+- Calendar page added.
+
 1.66.1.0:
 - Sending result page added.
 - Selecting backend service bug fixed.

@@ -811,6 +811,14 @@
           <source>Updating the transaction list</source>
           <target state="final">Обновление списка транзакций...</target>
         </trans-unit>
+        <trans-unit id="Calendar" translate="yes" xml:space="preserve">
+          <source>Calendar</source>
+          <target state="final">Календарь</target>
+        </trans-unit>
+        <trans-unit id="ValidUntil" translate="yes" xml:space="preserve">
+          <source>Valid until</source>
+          <target state="final">Напоминать до</target>
+        </trans-unit>
       </group>
     </body>
   </file>
