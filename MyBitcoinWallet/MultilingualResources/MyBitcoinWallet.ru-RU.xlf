@@ -851,8 +851,8 @@
           <target state="final">Сохранить</target>
         </trans-unit>
         <trans-unit id="RegularPaymentDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
-          <source>Make payment regular, select wallet, amount, interval &amp; period. The app would set a reminder in your calendar &amp; prepare the payment page for you. All you'll need to do is to verify &amp; confirm it.</source>
-          <target state="final">Сделайте оплату регулярной, выберите кошелек, сумму, интервал и период. Приложение установит напоминание в вашем календаре и подготовит страницу оплаты для вас. Все, что вам останется сделать, это проверить и подтвердить.</target>
+          <source>Make payment regular, select wallet, amount, interval &amp; period. The app would set a reminder in its calendar &amp; prepare the payment page for you. All you'll need to do is to verify &amp; confirm it.</source>
+          <target state="final">Сделайте платеж регулярным, выберите кошелек, сумму, интервал и период. Приложение установит напоминание в своем календаре и подготовит страницу оплаты для вас. Все, что вам нужно сделать, это проверить и подтвердить его.</target>
         </trans-unit>
         <trans-unit id="RegularPayment" translate="yes" xml:space="preserve">
           <source>Regular pay</source>
@@ -901,6 +901,14 @@
         <trans-unit id="Calendar" translate="yes" xml:space="preserve">
           <source>Calendar</source>
           <target state="final">Календарь</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentUnfinishedNotificationBody" translate="yes" xml:space="preserve">
+          <source>You've got one or more unfinished regular payments for today. Go to the calendar page to pay.</source>
+          <target state="final">У вас есть незавершенные регулярные платежи на сегодня. Перейдите на страницу календаря, чтобы оплатить.</target>
+        </trans-unit>
+        <trans-unit id="SendRegularPaymentAppBarButton" translate="yes" xml:space="preserve">
+          <source>Send</source>
+          <target state="final">Отправить</target>
         </trans-unit>
       </group>
     </body>

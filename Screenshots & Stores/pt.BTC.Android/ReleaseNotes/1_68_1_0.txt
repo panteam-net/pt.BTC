@@ -1,0 +1,9 @@
+<en-US>
+1.68.1.0:
+- Regular payments added.
+</en-US>
+
+<ru-RU>
+1.68.1.0:
+- Добавлена регулярная оплата.
+</ru-RU>

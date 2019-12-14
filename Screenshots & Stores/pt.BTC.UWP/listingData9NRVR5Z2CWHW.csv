@@ -30,7 +30,10 @@ More is coming.","Безопасный кросс-платформенный к�
 - Поддержка основной и тестовой сети.
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.67.1.0:
+ReleaseNotes,3,Text,,"1.68.1.0:
+- Regular payments added.
+
+1.67.1.0:
 - Calendar page added.
 
 1.66.1.0:
@@ -69,7 +72,10 @@ ReleaseNotes,3,Text,,"1.67.1.0:
 
 1.46.0.0:
 - Leftover field has been added on the sending amount page.
-- Minimal fee issue has been fixed.","1.67.1.0:
+- Minimal fee issue has been fixed.","1.68.1.0:
+- Regular payments added.
+
+1.67.1.0:
 - Calendar page added.
 
 1.66.1.0:
@@ -108,7 +114,10 @@ ReleaseNotes,3,Text,,"1.67.1.0:
 
 1.46.0.0:
 - Leftover field has been added on the sending amount page.
-- Minimal fee issue has been fixed.","1.67.1.0:
+- Minimal fee issue has been fixed.","1.68.1.0:
+- Добавлена регулярная оплата.
+
+1.67.1.0:
 - Добавлена страница календаря.
 
 1.66.1.0:

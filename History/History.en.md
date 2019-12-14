@@ -1,3 +1,6 @@
+1.68.1.0:
+- Regular payments added.
+
 1.67.1.0:
 - Calendar page added.
 

@@ -799,7 +799,7 @@
           <target state="final">Monthly. Day of the month:</target>
         </trans-unit>
         <trans-unit id="RegularPaymentDescription" translate="yes" xml:space="preserve">
-          <source>Make payment regular, select wallet, amount, interval &amp; period. The app would set a reminder in your calendar &amp; prepare the payment page for you. All you'll need to do is to verify &amp; confirm it.</source>
+          <source>Make payment regular, select wallet, amount, interval &amp; period. The app would set a reminder in its calendar &amp; prepare the payment page for you. All you'll need to do is to verify &amp; confirm it.</source>
           <target state="final">Make payment regular, select wallet, amount, interval &amp; period. The app would set a reminder in your calendar &amp; prepare the payment page for you. All you'll need to do is to verify &amp; confirm it.</target>
         </trans-unit>
         <trans-unit id="LoadingTransactions" translate="yes" xml:space="preserve">
@@ -817,6 +817,10 @@
         <trans-unit id="ValidUntil" translate="yes" xml:space="preserve">
           <source>Valid until</source>
           <target state="final">Valid until</target>
+        </trans-unit>
+        <trans-unit id="RegularPaymentUnfinishedNotificationBody" translate="yes" xml:space="preserve">
+          <source>You've got one or more unfinished regular payments for today. Go to the calendar page to pay.</source>
+          <target state="final">You've got one or more unfinished regular payments for today. Go to the calendar page to pay.</target>
         </trans-unit>
       </group>
     </body>

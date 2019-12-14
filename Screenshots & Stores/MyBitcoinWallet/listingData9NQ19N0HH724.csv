@@ -31,7 +31,10 @@ More is comming.","Простой и безопастный биткоин ко�
 - Поддеркжа основной и тестовой сети.
 
 Ещё больше возможностей скоро. "
-ReleaseNotes,3,Text,,"1.67.1.0:
+ReleaseNotes,3,Text,,"1.68.1.0:
+- Regular payments added.
+
+1.67.1.0:
 - Calendar page added.
 
 1.66.1.0:
@@ -41,8 +44,7 @@ ReleaseNotes,3,Text,,"1.67.1.0:
 1.65.1.0:
 - Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
 - Buying from Indacoin disabled. 
-1.67.1.0:
-- Calendar page added.
+
 1.64.1.0:
 - Wallet disclaimer page has been added.
 - Landing page has been updated.
@@ -71,7 +73,10 @@ ReleaseNotes,3,Text,,"1.67.1.0:
 
 1.46.0.0:
 - Leftover field has been added on the sending amount page.
-- Minimal fee issue has been fixed.","1.67.1.0:
+- Minimal fee issue has been fixed.","1.68.1.0:
+- Добавлена регулярная оплата.
+
+1.67.1.0:
 - Добавлена страница календаря.
 
 1.66.1.0:
@@ -110,7 +115,10 @@ ReleaseNotes,3,Text,,"1.67.1.0:
 
 1.46.0.0:
 - Добавлено поле остаток на страницу суммы для отправки
-- Решена проблема с минимальной комиссей сети.","1.67.1.0:
+- Решена проблема с минимальной комиссей сети.","1.68.1.0:
+- Добавлена регулярная оплата.
+
+1.67.1.0:
 - Добавлена страница календаря.
 
 1.66.1.0:
