@@ -1,3 +1,6 @@
+1.69.22.0:
+- Privacy policy page added.
+
 1.68.1.0:
 - Regular payments added.
 
