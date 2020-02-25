@@ -1,3 +1,6 @@
+1.70.0.0:
+- The exchange rate added to the alternative currency page.
+
 1.69.22.0:
 - Privacy policy page added.
 

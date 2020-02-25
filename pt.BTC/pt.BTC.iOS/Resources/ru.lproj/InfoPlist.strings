@@ -7,3 +7,4 @@
 "NSSiriUsageDescription"="$(PRODUCT_NAME) использует Сири.";
 "NSLocationAlwaysUsageDescription"="$(PRODUCT_NAME) использует геолокацию.";
 "NSLocationWhenInUseUsageDescription"="$(PRODUCT_NAME) использует геолокацию.";
+"NSFaceIDUsageDescription"="Нужно ваше лицо, чтобы разблокировать базу данных, если вы храните пароль на вашем устройстве";

@@ -643,8 +643,8 @@
           <target state="final">Current version</target>
         </trans-unit>
         <trans-unit id="AboutAppDescription" translate="yes" xml:space="preserve">
-          <source>Version, history, donation</source>
-          <target state="final">Version, history, donation</target>
+          <source>Privacy policy, version, donation, history</source>
+          <target state="final">Privacy policy, version, donation, history</target>
         </trans-unit>
         <trans-unit id="AboutApp" translate="yes" xml:space="preserve">
           <source>About</source>
@@ -821,6 +821,18 @@
         <trans-unit id="RegularPaymentUnfinishedNotificationBody" translate="yes" xml:space="preserve">
           <source>You've got one or more unfinished regular payments for today. Go to the calendar page to pay.</source>
           <target state="final">You've got one or more unfinished regular payments for today. Go to the calendar page to pay.</target>
+        </trans-unit>
+        <trans-unit id="PrivacyPolicy" translate="yes" xml:space="preserve">
+          <source>Privacy policy</source>
+          <target state="final">Privacy policy</target>
+        </trans-unit>
+        <trans-unit id="ErrorDownloading" translate="yes" xml:space="preserve">
+          <source>Error. Verify your internet connection and try again. Message:</source>
+          <target state="final">Error. Verify your internet connection and try again. Message:</target>
+        </trans-unit>
+        <trans-unit id="Downloading" translate="yes" xml:space="preserve">
+          <source>Downloading...</source>
+          <target state="final">Downloading...</target>
         </trans-unit>
       </group>
     </body>

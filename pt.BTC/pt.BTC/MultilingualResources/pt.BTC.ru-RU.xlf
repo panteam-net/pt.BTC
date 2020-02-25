@@ -644,8 +644,8 @@
           <target state="final">Текущая версия</target>
         </trans-unit>
         <trans-unit id="AboutAppDescription" translate="yes" xml:space="preserve">
-          <source>Version, history, donation</source>
-          <target state="final">Версия, история, донаты</target>
+          <source>Privacy policy, version, donation, history</source>
+          <target state="final">Политика конфиденцальности, версия, донаты, история</target>
         </trans-unit>
         <trans-unit id="AboutApp" translate="yes" xml:space="preserve">
           <source>About</source>
@@ -822,6 +822,18 @@
         <trans-unit id="RegularPaymentUnfinishedNotificationBody" translate="yes" xml:space="preserve">
           <source>You've got one or more unfinished regular payments for today. Go to the calendar page to pay.</source>
           <target state="final">У вас есть незавершенные регулярные платежи на сегодня. Перейдите на страницу календаря, чтобы оплатить.</target>
+        </trans-unit>
+        <trans-unit id="PrivacyPolicy" translate="yes" xml:space="preserve">
+          <source>Privacy policy</source>
+          <target state="final">Политика конфиденциальности</target>
+        </trans-unit>
+        <trans-unit id="ErrorDownloading" translate="yes" xml:space="preserve">
+          <source>Error. Verify your internet connection and try again. Message:</source>
+          <target state="final">Ошибка. Проверьте подключение к Интернету и попробуйте снова. Сообщение:</target>
+        </trans-unit>
+        <trans-unit id="Downloading" translate="yes" xml:space="preserve">
+          <source>Downloading...</source>
+          <target state="final">Загрузка...</target>
         </trans-unit>
       </group>
     </body>

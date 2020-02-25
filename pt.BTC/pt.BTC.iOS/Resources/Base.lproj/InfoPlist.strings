@@ -7,3 +7,4 @@
 "NSSiriUsageDescription"="$(PRODUCT_NAME) Siri use.";
 "NSLocationAlwaysUsageDescription"="$(PRODUCT_NAME) location use.";
 "NSLocationWhenInUseUsageDescription"="$(PRODUCT_NAME) location use.";
+"NSFaceIDUsageDescription"="Need your face to unlock database if you store the on your device.";

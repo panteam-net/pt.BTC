@@ -691,8 +691,8 @@
           <target state="final">About</target>
         </trans-unit>
         <trans-unit id="AboutAppDescription" translate="yes" xml:space="preserve">
-          <source>Version, history, donation</source>
-          <target state="final">Version, history, donation</target>
+          <source>Privacy policy, version, donation, history</source>
+          <target state="final">Privacy policy, version, donation, history</target>
         </trans-unit>
         <trans-unit id="CurrentVersionTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Current version</source>
@@ -909,6 +909,18 @@
         <trans-unit id="SendRegularPaymentAppBarButton" translate="yes" xml:space="preserve">
           <source>Send</source>
           <target state="final">Send</target>
+        </trans-unit>
+        <trans-unit id="PrivacyPolicy" translate="yes" xml:space="preserve">
+          <source>Privacy policy</source>
+          <target state="final">Privacy policy</target>
+        </trans-unit>
+        <trans-unit id="ErrorDownloading" translate="yes" xml:space="preserve">
+          <source>Error. Verify your internet connection and try again. Message:</source>
+          <target state="final">Error. Verify your internet connection and try again. Message:</target>
+        </trans-unit>
+        <trans-unit id="DownloadingTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Downloading...</source>
+          <target state="final">Downloading...</target>
         </trans-unit>
       </group>
     </body>
