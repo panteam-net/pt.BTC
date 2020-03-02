@@ -1,0 +1,9 @@
+<en-US>
+1.70.0.0:
+- The exchange rate added to the alternative currency page.
+</en-US>
+
+<ru-RU>
+1.70.0.0:
+- Обменный курс добавлен на страницу альтернативной валюты.
+</ru-RU>
