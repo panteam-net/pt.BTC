@@ -1,3 +1,8 @@
+1.71.0.0:
+- Fix generating mnemonic bug.
+- Fix adding an address for tracking with space at the end bug.
+- Update backend service.
+
 1.70.0.0:
 - The exchange rate added to the alternative currency page.
 

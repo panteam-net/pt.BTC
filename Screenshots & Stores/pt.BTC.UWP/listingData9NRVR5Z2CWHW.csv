@@ -30,7 +30,12 @@ More is coming.","Безопасный кросс-платформенный к�
 - Поддержка основной и тестовой сети.
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.70.0.0:
+ReleaseNotes,3,Text,,"1.71.0.0:
+- Fix generating mnemonic bug.
+- Fix adding an address for tracking with space at the end bug.
+- Update backend service.
+
+1.70.0.0:
 - The exchange rate added to the alternative currency page.
 
 1.69.22.0:
@@ -48,7 +53,7 @@ ReleaseNotes,3,Text,,"1.70.0.0:
 
 1.65.1.0:
 - Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
-- Buying from Indacoin disabled.
+- Buying from Indacoin disabled. 
 
 1.64.1.0:
 - Wallet disclaimer page has been added.
@@ -71,10 +76,12 @@ ReleaseNotes,3,Text,,"1.70.0.0:
 - Open blockchain button bug has been fixed.
 
 1.49.0.0:
-- Third party provider for buying bitcoins has been added. Now you can buy bitcoins right in the app.
+- Third party provider for buying bitcoins has been added. Now you can buy bitcoins right in the app.","1.71.0.0:
+- Fix generating mnemonic bug.
+- Fix adding an address for tracking with space at the end bug.
+- Update backend service.
 
-1.47.0.0:
-- Improvements of stability, performance & design.","1.70.0.0:
+1.70.0.0:
 - The exchange rate added to the alternative currency page.
 
 1.69.22.0:
@@ -92,7 +99,7 @@ ReleaseNotes,3,Text,,"1.70.0.0:
 
 1.65.1.0:
 - Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
-- Buying from Indacoin disabled.
+- Buying from Indacoin disabled. 
 
 1.64.1.0:
 - Wallet disclaimer page has been added.
@@ -115,10 +122,12 @@ ReleaseNotes,3,Text,,"1.70.0.0:
 - Open blockchain button bug has been fixed.
 
 1.49.0.0:
-- Third party provider for buying bitcoins has been added. Now you can buy bitcoins right in the app.
+- Third party provider for buying bitcoins has been added. Now you can buy bitcoins right in the app.","1.71.0.0:
+- Исправлена ошибка генерации мнемоники.
+- Исправлена ошибка добавления адреса для отслеживания с пробелом в конце.
+- Обновление серверной службы.
 
-1.47.0.0:
-- Improvements of stability, performance & design.","1.70.0.0:
+1.70.0.0:
 - Обменный курс добавлен на страницу альтернативная валюты.
 
 1.69.22.0:
@@ -159,10 +168,7 @@ ReleaseNotes,3,Text,,"1.70.0.0:
 - Исправлена ошибка кнопки Открыть блокчейн.
 
 1.49.0.0:
-- Добавлена возможность покупки биткоин с помощью стороннего провадера. Теперь вы можете покупать биткоин прямо из приложения.
-
-1.47.0.0:
-- Улучшения стабильности, производительности и дизайна."
+- Добавлена возможность покупки биткоин с помощью стороннего провадера. Теперь вы можете покупать биткоин прямо из приложения."
 Title,4,Text,,pt.BTC,pt.BTC,pt.BTC
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,
