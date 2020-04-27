@@ -1,0 +1,13 @@
+<en-US>
+1.71.0.0:
+- Fix generating mnemonic bug.
+- Fix adding an address for tracking with space at the end bug.
+- Update backend service.
+</en-US>
+
+<ru-RU>
+1.71.0.0:
+- Исправлена ошибка генерации мнемоники.
+- Исправлена ошибка добавления адреса для отслеживания с пробелом в конце.
+- Обновление серверной службы.
+</ru-RU>
