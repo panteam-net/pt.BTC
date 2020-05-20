@@ -922,6 +922,26 @@
           <source>Downloading...</source>
           <target state="final">Downloading...</target>
         </trans-unit>
+        <trans-unit id="Coins" translate="yes" xml:space="preserve">
+          <source>Coins</source>
+          <target state="final">Coins</target>
+        </trans-unit>
+        <trans-unit id="OpenCoinsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Coins</source>
+          <target state="final">Coins</target>
+        </trans-unit>
+        <trans-unit id="NoInternetMessageTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>No Internet connection.</source>
+          <target state="final">No Internet connection.</target>
+        </trans-unit>
+        <trans-unit id="CoinDataGridColumnHeader.HeaderText" translate="yes" xml:space="preserve">
+          <source>Coin</source>
+          <target state="final">Coin</target>
+        </trans-unit>
+        <trans-unit id="ConfirmationsDataGridColumnHeader.HeaderText" translate="yes" xml:space="preserve">
+          <source>Confirmations</source>
+          <target state="final">Confirmations</target>
+        </trans-unit>
       </group>
     </body>
   </file>

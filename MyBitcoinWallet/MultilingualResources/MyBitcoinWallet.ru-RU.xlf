@@ -224,7 +224,7 @@
         </trans-unit>
         <trans-unit id="TransactionIsNotVerified" translate="yes" xml:space="preserve">
           <source>Can not verify your transaction. Try again or change fee policy.</source>
-          <target state="translated">Невоможно проверить транзакцию. Попробуйте снова или измените политику сетевой комиссии.</target>
+          <target state="final">Невоможно проверить транзакцию. Попробуйте снова или измените политику сетевой комиссии.</target>
         </trans-unit>
         <trans-unit id="FromTextBlock.Text" translate="yes" xml:space="preserve">
           <source>From</source>
@@ -921,6 +921,26 @@
         <trans-unit id="DownloadingTextBlock.Text" translate="yes" xml:space="preserve">
           <source>Downloading...</source>
           <target state="final">Загрузка...</target>
+        </trans-unit>
+        <trans-unit id="Coins" translate="yes" xml:space="preserve">
+          <source>Coins</source>
+          <target state="final">Монеты</target>
+        </trans-unit>
+        <trans-unit id="OpenCoinsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Coins</source>
+          <target state="final">Монеты</target>
+        </trans-unit>
+        <trans-unit id="NoInternetMessageTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>No Internet connection.</source>
+          <target state="final">Нет подключения к интернету.</target>
+        </trans-unit>
+        <trans-unit id="CoinDataGridColumnHeader.HeaderText" translate="yes" xml:space="preserve">
+          <source>Coin</source>
+          <target state="final">Монета</target>
+        </trans-unit>
+        <trans-unit id="ConfirmationsDataGridColumnHeader.HeaderText" translate="yes" xml:space="preserve">
+          <source>Confirmations</source>
+          <target state="final">Подтверждения</target>
         </trans-unit>
       </group>
     </body>

@@ -834,6 +834,22 @@
           <source>Downloading...</source>
           <target state="final">Downloading...</target>
         </trans-unit>
+        <trans-unit id="Accept" translate="yes" xml:space="preserve">
+          <source>Accept</source>
+          <target state="final">Accept</target>
+        </trans-unit>
+        <trans-unit id="Decline" translate="yes" xml:space="preserve">
+          <source>Decline</source>
+          <target state="final">Decline</target>
+        </trans-unit>
+        <trans-unit id="Coins" translate="yes" xml:space="preserve">
+          <source>Coins</source>
+          <target state="final">Coins</target>
+        </trans-unit>
+        <trans-unit id="NoInternetConnection" translate="yes" xml:space="preserve">
+          <source>No Internet connection.</source>
+          <target state="final">No Internet connection.</target>
+        </trans-unit>
       </group>
     </body>
   </file>
