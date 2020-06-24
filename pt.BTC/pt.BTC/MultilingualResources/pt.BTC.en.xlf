@@ -471,8 +471,8 @@
           <target state="final">Send all</target>
         </trans-unit>
         <trans-unit id="AddressTypeIsNotSupported" translate="yes" xml:space="preserve">
-          <source>This address type is not supported yet. Only Pubkey hash (P2PKH address) &amp; Script hash (P2SH address) are supported.</source>
-          <target state="final">This address type is not supported yet. Only Pubkey hash (P2PKH address) &amp; Script hash (P2SH address) are supported.</target>
+          <source>This address type is not supported yet. Only Pubkey hash (P2PKH address), Script hash (P2SH address) &amp; segwit (Bech32) are supported at this moment.</source>
+          <target state="final">This address type is not supported yet. Only Pubkey hash (P2PKH address), Script hash (P2SH address) &amp; segwit (Bech32) are supported at this moment.</target>
         </trans-unit>
         <trans-unit id="WalletNameIsEmpty" translate="yes" xml:space="preserve">
           <source>Wallet name is empty</source>
@@ -849,6 +849,22 @@
         <trans-unit id="NoInternetConnection" translate="yes" xml:space="preserve">
           <source>No Internet connection.</source>
           <target state="final">No Internet connection.</target>
+        </trans-unit>
+        <trans-unit id="WalletTransactionTypePickerTitle" translate="yes" xml:space="preserve">
+          <source>Transaction address type (can be changed later)</source>
+          <target state="final">Transaction address type (can be changed later)</target>
+        </trans-unit>
+        <trans-unit id="WalletTransactionTypeDescriptionLegacy" translate="yes" xml:space="preserve">
+          <source>Use P2PKH addresses. Slower, more expensive transactions but supported by everyone.</source>
+          <target state="final">Use P2PKH addresses. Slower, more expensive transactions but supported by everyone.</target>
+        </trans-unit>
+        <trans-unit id="WalletTransactionTypeDescriptionSegwit" translate="yes" xml:space="preserve">
+          <source>Use Bech32 addresses. Faster, cheaper transactions but some participants might not support it.</source>
+          <target state="final">Use Bech32 addresses. Faster, cheaper transactions but some participants might not support it.</target>
+        </trans-unit>
+        <trans-unit id="WalletTransactionTypeDescription" translate="yes" xml:space="preserve">
+          <source>Transaction address types are incompatible. Change it in the wallet's settings if you can't get your balance.</source>
+          <target state="final">Transaction address types are incompatible. Change it in the wallet's settings if you can't get your balance.</target>
         </trans-unit>
       </group>
     </body>

@@ -8,6 +8,7 @@ Description,2,Text,,"Secure cross-platform bitcoin wallet
 - Network fee selection.
 - Importing & exporting.
 - Main & Test networks are supported.
+- Segwit (Bech32).
 
 More is coming.","Secure cross-platform bitcoin wallet
 - No registration for using.
@@ -18,6 +19,7 @@ More is coming.","Secure cross-platform bitcoin wallet
 - Network fee selection.
 - Importing & exporting.
 - Main & Test networks are supported.
+- Segwit (Bech32).
 
 More is coming.","Безопасный кросс-платформенный кошелек.
 - Для использования не требуется регистрация.
@@ -28,9 +30,13 @@ More is coming.","Безопасный кросс-платформенный к�
 - Выбор политики сетевой комиссии.
 - Импорт & экспорт.
 - Поддержка основной и тестовой сети.
+- Segwit (Bech32).
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.72.0.0:
+ReleaseNotes,3,Text,,"1.73.0.0:
+- Added Segwit (Bech32) transaction address type for a wallet. It improves transaction security & speed while reduces the fee.
+
+1.72.0.0:
 - Coins page added.
 
 1.71.0.0:
@@ -73,10 +79,10 @@ ReleaseNotes,3,Text,,"1.72.0.0:
 - About page has been added.
 
 1.52.0.0:
-- Bitcoin services connection reliability has been improved.
+- Bitcoin services connection reliability has been improved.","1.73.0.0:
+- Added Segwit (Bech32) transaction address type for a wallet. It improves transaction security & speed while reduces the fee.
 
-1.50.0.0:
-- Open blockchain button bug has been fixed.","1.72.0.0:
+1.72.0.0:
 - Coins page added.
 
 1.71.0.0:
@@ -119,10 +125,10 @@ ReleaseNotes,3,Text,,"1.72.0.0:
 - About page has been added.
 
 1.52.0.0:
-- Bitcoin services connection reliability has been improved.
+- Bitcoin services connection reliability has been improved.","1.73.0.0:
+- Добавлен тип адреса транзакции Segwit (Bech32) для кошелька. Это повышает безопасность и скорость транзакций, а также снижает комиссию.
 
-1.50.0.0:
-- Open blockchain button bug has been fixed.","1.72.0.0:
+1.72.0.0:
 - Добавлена страница монет.
 
 1.71.0.0:
@@ -165,10 +171,7 @@ ReleaseNotes,3,Text,,"1.72.0.0:
 - Добавлена страница о программе.
 
 1.52.0.0:
-- Повышена отказоустойчивость подключения биткоин сервисов.
-
-1.50.0.0:
-- Исправлена ошибка кнопки Открыть блокчейн."
+- Повышена отказоустойчивость подключения биткоин сервисов."
 Title,4,Text,,pt.BTC,pt.BTC,pt.BTC
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,
@@ -276,10 +279,10 @@ Feature2,701,Text,,Import wallet,Import wallet,Импорт кошельков
 Feature3,702,Text,,QR codes,QR codes,QR коды
 Feature4,703,Text,,Test network,Test network,Тестовая сеть
 Feature5,704,Text,,Bitcoin wallet,Bitcoin wallet,Биткоин кошелёк
-Feature6,705,Text,,BTC wallet,BTC wallet,Биткоин кошелек
+Feature6,705,Text,,BTC wallet,BTC wallet,BTC кошелёк
 Feature7,706,Text,,Public address tracking,Public address tracking,Отслеживание публичных адресов
-Feature8,707,Text,,,,
-Feature9,708,Text,,,,
+Feature8,707,Text,,Bitcoin,Bitcoin,Биткоин
+Feature9,708,Text,,Segwit,Segwit,Segwit
 Feature10,709,Text,,,,
 Feature11,710,Text,,,,
 Feature12,711,Text,,,,
