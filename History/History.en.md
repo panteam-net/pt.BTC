@@ -1,3 +1,6 @@
+1.74.0.0:
+- Addresses page added.
+
 1.73.0.0:
 - Added Segwit (Bech32) transaction address type for a wallet. It improves transaction security & speed while reduces the fee.
 
