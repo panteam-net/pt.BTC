@@ -1,0 +1,8 @@
+<en-US>
+1.75.0.0:
+- Added cache to improve app's responsiveness.
+</en-US>
+<ru-RU>
+1.75.0.0:
+- Добавлен кэш для улучшения отзывчивости приложения.
+</ru-RU>
