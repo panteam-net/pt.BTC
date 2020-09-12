@@ -1,3 +1,6 @@
+1.75.0.0:
+- Added cache to improve app's responsiveness.
+
 1.74.0.0:
 - Addresses page added.
 
