@@ -866,6 +866,58 @@
           <source>Transaction address types are incompatible. Change it in the wallet's settings if you can't get your balance.</source>
           <target state="final">Transaction address types are incompatible. Change it in the wallet's settings if you can't get your balance.</target>
         </trans-unit>
+        <trans-unit id="CantLoadTransactionErrorMessage" translate="yes" xml:space="preserve">
+          <source>Can't load a transaction for the address. Please, try again later.</source>
+          <target state="final">Can't load a transaction for the address. Please, try again later.</target>
+        </trans-unit>
+        <trans-unit id="Addresses" translate="yes" xml:space="preserve">
+          <source>Addresses</source>
+          <target state="final">Addresses</target>
+        </trans-unit>
+        <trans-unit id="Balance" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <target state="final">Balance</target>
+        </trans-unit>
+        <trans-unit id="Coin" translate="yes" xml:space="preserve">
+          <source>Coin</source>
+          <target state="final">Coin</target>
+        </trans-unit>
+        <trans-unit id="Type" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="final">Type</target>
+        </trans-unit>
+        <trans-unit id="LoadingAddresses" translate="yes" xml:space="preserve">
+          <source>Loading addresses &amp; their transactions</source>
+          <target state="final">Loading addresses &amp; their transactions</target>
+        </trans-unit>
+        <trans-unit id="LoadingCoins" translate="yes" xml:space="preserve">
+          <source>Loading coins &amp; their transactions</source>
+          <target state="final">Loading coins &amp; their transactions</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitch" translate="yes" xml:space="preserve">
+          <source>Show addresses switch</source>
+          <target state="final">Show addresses switch</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchDescription" translate="yes" xml:space="preserve">
+          <source>Experimental feature. Use it at your own risk. Allows using BIP44 addresses generation for a wallet in its settings.</source>
+          <target state="final">Experimental feature. Use it at your own risk. Allows using BIP44 addresses generation for a wallet in its settings.</target>
+        </trans-unit>
+        <trans-unit id="BitcoinSecret" translate="yes" xml:space="preserve">
+          <source>One address</source>
+          <target state="final">One address</target>
+        </trans-unit>
+        <trans-unit id="BitcoinSecretBip44" translate="yes" xml:space="preserve">
+          <source>BIP44</source>
+          <target state="final">BIP44</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchOff" translate="yes" xml:space="preserve">
+          <source>Addresses switch is off</source>
+          <target state="final">Addresses switch is off</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchOn" translate="yes" xml:space="preserve">
+          <source>Addresses switch is on</source>
+          <target state="final">Addresses switch is on</target>
+        </trans-unit>
       </group>
     </body>
   </file>

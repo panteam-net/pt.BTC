@@ -958,6 +958,66 @@
           <source>Import wallet</source>
           <target state="final">Импортировать</target>
         </trans-unit>
+        <trans-unit id="CantLoadTransactionErrorMessage" translate="yes" xml:space="preserve">
+          <source>Can't load a transaction for the address. Please, try again later.</source>
+          <target state="final">Не удается загрузить транзакцию для этого адреса. Пожалуйста, повторите попытку позже.</target>
+        </trans-unit>
+        <trans-unit id="OpenAddressesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Addresses</source>
+          <target state="final">Адреса</target>
+        </trans-unit>
+        <trans-unit id="AddressDataGridColumnHeader.HeaderText" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <target state="final">Адрес</target>
+        </trans-unit>
+        <trans-unit id="BalanceDataGridColumnHeader.HeaderText" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <target state="final">Баланс</target>
+        </trans-unit>
+        <trans-unit id="TransactionsDataGridColumnHeader.HeaderText" translate="yes" xml:space="preserve">
+          <source>Transactions</source>
+          <target state="final">Транзакции</target>
+        </trans-unit>
+        <trans-unit id="TypeDataGridColumnHeader.HeaderText" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="final">Тип</target>
+        </trans-unit>
+        <trans-unit id="LoadingAddressesTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Loading addresses &amp; their transactions</source>
+          <target state="final">Загрузка адресов и их транзакций</target>
+        </trans-unit>
+        <trans-unit id="LoadingCoinsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Loading coins &amp; their transactions</source>
+          <target state="final">Загрузка монет и их транзакций</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Experimental feature. Use it at your own risk. Allows using BIP44 addresses generation for a wallet in its settings.</source>
+          <target state="final">Экспериментальная опция. Используйте её на свой страх и риск. Позволяет использовать генерацию адресов BIP44 для кошелька в его настройках.</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Show addresses switch</source>
+          <target state="final">Разрешить изменение типа адресов кошелька</target>
+        </trans-unit>
+        <trans-unit id="BitcoinSecret" translate="yes" xml:space="preserve">
+          <source>One address</source>
+          <target state="final">Один адрес</target>
+        </trans-unit>
+        <trans-unit id="BitcoinSecretBip44" translate="yes" xml:space="preserve">
+          <source>BIP44</source>
+          <target state="final">BIP44</target>
+        </trans-unit>
+        <trans-unit id="WalletTypeTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Addresses</source>
+          <target state="final">Адреса</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchOff" translate="yes" xml:space="preserve">
+          <source>Addresses switch is off</source>
+          <target state="final">Переключатель наследования адресов выкл.</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchOn" translate="yes" xml:space="preserve">
+          <source>Addresses switch is on</source>
+          <target state="final">Переключатель наследования адресов вкл.</target>
+        </trans-unit>
       </group>
     </body>
   </file>

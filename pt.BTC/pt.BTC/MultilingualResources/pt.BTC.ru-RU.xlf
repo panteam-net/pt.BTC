@@ -867,6 +867,58 @@
           <source>Transaction address types are incompatible. Change it in the wallet's settings if you can't get your balance.</source>
           <target state="final">Типы адресов транзакций несовместимы между собой. Измените его в настройках кошелька, если вы не можете получить свой баланс.</target>
         </trans-unit>
+        <trans-unit id="CantLoadTransactionErrorMessage" translate="yes" xml:space="preserve">
+          <source>Can't load a transaction for the address. Please, try again later.</source>
+          <target state="final">Не удается загрузить транзакцию для этого адреса. Пожалуйста, повторите попытку позже.</target>
+        </trans-unit>
+        <trans-unit id="Addresses" translate="yes" xml:space="preserve">
+          <source>Addresses</source>
+          <target state="final">Адреса</target>
+        </trans-unit>
+        <trans-unit id="Balance" translate="yes" xml:space="preserve">
+          <source>Balance</source>
+          <target state="final">Баланс</target>
+        </trans-unit>
+        <trans-unit id="Coin" translate="yes" xml:space="preserve">
+          <source>Coin</source>
+          <target state="final">Монета</target>
+        </trans-unit>
+        <trans-unit id="Type" translate="yes" xml:space="preserve">
+          <source>Type</source>
+          <target state="final">Тип</target>
+        </trans-unit>
+        <trans-unit id="LoadingAddresses" translate="yes" xml:space="preserve">
+          <source>Loading addresses &amp; their transactions</source>
+          <target state="final">Запрос адресов и их транзакций</target>
+        </trans-unit>
+        <trans-unit id="LoadingCoins" translate="yes" xml:space="preserve">
+          <source>Loading coins &amp; their transactions</source>
+          <target state="final">Запрос монет и их транзакций</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitch" translate="yes" xml:space="preserve">
+          <source>Show addresses switch</source>
+          <target state="final">Разрешить изменение адресов для кошелька</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchDescription" translate="yes" xml:space="preserve">
+          <source>Experimental feature. Use it at your own risk. Allows using BIP44 addresses generation for a wallet in its settings.</source>
+          <target state="final">Экспериментальная опция. Используйте её на свой страх и риск. Позволяет использовать генерацию адресов BIP44 для кошелька в его настройках.</target>
+        </trans-unit>
+        <trans-unit id="BitcoinSecret" translate="yes" xml:space="preserve">
+          <source>One address</source>
+          <target state="final">Один адрес</target>
+        </trans-unit>
+        <trans-unit id="BitcoinSecretBip44" translate="yes" xml:space="preserve">
+          <source>BIP44</source>
+          <target state="final">BIP44</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchOff" translate="yes" xml:space="preserve">
+          <source>Addresses switch is off</source>
+          <target state="final">Переключатель наследования адресов выкл.</target>
+        </trans-unit>
+        <trans-unit id="ShowWalletTypeSwitchOn" translate="yes" xml:space="preserve">
+          <source>Addresses switch is on</source>
+          <target state="final">Переключатель наследования адресов вкл.</target>
+        </trans-unit>
       </group>
     </body>
   </file>
