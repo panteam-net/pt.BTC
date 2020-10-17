@@ -291,8 +291,8 @@
           <target state="final">Import wallet</target>
         </trans-unit>
         <trans-unit id="SavePassword" translate="yes" xml:space="preserve">
-          <source>Save password in device's password storage</source>
-          <target state="final">Save password in device's password storage</target>
+          <source>Save password on this device in the encrypted database</source>
+          <target state="final">Save password on this device in the encrypted database</target>
         </trans-unit>
         <trans-unit id="Mnemonic" translate="yes" xml:space="preserve">
           <source>Mnemonic</source>
@@ -917,6 +917,46 @@
         <trans-unit id="ShowWalletTypeSwitchOn" translate="yes" xml:space="preserve">
           <source>Addresses switch is on</source>
           <target state="final">Addresses switch is on</target>
+        </trans-unit>
+        <trans-unit id="WalletDisclaimer4" translate="yes" xml:space="preserve">
+          <source>To verify that you remember password &amp; mnemonics correctly you can import a wallet with the same password &amp; mnemonic. The imported wallet should have the same public addresses &amp; balance.</source>
+          <target state="final">To verify that you remember password &amp; mnemonics correctly you can import a wallet with the same password &amp; mnemonic. The imported wallet should have the same public addresses &amp; balance.</target>
+        </trans-unit>
+        <trans-unit id="Secrets" translate="yes" xml:space="preserve">
+          <source>Secrets</source>
+          <target state="final">Secrets</target>
+        </trans-unit>
+        <trans-unit id="Validating" translate="yes" xml:space="preserve">
+          <source>Validating...</source>
+          <target state="final">Validating...</target>
+        </trans-unit>
+        <trans-unit id="MnemonicDescription" translate="yes" xml:space="preserve">
+          <source>(Stored in the encrypted database on this device)</source>
+          <target state="final">(Stored in the encrypted database on this device)</target>
+        </trans-unit>
+        <trans-unit id="RootPrivateKey" translate="yes" xml:space="preserve">
+          <source>Root private key for spending coins</source>
+          <target state="final">Root private key for spending coins</target>
+        </trans-unit>
+        <trans-unit id="RootPrivateKeyDescription" translate="yes" xml:space="preserve">
+          <source>(Doesn't store on this device. It's regenerated from password &amp; mnemonic each time on spending coins)</source>
+          <target state="final">(Doesn't store on this device. It's regenerated from password &amp; mnemonic each time on spending coins)</target>
+        </trans-unit>
+        <trans-unit id="RootPublicKey" translate="yes" xml:space="preserve">
+          <source>Root public key for generating public addresses</source>
+          <target state="final">Root public key for generating public addresses</target>
+        </trans-unit>
+        <trans-unit id="RootPublicKeyDescription" translate="yes" xml:space="preserve">
+          <source>(Stored in the encrypted database on this device)</source>
+          <target state="final">(Stored in the encrypted database on this device)</target>
+        </trans-unit>
+        <trans-unit id="GuessingWalletOptions" translate="yes" xml:space="preserve">
+          <source>Finding transactions for public addresses generated with different options...</source>
+          <target state="final">Finding transactions for public addresses generated with different options...</target>
+        </trans-unit>
+        <trans-unit id="MnemonicCantBeEmpty" translate="yes" xml:space="preserve">
+          <source>Mnemonic can't be empty.</source>
+          <target state="final">Mnemonic can't be empty.</target>
         </trans-unit>
       </group>
     </body>

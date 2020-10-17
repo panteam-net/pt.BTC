@@ -299,8 +299,8 @@
           <target state="final">Мнемоника</target>
         </trans-unit>
         <trans-unit id="SavePasswordTextBlock.Text" translate="yes" xml:space="preserve">
-          <source>Save password in device's password storage</source>
-          <target state="final">Сохранить пароль в хранилище паролей устройства</target>
+          <source>Save password in the encrypted database on this device</source>
+          <target state="final">Сохранить пароль в зашифрованной базе данных на этом устройстве</target>
         </trans-unit>
         <trans-unit id="InvalidPassword" translate="yes" xml:space="preserve">
           <source>Invalid password. Please enter wallet's restoring password.</source>
@@ -1017,6 +1017,58 @@
         <trans-unit id="ShowWalletTypeSwitchOn" translate="yes" xml:space="preserve">
           <source>Addresses switch is on</source>
           <target state="final">Переключатель наследования адресов вкл.</target>
+        </trans-unit>
+        <trans-unit id="WalletDisclaimer4" translate="yes" xml:space="preserve">
+          <source>To verify that you remember password &amp; mnemonics correctly you can import a wallet with the same password &amp; mnemonic. The imported wallet should have the same public addresses &amp; balance.</source>
+          <target state="final">Чтобы убедиться, что вы правильно запомнили пароль и мнемонику, вы можете импортировать кошелек с тем же паролем и мнемоникой. Импортированный кошелек должен иметь те же публичные адреса и баланс.</target>
+        </trans-unit>
+        <trans-unit id="Secrets" translate="yes" xml:space="preserve">
+          <source>Secrets</source>
+          <target state="final">Защищаемые данные</target>
+        </trans-unit>
+        <trans-unit id="Validating" translate="yes" xml:space="preserve">
+          <source>Validating...</source>
+          <target state="final">Проверка...</target>
+        </trans-unit>
+        <trans-unit id="NextAppBarButton.Label" translate="yes" xml:space="preserve">
+          <source>Next</source>
+          <target state="final">Далее</target>
+        </trans-unit>
+        <trans-unit id="MnemonicDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>(Stored in the encrypted database on this device)</source>
+          <target state="final">(Хранится в зашифрованной базе данных на этом устройстве)</target>
+        </trans-unit>
+        <trans-unit id="RootPrivateKeyDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>(Doesn't store on this device. It's regenerated from password &amp; mnemonic each time on spending coins)</source>
+          <target state="final">(Не хранится на этом устройстве. Регенерируется из пароля и мнемоники каждый раз при отправке монет)</target>
+        </trans-unit>
+        <trans-unit id="RootPrivateKeyTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Root private key for spending coins</source>
+          <target state="final">Главный закрытый ключ для траты монет</target>
+        </trans-unit>
+        <trans-unit id="RootPublicKeyDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>(Stored in the encrypted database on this device)</source>
+          <target state="final">(Хранится в зашифрованной базе данных на этом устройстве)</target>
+        </trans-unit>
+        <trans-unit id="RootPublicKeyTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Root public key for generating public addresses</source>
+          <target state="final">Главный открытый ключ для генерации публичных адресов</target>
+        </trans-unit>
+        <trans-unit id="GuessingWalletOptions" translate="yes" xml:space="preserve">
+          <source>Finding transactions for public addresses generated with different options...</source>
+          <target state="final">Поиск транзакций для публичных адресов, сгенерированных с помощью различных опций...</target>
+        </trans-unit>
+        <trans-unit id="SaveAppBarButton.Label" translate="yes" xml:space="preserve">
+          <source>Save</source>
+          <target state="final">Сохранить</target>
+        </trans-unit>
+        <trans-unit id="WalletSettings" translate="yes" xml:space="preserve">
+          <source>Options</source>
+          <target state="final">Опции</target>
+        </trans-unit>
+        <trans-unit id="MnemonicCantBeEmpty" translate="yes" xml:space="preserve">
+          <source>The mnemonic can't be empty.</source>
+          <target state="final">Мнемоника не может быть пустой.</target>
         </trans-unit>
       </group>
     </body>

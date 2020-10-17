@@ -1,3 +1,7 @@
+1.76.0.0:
+- Added wallet options auto-detection.
+- Added BIP44 support.
+
 1.75.0.0:
 - Added cache to improve app's responsiveness.
 

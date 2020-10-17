@@ -1,0 +1,9 @@
+<en-US>
+1.76.0.0:
+- Added wallet options auto-detection.
+- Added BIP44 support.</en-US>
+<ru-RU>
+1.76.0.0:
+- Добавлено автоматическое определение параметров кошелька.
+- Добавлена поддержка BIP44.
+</ru-RU>
