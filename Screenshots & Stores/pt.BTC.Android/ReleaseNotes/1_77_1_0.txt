@@ -1,0 +1,7 @@
+<en-US>
+1.77.0.0:
+- Improved performance for BIP44.
+<ru-RU>
+1.77.0.0:
+- Улучшена производительность при работе с BIP44.
+</ru-RU>

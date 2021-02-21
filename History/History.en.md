@@ -1,3 +1,6 @@
+1.77.0.0:
+- Improved performance for BIP44.
+
 1.76.0.0:
 - Added wallet options auto-detection.
 - Added BIP44 support.
