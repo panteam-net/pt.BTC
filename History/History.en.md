@@ -1,3 +1,7 @@
+1.78.0.0:
+- Improved performance.
+- Fixed bugs.
+
 1.77.0.0:
 - Improved performance for BIP44.
 
