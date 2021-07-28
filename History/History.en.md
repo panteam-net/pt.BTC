@@ -1,3 +1,6 @@
+1.79.0.0:
+- Fixed bugs.
+
 1.78.0.0:
 - Improved performance.
 - Fixed bugs.

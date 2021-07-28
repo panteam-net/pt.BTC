@@ -37,7 +37,10 @@ More is comming.","Простой и безопастный биткоин ко�
 - BIP44.
 
 Ещё больше возможностей скоро."
-ReleaseNotes,3,Text,,"1.78.0.0:
+ReleaseNotes,3,Text,,"1.79.0.0:
+- Fixed bugs.
+
+1.78.0.0:
 - Improved performance.
 - Fixed bugs.
 
@@ -88,7 +91,11 @@ ReleaseNotes,3,Text,,"1.78.0.0:
 1.64.1.0:
 - Wallet disclaimer page has been added.
 - Landing page has been updated.
-- Indacoin transactions traceability has been improved for resolving possible issues.","1.78.0.0:
+- Indacoin transactions traceability has been improved for resolving possible issues.
+","1.79.0.0:
+- Исправлены ошибки.
+
+1.78.0.0:
 - Улучшена производительность.
 - Исправлены ошибки.
 
@@ -139,7 +146,11 @@ ReleaseNotes,3,Text,,"1.78.0.0:
 1.64.1.0:
 - Добавлено описание рисков использования кошельков в приложении.
 - Обновлена начальная страница.
-- Для разрешения спорных ситуаций улучшено отслеживание транзакций Indacoin.","1.78.0.0:
+- Для разрешения спорных ситуаций улучшено отслеживание транзакций Indacoin.
+","1.79.0.0:
+- Исправлены ошибки.
+
+1.78.0.0:
 - Улучшена производительность.
 - Исправлены ошибки.
 
@@ -190,13 +201,14 @@ ReleaseNotes,3,Text,,"1.78.0.0:
 1.64.1.0:
 - Добавлено описание рисков использования кошельков в приложении.
 - Обновлена начальная страница.
-- Для разрешения спорных ситуаций улучшено отслеживание транзакций Indacoin."
+- Для разрешения спорных ситуаций улучшено отслеживание транзакций Indacoin.
+"
 Title,4,Text,,MyBitcoinWallet,MyBitcoinWallet,MyBitcoinWallet
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,
 VoiceTitle,7,Text,,,,
 ShortDescription,8,Text,,,,
-DevStudio,9,Text,,,,
+DevStudio,9,Text,,Panteam,Пантим,Пантим
 CopyrightTrademarkInformation,12,Text,,Panteam,Пантим,Пантим
 AdditionalLicenseTerms,13,Text,,,,
 DesktopScreenshot1,100,Relative path (or URL to file in Partner Center),,MyBitcoinWallet/En_01_Wallets.png,MyBitcoinWallet/Ru_01_Wallets.png,MyBitcoinWallet/Ru_01_Wallets.png
