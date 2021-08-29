@@ -8,8 +8,8 @@ The project is under development. It will be available in the stores as soon as 
 |--------------|-----------|
 |pt.BTC.Android|<a href='https://play.google.com/store/apps/details?id=net.panteam.pt.BTC&utm_source=Github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&utm_source=badge&utm_campaign=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png' height='60'/></a>|
 |pt.BTC.iOS|<a href='https://testflight.apple.com/join/0iUXrCZh'>Join us on TestFlight</a>|
-|pt.BTC.UWP|<a href='//www.microsoft.com/store/apps/9NRVR5Z2CWHW?ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' height='60' alt='English badge'/></a>|
-|MyBitcoinWallet (UWP)|<a href='//www.microsoft.com/store/apps/9NQ19N0HH724?ocid=badge'><img src='https://assets.windowsphone.com/85864462-9c82-451e-9355-a3d5f874397a/English_get-it-from-MS_InvariantCulture_Default.png' height='60' alt='English badge'/></a>|
+|pt.BTC.UWP|<a href='https://www.microsoft.com/store/apps/9NRVR5Z2CWHW?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='English badge' style='width: 284px; height: 104px;'/></a>|
+|MyBitcoinWallet (UWP)|<a href='https://www.microsoft.com/store/apps/9NQ19N0HH724?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/en-us/store/badges/images/English_get-it-from-MS.png' alt='English badge' style='width: 284px; height: 104px;'/></a>|
 
 ## Localization
 To edit localized resources or to add new translation language please 
@@ -21,5 +21,3 @@ You can use any tool for editing *.xlf file. We use this one [Multilingual app t
 
 ## Issues
 If you have any guestions or problems just open an issue.
-
-[![HitCount](http://hits.dwyl.io/AdminPanteam/AdminPanteam/pt.BTC.svg)](http://hits.dwyl.io/AdminPanteam/AdminPanteam/pt.BTC)
