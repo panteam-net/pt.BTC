@@ -1070,6 +1070,38 @@
           <source>The mnemonic can't be empty.</source>
           <target state="final">The mnemonic can't be empty.</target>
         </trans-unit>
+        <trans-unit id="SendBetweenWalletsTitle" translate="yes" xml:space="preserve">
+          <source>Send between wallets</source>
+          <target state="final">Send between wallets</target>
+        </trans-unit>
+        <trans-unit id="TargetPublicAddressTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Target public address:</source>
+          <target state="final">Target public address:</target>
+        </trans-unit>
+        <trans-unit id="SendCoinsFromAnotherWallet" translate="yes" xml:space="preserve">
+          <source>From existing wallet</source>
+          <target state="final">From existing wallet</target>
+        </trans-unit>
+        <trans-unit id="SendCoinsFromAnotherWalletDesc" translate="yes" xml:space="preserve">
+          <source>Send coins between wallets</source>
+          <target state="final">Send coins between wallets</target>
+        </trans-unit>
+        <trans-unit id="SelecteTargetWallet" translate="yes" xml:space="preserve">
+          <source>Select target wallet</source>
+          <target state="final">Select target wallet</target>
+        </trans-unit>
+        <trans-unit id="ScanQrCodeTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Scan QR code</source>
+          <target state="final">Scan QR code</target>
+        </trans-unit>
+        <trans-unit id="SendBetweenWalletsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Send between wallets</source>
+          <target state="final">Send between wallets</target>
+        </trans-unit>
+        <trans-unit id="AutoStaging" translate="yes" xml:space="preserve">
+          <source>Prerelease stage</source>
+          <target state="final">Prerelease stage</target>
+        </trans-unit>
       </group>
     </body>
   </file>

@@ -33,7 +33,12 @@ More is coming.","Безопасный кросс-платформенный к�
 - Segwit (Bech32).
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.79.0.0:
+ReleaseNotes,3,Text,,"1.80.0.0:
+- Added send between wallets page.
+- Fixed frozen balance bug.
+- Fixed opening advanced settings page crash.
+
+1.79.0.0:
 - Fixed bugs.
 
 1.78.0.0:
@@ -82,13 +87,12 @@ ReleaseNotes,3,Text,,"1.79.0.0:
 
 1.65.1.0:
 - Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
-- Buying from Indacoin disabled. 
+- Buying from Indacoin disabled. ","1.80.0.0:
+- Added send between wallets page.
+- Fixed frozen balance bug.
+- Fixed opening advanced settings page crash.
 
-1.64.1.0:
-- Wallet disclaimer page has been added.
-- Landing page has been updated.
-- Indacoin transactions traceability has been improved for resolving possible issues.
-","1.79.0.0:
+1.79.0.0:
 - Fixed bugs.
 
 1.78.0.0:
@@ -137,13 +141,12 @@ ReleaseNotes,3,Text,,"1.79.0.0:
 
 1.65.1.0:
 - Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
-- Buying from Indacoin disabled. 
+- Buying from Indacoin disabled. ","1.80.0.0:
+- Добавлена страница отправки между кошельками.
+- Исправлена ошибка с замороженным балансом.
+- Исправлена ошибка при открытии страницы дополнительных настроек.
 
-1.64.1.0:
-- Wallet disclaimer page has been added.
-- Landing page has been updated.
-- Indacoin transactions traceability has been improved for resolving possible issues.
-","1.79.0.0:
+1.79.0.0:
 - Исправлены ошибки.
 
 1.78.0.0:
@@ -192,13 +195,7 @@ ReleaseNotes,3,Text,,"1.79.0.0:
 
 1.65.1.0:
 - Исправлена ошибка вычисления комиссии сети. Эта ошибка всегда делала комиссию сети минимальной, что могло приводить к задержке в обработке транзакций.
-- Отключена возможность покупки биткоин у Indacoin
-
-1.64.1.0:
-- Добавлено описание рисков использования кошельков в приложении.
-- Обновлена начальная страница.
-- Для разрешения спорных ситуаций улучшено отслеживание транзакций Indacoin.
-"
+- Отключена возможность покупки биткоин у Indacoin"
 Title,4,Text,,pt.BTC,pt.BTC,pt.BTC
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,

@@ -1070,6 +1070,38 @@
           <source>The mnemonic can't be empty.</source>
           <target state="final">Мнемоника не может быть пустой.</target>
         </trans-unit>
+        <trans-unit id="SendBetweenWalletsTitle" translate="yes" xml:space="preserve">
+          <source>Send between wallets</source>
+          <target state="final">Отправить между кошельками</target>
+        </trans-unit>
+        <trans-unit id="TargetPublicAddressTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Target public address:</source>
+          <target state="final">Публичный адрес назначения:</target>
+        </trans-unit>
+        <trans-unit id="SendCoinsFromAnotherWallet" translate="yes" xml:space="preserve">
+          <source>From existing wallet</source>
+          <target state="final">Из существующего кошелька</target>
+        </trans-unit>
+        <trans-unit id="SendCoinsFromAnotherWalletDesc" translate="yes" xml:space="preserve">
+          <source>Send coins between wallets</source>
+          <target state="final">Отправить монеты между кошельками</target>
+        </trans-unit>
+        <trans-unit id="SelecteTargetWallet" translate="yes" xml:space="preserve">
+          <source>Select target wallet</source>
+          <target state="final">Выберите целевой кошелёк</target>
+        </trans-unit>
+        <trans-unit id="ScanQrCodeTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Scan QR code</source>
+          <target state="final">QR код</target>
+        </trans-unit>
+        <trans-unit id="SendBetweenWalletsTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Send between wallets</source>
+          <target state="final">Между кошельками</target>
+        </trans-unit>
+        <trans-unit id="AutoStaging" translate="yes" xml:space="preserve">
+          <source>Prerelease stage</source>
+          <target state="final">Предварительная версия</target>
+        </trans-unit>
       </group>
     </body>
   </file>

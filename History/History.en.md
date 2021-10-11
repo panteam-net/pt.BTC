@@ -1,3 +1,8 @@
+1.80.0.0:
+- Added send between wallets page.
+- Fixed frozen balance bug.
+- Fixed opening advanced settings page crash.
+
 1.79.0.0:
 - Fixed bugs.
 

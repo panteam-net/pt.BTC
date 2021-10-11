@@ -1,0 +1,12 @@
+<en-US>
+1.80.0.0:
+- Added send between wallets page.
+- Fixed frozen balance bug.
+- Fixed opening advanced settings page crash.
+</en-US>
+<ru-RU>
+1.80.0.0:
+- Добавлена страница отправки между кошельками.
+- Исправлена ошибка с замороженным балансом.
+- Исправлена ошибка при открытии страницы дополнительных настроек.
+</ru-RU>
