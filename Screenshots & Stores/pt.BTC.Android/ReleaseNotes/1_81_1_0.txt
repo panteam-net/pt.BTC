@@ -1,0 +1,12 @@
+<en-US>
+1.81.0.0:
+- Added accumulated sum column to the coins page.
+- Added removing wallet option.
+- Fixed transactions order bug.
+</en-US>
+<ru-RU>
+1.81.0.0:
+- Добавлен столбец накопленной суммы на страницу монет.
+- Добавлена опция удаления кошелька.
+- Исправлена ошибка порядка сортировки транзакций.
+</ru-RU>

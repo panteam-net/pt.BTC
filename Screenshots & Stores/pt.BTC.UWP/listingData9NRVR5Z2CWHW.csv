@@ -33,7 +33,12 @@ More is coming.","Безопасный кросс-платформенный к�
 - Segwit (Bech32).
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.80.0.0:
+ReleaseNotes,3,Text,,"1.81.0.0:
+- Added accumulated sum column to the coins page.
+- Added removing wallet option.
+- Fixed transactions order bug.
+
+1.80.0.0:
 - Added send between wallets page.
 - Fixed frozen balance bug.
 - Fixed opening advanced settings page crash.
@@ -83,11 +88,12 @@ ReleaseNotes,3,Text,,"1.80.0.0:
 
 1.66.1.0:
 - Sending result page added.
-- Selecting backend service bug fixed.
+- Selecting backend service bug fixed.","1.81.0.0:
+- Added accumulated sum column to the coins page.
+- Added removing wallet option.
+- Fixed transactions order bug.
 
-1.65.1.0:
-- Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
-- Buying from Indacoin disabled. ","1.80.0.0:
+1.80.0.0:
 - Added send between wallets page.
 - Fixed frozen balance bug.
 - Fixed opening advanced settings page crash.
@@ -137,11 +143,12 @@ ReleaseNotes,3,Text,,"1.80.0.0:
 
 1.66.1.0:
 - Sending result page added.
-- Selecting backend service bug fixed.
+- Selecting backend service bug fixed.","1.81.0.0:
+- Добавлен столбец накопленной суммы на страницу монет.
+- Добавлена опция удаления кошелька.
+- Исправлена ошибка порядка сортировки транзакций.
 
-1.65.1.0:
-- Network fee bug fixed. This bug always made network fee minimal that could cause delaying of transactions.
-- Buying from Indacoin disabled. ","1.80.0.0:
+1.80.0.0:
 - Добавлена страница отправки между кошельками.
 - Исправлена ошибка с замороженным балансом.
 - Исправлена ошибка при открытии страницы дополнительных настроек.
@@ -191,11 +198,7 @@ ReleaseNotes,3,Text,,"1.80.0.0:
 
 1.66.1.0:
 - Добавлена страница результата отправки.
-- Исправлена ошибка выбора биткоин сервиса.
-
-1.65.1.0:
-- Исправлена ошибка вычисления комиссии сети. Эта ошибка всегда делала комиссию сети минимальной, что могло приводить к задержке в обработке транзакций.
-- Отключена возможность покупки биткоин у Indacoin"
+- Исправлена ошибка выбора биткоин сервиса."
 Title,4,Text,,pt.BTC,pt.BTC,pt.BTC
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,

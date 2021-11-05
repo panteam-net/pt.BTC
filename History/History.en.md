@@ -1,3 +1,8 @@
+1.81.0.0:
+- Added accumulated sum column to the coins page.
+- Added removing wallet option.
+- Fixed transactions order bug.
+
 1.80.0.0:
 - Added send between wallets page.
 - Fixed frozen balance bug.
