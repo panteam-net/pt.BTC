@@ -1,3 +1,7 @@
+1.82.0.0:
+- Improved performance on getting transactions.
+- Fixed bugs.
+
 1.81.0.0:
 - Added accumulated sum column to the coins page.
 - Added removing wallet option.

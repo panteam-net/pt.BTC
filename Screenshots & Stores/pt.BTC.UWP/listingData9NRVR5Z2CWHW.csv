@@ -33,7 +33,11 @@ More is coming.","Безопасный кросс-платформенный к�
 - Segwit (Bech32).
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.81.0.0:
+ReleaseNotes,3,Text,,"1.82.0.0:
+- Improved performance on getting transactions.
+- Fixed bugs.
+
+1.81.0.0:
 - Added accumulated sum column to the coins page.
 - Added removing wallet option.
 - Fixed transactions order bug.
@@ -84,11 +88,11 @@ ReleaseNotes,3,Text,,"1.81.0.0:
 - Regular payments added.
 
 1.67.1.0:
-- Calendar page added.
+- Calendar page added.","1.82.0.0:
+- Improved performance on getting transactions.
+- Fixed bugs.
 
-1.66.1.0:
-- Sending result page added.
-- Selecting backend service bug fixed.","1.81.0.0:
+1.81.0.0:
 - Added accumulated sum column to the coins page.
 - Added removing wallet option.
 - Fixed transactions order bug.
@@ -139,11 +143,11 @@ ReleaseNotes,3,Text,,"1.81.0.0:
 - Regular payments added.
 
 1.67.1.0:
-- Calendar page added.
+- Calendar page added.","1.82.0.0:
+- Улучшена производительность при получении транзакций.
+- Исправлены ошибки.
 
-1.66.1.0:
-- Sending result page added.
-- Selecting backend service bug fixed.","1.81.0.0:
+1.81.0.0:
 - Добавлен столбец накопленной суммы на страницу монет.
 - Добавлена опция удаления кошелька.
 - Исправлена ошибка порядка сортировки транзакций.
@@ -194,11 +198,7 @@ ReleaseNotes,3,Text,,"1.81.0.0:
 - Добавлена регулярная оплата.
 
 1.67.1.0:
-- Добавлена страница календаря.
-
-1.66.1.0:
-- Добавлена страница результата отправки.
-- Исправлена ошибка выбора биткоин сервиса."
+- Добавлена страница календаря."
 Title,4,Text,,pt.BTC,pt.BTC,pt.BTC
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,

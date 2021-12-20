@@ -1,0 +1,10 @@
+<en-US>
+1.82.0.0:
+- Improved performance on getting transactions.
+- Fixed bugs.
+</en-US>
+<ru-RU>
+1.82.0.0:
+- Улучшена производительность при получении транзакций.
+- Исправлены ошибки.
+</ru-RU>

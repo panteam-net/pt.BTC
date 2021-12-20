@@ -4,7 +4,7 @@ This is a cross platform bitcoin wallet. Our mission is to make bitcoin user fri
 ## Installation
 The project is under development. It will be available in the stores as soon as possible. For now you can join our testing program.
 
-|Product       |Beta      |
+|Product       |Beta       |
 |--------------|-----------|
 |pt.BTC.Android|<a href='https://play.google.com/store/apps/details?id=net.panteam.pt.BTC&utm_source=Github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1&utm_source=badge&utm_campaign=github&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en/badges/images/generic/en_badge_web_generic.png' height='60'/></a>|
 |pt.BTC.iOS|<a href='https://testflight.apple.com/join/0iUXrCZh'>Join us on TestFlight</a>|
