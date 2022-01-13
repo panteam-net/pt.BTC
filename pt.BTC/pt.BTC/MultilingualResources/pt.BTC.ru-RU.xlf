@@ -991,6 +991,50 @@
           <source>Prerelease stage</source>
           <target state="final">Предварительная версия</target>
         </trans-unit>
+        <trans-unit id="WalletRestoreTip" translate="yes" xml:space="preserve">
+          <source>You can find all the previous wallets on the backups page.</source>
+          <target state="final">Вы можете найти все предыдущие кошельки на странице резервных копий.</target>
+        </trans-unit>
+        <trans-unit id="AccumulatedSum" translate="yes" xml:space="preserve">
+          <source>Accumulated sum</source>
+          <target state="final">Накопленная сумма</target>
+        </trans-unit>
+        <trans-unit id="Telemetry" translate="yes" xml:space="preserve">
+          <source>Telemetry</source>
+          <target state="final">Телеметрия</target>
+        </trans-unit>
+        <trans-unit id="TelemetryDescription" translate="yes" xml:space="preserve">
+          <source>Logs, improve the app by sharing usage info</source>
+          <target state="final">Логи, информация об использовании приложения</target>
+        </trans-unit>
+        <trans-unit id="ShareUsageStatistic" translate="yes" xml:space="preserve">
+          <source>Share log:</source>
+          <target state="final">Отправлять лог:</target>
+        </trans-unit>
+        <trans-unit id="ShareUsageStatisticDescription" translate="yes" xml:space="preserve">
+          <source>Send anonymous usage data to improve the app.</source>
+          <target state="final">Отправляйте анонимные данные об использовании для улучшения приложения.</target>
+        </trans-unit>
+        <trans-unit id="UserId" translate="yes" xml:space="preserve">
+          <source>User ID:</source>
+          <target state="final">Идентификатор пользователя:</target>
+        </trans-unit>
+        <trans-unit id="UserIdDescription" translate="yes" xml:space="preserve">
+          <source>Share your user ID with support to find your usage data on the servers. You can change your user ID at any time to make sure that it's anonymous.</source>
+          <target state="final">Поделитесь своим идентификатором пользователя со службой поддержки, чтобы найти данные о вашем использовании на серверах. Вы можете изменить свой идентификатор пользователя в любое время, чтобы убедиться, что он анонимный.</target>
+        </trans-unit>
+        <trans-unit id="UserIdRegenerate" translate="yes" xml:space="preserve">
+          <source>Change user ID</source>
+          <target state="final">Изменить идентификатор пользователя</target>
+        </trans-unit>
+        <trans-unit id="LogsLabel" translate="yes" xml:space="preserve">
+          <source>Logs:</source>
+          <target state="final">Логи:</target>
+        </trans-unit>
+        <trans-unit id="ShareLog" translate="yes" xml:space="preserve">
+          <source>Share log</source>
+          <target state="final">Отправить лог</target>
+        </trans-unit>
       </group>
     </body>
   </file>

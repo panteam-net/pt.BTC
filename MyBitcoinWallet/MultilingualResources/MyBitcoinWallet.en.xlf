@@ -1102,6 +1102,50 @@
           <source>Prerelease stage</source>
           <target state="final">Prerelease stage</target>
         </trans-unit>
+        <trans-unit id="WalletRestoreTip" translate="yes" xml:space="preserve">
+          <source>You can find all the previous wallets on the backups page.</source>
+          <target state="final">You can find all the previous wallets on the backups page.</target>
+        </trans-unit>
+        <trans-unit id="AccumulatedSumDataGridColumnHeader.HeaderText" translate="yes" xml:space="preserve">
+          <source>Accumulated sum</source>
+          <target state="final">Accumulated sum</target>
+        </trans-unit>
+        <trans-unit id="Telemetry" translate="yes" xml:space="preserve">
+          <source>Telemetry</source>
+          <target state="final">Telemetry</target>
+        </trans-unit>
+        <trans-unit id="TelemetryDescription" translate="yes" xml:space="preserve">
+          <source>Logs, improve the app by sharing usage info</source>
+          <target state="final">Logs, improve the app by sharing usage info</target>
+        </trans-unit>
+        <trans-unit id="ShareUsageStatisticDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Send anonymous usage data to improve the app.</source>
+          <target state="final">Send anonymous usage data to improve the app.</target>
+        </trans-unit>
+        <trans-unit id="ShareUsageStatisticTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Share log:</source>
+          <target state="final">Share log:</target>
+        </trans-unit>
+        <trans-unit id="UserIdDescriptionTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Share your user ID with support to find your usage data on the servers. You can change your user ID at any time to make sure that it's anonymous.</source>
+          <target state="final">Share your user ID with support to find your usage data on the servers. You can change your user ID at any time to make sure that it's anonymous.</target>
+        </trans-unit>
+        <trans-unit id="UserIdTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>User ID:</source>
+          <target state="final">User ID:</target>
+        </trans-unit>
+        <trans-unit id="UserIdRegenerateTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Change user ID</source>
+          <target state="final">Change user ID</target>
+        </trans-unit>
+        <trans-unit id="LogTextBlock.Text" translate="yes" xml:space="preserve">
+          <source>Log:</source>
+          <target state="final">Log:</target>
+        </trans-unit>
+        <trans-unit id="ShareLog" translate="yes" xml:space="preserve">
+          <source>Share log</source>
+          <target state="final">Share log</target>
+        </trans-unit>
       </group>
     </body>
   </file>

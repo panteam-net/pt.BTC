@@ -1,0 +1,8 @@
+<en-US>
+1.83.0.0:
+- Added application log & telemetry management.
+</en-US>
+<ru-RU>
+1.83.0.0:
+- Добавлено управление журналом приложения и телеметрией.
+</ru-RU>

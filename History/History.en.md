@@ -1,3 +1,6 @@
+1.83.0.0:
+- Added application log & telemetry management.
+
 1.82.0.0:
 - Improved performance on getting transactions.
 - Fixed bugs.
