@@ -1,0 +1,8 @@
+<en-US>
+1.84.0.0:
+- Added option to share public addresses to a CSV file.
+</en-US>
+<ru-RU>
+1.84.0.0:
+- Добавлена возможность делиться общедоступными адресами в CSV-файле.
+</ru-RU>

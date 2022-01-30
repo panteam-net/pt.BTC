@@ -1034,6 +1034,10 @@
           <source>Share log</source>
           <target state="final">Share log</target>
         </trans-unit>
+        <trans-unit id="Share" translate="yes" xml:space="preserve">
+          <source>Share</source>
+          <target state="final">Share...</target>
+        </trans-unit>
       </group>
     </body>
   </file>

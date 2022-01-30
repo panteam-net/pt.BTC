@@ -1,3 +1,6 @@
+1.84.0.0:
+- Added option to share public addresses to a CSV file.
+
 1.83.0.0:
 - Added application log & telemetry management.
 

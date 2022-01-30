@@ -1146,6 +1146,14 @@
           <source>Share log</source>
           <target state="final">Отправить лог</target>
         </trans-unit>
+        <trans-unit id="ShareLogFileButton.Label" translate="yes" xml:space="preserve">
+          <source>Share log...</source>
+          <target state="final">Отправить лог...</target>
+        </trans-unit>
+        <trans-unit id="ShareAppBarButton.Label" translate="yes" xml:space="preserve">
+          <source>Share...</source>
+          <target state="final">Отправить...</target>
+        </trans-unit>
       </group>
     </body>
   </file>
