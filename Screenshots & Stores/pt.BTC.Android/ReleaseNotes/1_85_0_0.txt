@@ -1,0 +1,10 @@
+<en-US>
+1.85.0.0:
+- Added BIP32 address for tracking.
+- Added exporting root public key WIF (BIP32).
+</en-US>
+<ru-RU>
+1.85.0.0:
+- Добавлена поддержка отслеживания кошельков в формате BIP32.
+- Добавлена поддержка экспорта публичкого ключа кошелька в формате WIF (BIP32).
+</ru-RU>

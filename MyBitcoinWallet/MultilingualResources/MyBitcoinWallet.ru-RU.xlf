@@ -471,12 +471,12 @@
           <target state="final">Bech32 хеш публичного ключа или хеш скрипта</target>
         </trans-unit>
         <trans-unit id="BIP32" translate="yes" xml:space="preserve">
-          <source>BIP32 pubkey (derived addresses are not supported yet)</source>
-          <target state="final">BIP32 публичный ключ (пока не поддерживается отслеживание активов с производных адресов)</target>
+          <source>BIP32 pubkey</source>
+          <target state="final">BIP32 публичный ключ</target>
         </trans-unit>
         <trans-unit id="BIP32_PrivateKey" translate="yes" xml:space="preserve">
-          <source>BIP32 private key (derived addresses are not supported yet)</source>
-          <target state="final">BIP32 закрытый ключ (пока не поддерживается отслеживание активов с производных адресов)</target>
+          <source>BIP32 private key</source>
+          <target state="final">BIP32 закрытый ключ</target>
         </trans-unit>
         <trans-unit id="CompressedPublicKey" translate="yes" xml:space="preserve">
           <source>Private key (WIF, compressed pubkey)</source>
@@ -1153,6 +1153,10 @@
         <trans-unit id="ShareAppBarButton.Label" translate="yes" xml:space="preserve">
           <source>Share...</source>
           <target state="final">Отправить...</target>
+        </trans-unit>
+        <trans-unit id="WalletRootPublicWifDescription" translate="yes" xml:space="preserve">
+          <source>Public root WIF (wallet import format) allows to recreate all the public addresses for the wallet but doesn't let spending.</source>
+          <target state="final">Общедоступный корневой WIF (формат импорта кошелька) позволяет воссоздать все общедоступные адреса для кошелька, но не позволяет тратить.</target>
         </trans-unit>
       </group>
     </body>

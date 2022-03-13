@@ -471,12 +471,12 @@
           <target state="final">Bech32 pubkey hash or script hash</target>
         </trans-unit>
         <trans-unit id="BIP32" translate="yes" xml:space="preserve">
-          <source>BIP32 pubkey (derived addresses are not supported yet)</source>
-          <target state="final">BIP32 pubkey (derived addresses are not supported yet)</target>
+          <source>BIP32 pubkey</source>
+          <target state="final">BIP32 pubkey</target>
         </trans-unit>
         <trans-unit id="BIP32_PrivateKey" translate="yes" xml:space="preserve">
-          <source>BIP32 private key (derived addresses are not supported yet)</source>
-          <target state="final">BIP32 private key (derived addresses are not supported yet)</target>
+          <source>BIP32 private key</source>
+          <target state="final">BIP32 private key</target>
         </trans-unit>
         <trans-unit id="CompressedPublicKey" translate="yes" xml:space="preserve">
           <source>Private key (WIF, compressed pubkey)</source>
@@ -1153,6 +1153,10 @@
         <trans-unit id="ShareAppBarButton.Label" translate="yes" xml:space="preserve">
           <source>Share...</source>
           <target state="final">Share...</target>
+        </trans-unit>
+        <trans-unit id="WalletRootPublicWifDescription" translate="yes" xml:space="preserve">
+          <source>Public root WIF (wallet import format) allows to recreate all the public addresses for the wallet but doesn't let spending.</source>
+          <target state="final">Public root WIF (wallet import format) allows to recreate all the public addresses for the wallet but doesn't let spending.</target>
         </trans-unit>
       </group>
     </body>

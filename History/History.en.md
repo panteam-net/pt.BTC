@@ -1,3 +1,7 @@
+1.85.0.0:
+- Added BIP32 address for tracking.
+- Added exporting root public key WIF (BIP32).
+
 1.84.0.0:
 - Added option to share public addresses to a CSV file.
 
