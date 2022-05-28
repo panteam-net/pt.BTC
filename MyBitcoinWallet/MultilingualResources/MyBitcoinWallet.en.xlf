@@ -1158,6 +1158,21 @@
           <source>Public root WIF (wallet import format) allows to recreate all the public addresses for the wallet but doesn't let spending.</source>
           <target state="final">Public root WIF (wallet import format) allows to recreate all the public addresses for the wallet but doesn't let spending.</target>
         </trans-unit>
+<<<<<<< HEAD
+        <trans-unit id="CopyToClipboardButton.Text" translate="yes" xml:space="preserve">
+          <source>Copy to clipboard</source>
+          <target state="final">Copy to clipboard</target>
+        </trans-unit>
+        <trans-unit id="EndpointProduction1" translate="yes" xml:space="preserve">
+          <source>Release stage 1</source>
+          <target state="final">Release 1</target>
+        </trans-unit>
+        <trans-unit id="AzureProduction1" translate="yes" xml:space="preserve">
+          <source>Azure 1</source>
+          <target state="final">Azure 1</target>
+        </trans-unit>
+=======
+>>>>>>> master
       </group>
     </body>
   </file>

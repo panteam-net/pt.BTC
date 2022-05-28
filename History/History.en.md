@@ -1,3 +1,6 @@
+1.86.0.0:
+- Improved blockchain interop reliability.
+
 1.85.0.0:
 - Added BIP32 address for tracking.
 - Added exporting root public key WIF (BIP32).
