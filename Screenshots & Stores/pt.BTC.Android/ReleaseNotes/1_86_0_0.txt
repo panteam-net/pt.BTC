@@ -1,5 +1,5 @@
 <en-US>
-1.85.0.0:
+1.86.0.0:
 - Improved blockchain interop reliability.
 </en-US>
 <ru-RU>
