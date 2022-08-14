@@ -1,3 +1,6 @@
+1.87.0.0:
+- Fixed some connection & UI bugs.
+
 1.86.0.0:
 - Improved blockchain interop reliability.
 
