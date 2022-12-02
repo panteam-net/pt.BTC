@@ -1,3 +1,6 @@
+1.88.0.0:
+- Improved check unspent coins algorithm.
+
 1.87.0.0:
 - Fixed some connection & UI bugs.
 

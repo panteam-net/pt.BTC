@@ -1,5 +1,16 @@
-﻿Field,ID,Type (Type),default,en-us,en,ru-ru
-Description,2,Text,,?,"Secure cross-platform bitcoin wallet
+Field,ID,Type (Type),default,en-us,en,ru-ru
+Description,2,Text,,"Secure cross-platform bitcoin wallet
+- No registration for using.
+- Off-line keys generation.
+- App's data are encrypted on disk and in memory.
+- Bitcoin payment protocol support.
+- QR code generation & scanning.
+- Network fee selection.
+- Importing & exporting.
+- Main & Test networks are supported.
+- Segwit (Bech32).
+
+More is coming.","Secure cross-platform bitcoin wallet
 - No registration for using.
 - Off-line keys generation.
 - App's data are encrypted on disk and in memory.
@@ -22,7 +33,10 @@ More is coming.","Безопасный кросс-платформенный к�
 - Segwit (Bech32).
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.87.0.0:
+ReleaseNotes,3,Text,,"1.88.0.0:
+- Improved check unspent coins algorithm.
+
+1.87.0.0:
 - Fixed some connection & UI bugs.
 
 1.86.0.0:
@@ -67,10 +81,10 @@ ReleaseNotes,3,Text,,"1.87.0.0:
 - Added BIP44 support.
 
 1.75.0.0:
-- Added cache to improve app's responsiveness.
+- Added cache to improve app's responsiveness.","1.88.0.0:
+- Improved check unspent coins algorithm.
 
-1.74.0.0:
-- Addresses page added.","1.87.0.0:
+1.87.0.0:
 - Fixed some connection & UI bugs.
 
 1.86.0.0:
@@ -115,10 +129,10 @@ ReleaseNotes,3,Text,,"1.87.0.0:
 - Added BIP44 support.
 
 1.75.0.0:
-- Added cache to improve app's responsiveness.
+- Added cache to improve app's responsiveness.","1.88.0.0:
+- Улучшен алгоритм проверки неизрасходованных монет.
 
-1.74.0.0:
-- Addresses page added.","1.87.0.0:
+1.87.0.0:
 - Исправлены некоторые ошибки подключения и пользовательского интерфейса.
 
 1.86.0.0:
@@ -163,10 +177,7 @@ ReleaseNotes,3,Text,,"1.87.0.0:
 - Добавлена поддержка BIP44.
 
 1.75.0.0:
-- Добавлен кэш для улучшения отзывчивости приложения.
-
-1.74.0.0:
-Добавлена страница адресов."
+- Добавлен кэш для улучшения отзывчивости приложения."
 Title,4,Text,,pt.BTC,pt.BTC,pt.BTC
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,
