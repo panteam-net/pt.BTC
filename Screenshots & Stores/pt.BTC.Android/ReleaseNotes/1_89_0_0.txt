@@ -1,0 +1,8 @@
+<en-US>
+1.89.0.0:
+- Added more endpoints for connection stability.
+</en-US>
+<ru-RU>
+1.89.0.0:
+- Добавлены точки подключения для повышения стабильности соединения с блокчейн.
+</ru-RU>

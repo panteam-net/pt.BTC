@@ -1,3 +1,6 @@
+1.89.0.0:
+- Added more endpoints for connection stability.
+
 1.88.0.0:
 - Improved check unspent coins algorithm.
 

@@ -33,7 +33,10 @@ More is coming.","Безопасный кросс-платформенный к�
 - Segwit (Bech32).
 
 Дальше - больше."
-ReleaseNotes,3,Text,,"1.88.0.0:
+ReleaseNotes,3,Text,,"1.89.0.0: 
+- Added more endpoints for connection stability.
+
+1.88.0.0:
 - Improved check unspent coins algorithm.
 
 1.87.0.0:
@@ -78,10 +81,10 @@ ReleaseNotes,3,Text,,"1.88.0.0:
 
 1.76.0.0:
 - Added wallet options auto-detection.
-- Added BIP44 support.
+- Added BIP44 support.","1.89.0.0: 
+- Added more endpoints for connection stability.
 
-1.75.0.0:
-- Added cache to improve app's responsiveness.","1.88.0.0:
+1.88.0.0:
 - Improved check unspent coins algorithm.
 
 1.87.0.0:
@@ -126,10 +129,10 @@ ReleaseNotes,3,Text,,"1.88.0.0:
 
 1.76.0.0:
 - Added wallet options auto-detection.
-- Added BIP44 support.
+- Added BIP44 support.","1.89.0.0:
+- Добавлены точки подключения для повышения стабильности соединения с блокчейн.
 
-1.75.0.0:
-- Added cache to improve app's responsiveness.","1.88.0.0:
+1.88.0.0:
 - Улучшен алгоритм проверки неизрасходованных монет.
 
 1.87.0.0:
@@ -174,10 +177,7 @@ ReleaseNotes,3,Text,,"1.88.0.0:
 
 1.76.0.0:
 - Добавлено автоматическое определение параметров кошелька.
-- Добавлена поддержка BIP44.
-
-1.75.0.0:
-- Добавлен кэш для улучшения отзывчивости приложения."
+- Добавлена поддержка BIP44."
 Title,4,Text,,pt.BTC,pt.BTC,pt.BTC
 ShortTitle,5,Text,,,,
 SortTitle,6,Text,,,,
